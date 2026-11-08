@@ -1,0 +1,11 @@
+nursery_id,nursery_name,city,country,area,capacity,monthly_rent_aed,open_date
+N01,Little Dune Marina,Dubai,UAE,Dubai Marina,120,192000,2019-09-01
+N02,Olive Branch JVC,Dubai,UAE,Jumeirah Village Circle,140,62000,2018-09-01
+N03,Acorn Al Barsha,Dubai,UAE,Al Barsha,110,58000,2017-09-01
+N04,Pebble Ranches,Dubai,UAE,Arabian Ranches,100,70000,2020-01-15
+N05,Sprout Mirdif,Dubai,UAE,Mirdif,125,55000,2016-09-01
+N06,Meadow Khalifa City,Abu Dhabi,UAE,Khalifa City,120,52000,2018-01-10
+N07,Starfish Yas,Abu Dhabi,UAE,Yas Island,100,66000,2021-09-01
+N08,Maple West Bay,Doha,Qatar,West Bay,110,74000,2019-01-20
+N09,Kite Al Waab,Doha,Qatar,Al Waab,105,54000,2020-09-01
+N10,Lantern Lusail,Doha,Qatar,Lusail,90,48000,2024-09-01

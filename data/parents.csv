@@ -1,0 +1,1406 @@
+parent_id,nationality,employer,employer_sector,residential_area
+P00001,British,Zenith Tech,Tech & Telecom,Palm Jumeirah
+P00002,Indian,Gulf Crescent Bank,Banking & Finance,Palm Jumeirah
+P00003,Jordanian,Self-employed,Self-employed / Other,Dubai Media City
+P00004,Jordanian,MERIDIAN BANK,Banking & Finance,Palm Jumeirah
+P00005,Jordanian,Pinnacle Properties,Real Estate & Construction,Dubai Marina
+P00006,Filipino,Crescent Logistics,Aviation & Logistics,Dubai Marina
+P00007,Egyptian,Orbit Telecom,Tech & Telecom,JBR
+P00008,Filipino,Souk & Co Retail,Hospitality & Retail,JBR
+P00009,Pakistani,,Banking & Finance,Palm Jumeirah
+P00010,Egyptian,Zenith Tech,Tech & Telecom,Marina
+P00011,Lebanese,Souk & Co Retail,Hospitality & Retail,Dubai Marina
+P00012,British,Zenith Tech,Tech & Telecom,Dubai Marina
+P00013,Indian,Cedar Medical Centre,Healthcare,Dubai Marina
+P00014,Emirati,Harbour Capital,Banking & Finance,Dubai Marina
+P00015,UK,Education Authority,Government & Education,Dubai Marina
+P00016,Filipino,Oasis Energy,Energy,Dubai Marina
+P00017,Other,Skyline Aviation,Aviation & Logistics,JLT
+P00018,Egyptian,Oasis Energy,Energy,JBR
+P00019,British,Palm Health Group,Healthcare,Palm Jumeirah
+P00020,Jordanian,self-employed,Self-employed / Other,JBR
+P00021,Indian,Harbour Capital,Banking & Finance,JLT
+P00022,Other,Desert Rose Hospitality,Hospitality & Retail,JBR
+P00023,Russian,Cedar Medical Centre,Healthcare,Dubai Marina
+P00024,Jordanian,Souk & Co Retail,Hospitality & Retail,JLT
+P00025,Indian,Zenith Tech,Tech & Telecom,Dubai Marina
+P00026,Indian,Desert Rose Hospitality,Hospitality & Retail,Dubai Marina
+P00027,Indian,Souk & Co Retail,Hospitality & Retail,JLT
+P00028,Emirati,Desert Rose Hospitality,Hospitality & Retail,JLT
+P00029,Jordanian,Souk & Co Retail,Hospitality & Retail,Al Sufouh
+P00030,British,Harbour Capital,Banking & Finance,JLT
+P00031,Lebanese,Skyline Aviation,Aviation & Logistics,Dubai Marina
+P00032,Other,Cedar Medical Centre,Healthcare,JLT
+P00033,Pakistani,Cedar Medical Centre,Healthcare,Dubai Marina
+P00034,Other,Zenith Tech,Tech & Telecom,JLT
+P00035,Indian,Zenith Tech,Tech & Telecom,Dubai Marina
+P00036,Indian,Crescent Logistics,Aviation & Logistics,JLT
+P00037,Jordanian,Desert Rose Hospitality,Hospitality & Retail,JLT
+P00038,British,Government Entity,Government & Education,Dubai Marina
+P00039,Filipino,Cedar Medical Centre,Healthcare,JBR
+P00040,Egyptian,Gulf Crescent Bank,Banking & Finance,Palm Jumeirah
+P00041,Indian,Harbour Capital,Banking & Finance,JLT
+P00042,Indian,Palm Health Group,Healthcare,JBR
+P00043,Jordanian,Gulf Crescent Bank,Banking & Finance,Dubai Marina
+P00044,Emirati,Oasis Energy,Energy,Dubai Marina
+P00045,Indian,Gulf Crescent Bank,Banking & Finance,Dubai Marina
+P00046,Pakistani,Orbit Telecom,Tech & Telecom,JLT
+P00047,Filipino,Skyline Aviation,Aviation & Logistics,Dubai Marina
+P00048,British,Palm Health Group,Healthcare,Palm Jumeirah
+P00049,Lebanese,Meridian Bank,Banking & Finance,JLT
+P00050,British,Pinnacle Properties,Real Estate & Construction,Dubai Marina
+P00051,British,Gulf Crescent Bank,Banking & Finance,JBR
+P00052,Emirati,Pinnacle Properties,Real Estate & Construction,Dubai Marina
+P00053,Indian,Crescent Logistics,Aviation & Logistics,JLT
+P00054,Pakistani,Souk & Co Retail,Hospitality & Retail,Dubai Marina
+P00055,Indian,Palm Health Group,Healthcare,Al Sufouh
+P00056,Indian,Meridian Bank,Banking & Finance,Palm Jumeirah
+P00057,Emirati,oasis energy,Energy,JBR
+P00058,Filipino,Cedar Medical Centre,Healthcare,Dubai Marina
+P00059,Emirati,Self-employed,Self-employed / Other,Dubai Marina
+P00060,british,Meridian Bank,Banking & Finance,
+P00061,Indian,Gulf Crescent Bank,Banking & Finance,Dubai Marina
+P00062,Russian,,Hospitality & Retail,Dubai Marina
+P00063,Pakistani,,Energy,Dubai Marina
+P00064,Indian,,Aviation & Logistics,
+P00065,British,Education Authority,Government & Education,Palm Jumeirah
+P00066,Russian,Pinnacle Properties,Real Estate & Construction,JBR
+P00067,British,Cedar Medical Centre,Healthcare,JBR
+P00068,Egyptian,Zenith Tech,Tech & Telecom,JBR
+P00069,Indian,Palm Health Group,Healthcare,JBR
+P00070,India,Self-employed,Self-employed / Other,Palm Jumeirah
+P00071,British,Self-employed,Self-employed / Other,JLT
+P00072,Filipino,Souk & Co Retail,Hospitality & Retail,JLT
+P00073,Pakistani,Zenith Tech,Tech & Telecom,Dubai Marina
+P00074,Indian,Meridian Bank,Banking & Finance,Dubai Marina
+P00075,Pakistani,Self-employed,Self-employed / Other,Dubai Marina
+P00076,Other,Government Entity,Government & Education,JBR
+P00077,Indian,Self-employed,Self-employed / Other,Marina
+P00078,Jordanian,Desert Rose Hospitality,Hospitality & Retail,JBR
+P00079,Filipino,Education Authority,Government & Education,JLT
+P00080,Pakistani,Desert Rose Hospitality,Hospitality & Retail,JLT
+P00081,Other,Gulf Crescent Bank,Banking & Finance,Dubai Media City
+P00082,Indian,Self-employed,Self-employed / Other,JBR
+P00083,Indian,EDUCATION AUTHORITY,Government & Education,Dubai Marina
+P00084,British,Zenith Tech,Tech & Telecom,Al Sufouh
+P00085,Pakistani,Orbit Telecom,Tech & Telecom,JLT
+P00086,Filipino,Orbit Telecom,Tech & Telecom,Marina
+P00087,British,Oasis Developments,Real Estate & Construction,JLT
+P00088,British,Palm Health Group,Healthcare,Dubai Sports City
+P00089,Indian,harbour capital,Banking & Finance,Jumeirah Village Triangle
+P00090,Indian,Oasis Developments,Real Estate & Construction,Dubai Sports City
+P00091,Other,Zenith Tech,Tech & Telecom,Al Barsha South
+P00092,British,Palm Health Group,Healthcare,Jumeirah Village Circle
+P00093,Emirati,Skyline Aviation,Aviation & Logistics,Motor City
+P00094,Russian,Skyline Aviation,Aviation & Logistics,Arjan
+P00095,Pakistani,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Triangle
+P00096,British,Oasis Energy,Energy,Jumeirah Village Triangle
+P00097,Lebanese,Palm Health Group,Healthcare,Jumeirah Village Triangle
+P00098,British,Orbit Telecom,Tech & Telecom,Dubai Sports City
+P00099,Other,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Circle
+P00100,Indian,Cedar Medical Centre,Healthcare,Jumeirah Village Circle
+P00101,Russian,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00102,Indian,Cedar Medical Centre,Healthcare,Jumeirah Village Circle
+P00103,British,Crescent Logistics,Aviation & Logistics,Motor City
+P00104,British,Meridian Bank,Banking & Finance,Jumeirah Village Circle
+P00105,India,Self-employed,Self-employed / Other,Motor City
+P00106,Indian,Cedar Medical Centre,Healthcare,Motor City
+P00107,Philippines,Meridian Bank,Banking & Finance,Jumeirah Village Circle
+P00108,Lebanese,Self-employed,Self-employed / Other,Jumeirah Village Triangle
+P00109,Other,Oasis Energy,Energy,Dubai Sports City
+P00110,Egyptian,Oasis Developments,Real Estate & Construction,Al Barsha South
+P00111,Indian,Zenith Tech,Tech & Telecom,Jumeirah Village Circle
+P00112,Indian,Pinnacle Properties,Real Estate & Construction,Jumeirah Village Circle
+P00113,British,Oasis Developments,Real Estate & Construction,Jumeirah Village Triangle
+P00114,Other,Skyline Aviation,Aviation & Logistics,Dubai Sports City
+P00115,Indian,Orbit Telecom,Tech & Telecom,Dubai Sports City
+P00116,Emirati,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Triangle
+P00117,Emirati,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Triangle
+P00118,Indian,Self-employed,Self-employed / Other,Jumeirah Village Triangle
+P00119,British,ZENITH TECH,Tech & Telecom,Jumeirah Village Circle
+P00120,Lebanese,Zenith Tech,Tech & Telecom,Dubai Sports City
+P00121,Indian,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00122,Indian,Pinnacle Properties,Real Estate & Construction,Al Barsha South
+P00123,Emirati,Orbit Telecom,Tech & Telecom,Jumeirah Village Triangle
+P00124,Other,Self-employed,Self-employed / Other,Motor City
+P00125,Russian,  Skyline Aviation ,Aviation & Logistics,Jumeirah Village Triangle
+P00126,UAE,  Oasis Developments ,Real Estate & Construction,Dubai Sports City
+P00127,Indian,Oasis Energy,Energy,Jumeirah Village Triangle
+P00128,Indian,Crescent Logistics,Aviation & Logistics,Dubai Sports City
+P00129,Pakistani,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00130,Indian,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Triangle
+P00131,Jordanian,Pinnacle Properties,Real Estate & Construction,Jumeirah Village Triangle
+P00132,British,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Triangle
+P00133,Filipino,Zenith Tech,Tech & Telecom,Jumeirah Village Triangle
+P00134,emirati,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00135,Emirati,Zenith Tech,Tech & Telecom,Jumeirah Village Circle
+P00136,Other,Cedar Medical Centre,Healthcare,Jumeirah Village Circle
+P00137,Other,Pinnacle Properties,Real Estate & Construction,Al Barsha South
+P00138,Egyptian,Oasis Developments,Real Estate & Construction,Al Barsha South
+P00139,Lebanese,Oasis Energy,Energy,Jumeirah Village Circle
+P00140,Filipino,Oasis Developments,Real Estate & Construction,Dubai Sports City
+P00141,Emirati,Oasis Developments,Real Estate & Construction,Jumeirah Village Triangle
+P00142,Other,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Triangle
+P00143,British,orbit telecom,Tech & Telecom,Al Barsha South
+P00144,British,,Tech & Telecom,Jumeirah Village Triangle
+P00145,Indian,Crescent Logistics,Aviation & Logistics,Jumeirah Village Circle
+P00146,Lebanese,Education Authority,Government & Education,Jumeirah Village Triangle
+P00147,Indian,Education Authority,Government & Education,Jumeirah Village Circle
+P00148,Other,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Circle
+P00149,Indian,Oasis Energy,Energy,Jumeirah Village Circle
+P00150,Pakistani,Crescent Logistics,Aviation & Logistics,Jumeirah Village Circle
+P00151,Indian,PALM HEALTH GROUP,Healthcare,Jumeirah Village Triangle
+P00152,British,Government Entity,Government & Education,Dubai Sports City
+P00153,Indian,Education Authority,Government & Education,Dubai Sports City
+P00154,Indian,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00155,Egyptian,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Triangle
+P00156,Jordanian,Oasis Developments,Real Estate & Construction,Jumeirah Village Triangle
+P00157,Pakistan,Orbit Telecom,Tech & Telecom,Al Barsha South
+P00158,Indian,Cedar Medical Centre,Healthcare,Jumeirah Village Circle
+P00159,British,Crescent Logistics,Aviation & Logistics,Dubai Sports City
+P00160,UAE,Harbour Capital,Banking & Finance,Al Barsha South
+P00161,Other,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Circle
+P00162,Indian,Skyline Aviation,Aviation & Logistics,Dubai Sports City
+P00163,Filipino,Orbit Telecom,Tech & Telecom,Al Barsha South
+P00164,Emirati,Oasis Developments,Real Estate & Construction,Arjan
+P00165,Indian,Gulf Crescent Bank,Banking & Finance,
+P00166,Indian,Pinnacle Properties,Real Estate & Construction,Jumeirah Village Triangle
+P00167,Indian,Zenith Tech,Tech & Telecom,Jumeirah Village Triangle
+P00168,Indian,Orbit Telecom,Tech & Telecom,Jumeirah Village Triangle
+P00169,Russian,Skyline Aviation,Aviation & Logistics,Jumeirah Village Triangle
+P00170,Filipino,Oasis Developments,Real Estate & Construction,Motor City
+P00171,Indian,Harbour Capital,Banking & Finance,Jumeirah Village Circle
+P00172,Other,Cedar Medical Centre,Healthcare,Motor City
+P00173,indian ,Harbour Capital,Banking & Finance,Jumeirah Village Circle
+P00174,British,Harbour Capital,Banking & Finance,Jumeirah Village Circle
+P00175,Phillipino,Palm Health Group,Healthcare,Al Barsha South
+P00176,Lebanese,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Triangle
+P00177,Filipino,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Circle
+P00178,Filipino,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Circle
+P00179,British,Education Authority,Government & Education,
+P00180,British,Oasis Energy,Energy,Jumeirah Village Circle
+P00181,Lebanese,Oasis Energy,Energy,Jumeirah Village Circle
+P00182,Pakistani,SOUK & CO RETAIL,Hospitality & Retail,Jumeirah Village Circle
+P00183,Egyptian,  Skyline Aviation ,Aviation & Logistics,Jumeirah Village Circle
+P00184,Indian,Zenith Tech,Tech & Telecom,JVC
+P00185,India,Orbit Telecom,Tech & Telecom,Dubai Sports City
+P00186,Other,Self-employed,Self-employed / Other,
+P00187,Lebanese,Self-employed,Self-employed / Other,Jumeirah Village Circle
+P00188,Other,Oasis Energy,Energy,Dubai Sports City
+P00189,Pakistani,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00190,Pakistan,Zenith Tech,Tech & Telecom,Dubai Sports City
+P00191,Pakistani,Skyline Aviation,Aviation & Logistics,Dubai Sports City
+P00192,Jordanian,  Self-employed ,Self-employed / Other,Jumeirah Village Circle
+P00193,Other,government entity,Government & Education,Jumeirah Village Triangle
+P00194,Indian,Skyline Aviation,Aviation & Logistics,Jumeirah Village Triangle
+P00195,Filipino,Harbour Capital,Banking & Finance,Jumeirah Village Circle
+P00196,Emirati,Zenith Tech,Tech & Telecom,Al Barsha
+P00197,Indian,Desert Rose Hospitality,Hospitality & Retail,Al Barsha South
+P00198,Indian,Souk & Co Retail,Hospitality & Retail,Al Barsha
+P00199,Indian,Orbit Telecom,Tech & Telecom,Al Sufouh
+P00200,British,Gulf Crescent Bank,Banking & Finance,Tecom
+P00201,British,Cedar Medical Centre,Healthcare,Al Barsha
+P00202,Egyptian,Souk & Co Retail,Hospitality & Retail,Al Barsha South
+P00203,Indian,Government Entity,Government & Education,Al Barsha
+P00204,Emirati,Cedar Medical Centre,Healthcare,Al Sufouh
+P00205,Egyptian,Meridian Bank,Banking & Finance,Al Barsha
+P00206,Egyptian,Education Authority,Government & Education,Al Barsha
+P00207,Other,Zenith Tech,Tech & Telecom,
+P00208,Jordanian,,Tech & Telecom,Tecom
+P00209,Indian,Meridian Bank,Banking & Finance,Al Barsha
+P00210,British,Orbit Telecom,Tech & Telecom,Al Barsha
+P00211,Indian,Government Entity,Government & Education,Al Barsha
+P00212,Jordanian,Gulf Crescent Bank,Banking & Finance,Al Barsha South
+P00213,British,Desert Rose Hospitality,Hospitality & Retail,Al Barsha
+P00214,Other,Oasis Developments,Real Estate & Construction,Al Barsha
+P00215,Emirati,Souk & Co Retail,Hospitality & Retail,Al Sufouh
+P00216,U.K.,Harbour Capital,Banking & Finance,Al Barsha
+P00217,British,Crescent Logistics,Aviation & Logistics,Tecom
+P00218,Other,Zenith Tech,Tech & Telecom,Umm Suqeim
+P00219,Emirati,Harbour Capital,Banking & Finance,Al Barsha South
+P00220,Egyptian,Harbour Capital,Banking & Finance,Al Barsha South
+P00221,Jordanian,Souk & Co Retail,Hospitality & Retail,Al Barsha South
+P00222,Indian,Government Entity,Government & Education,Al Barsha
+P00223,Russian,Souk & Co Retail,Hospitality & Retail,
+P00224,British,  Oasis Energy ,Energy,Al Barsha South
+P00225,Syrian,Crescent Logistics,Aviation & Logistics,Al Barsha
+P00226,British,Education Authority,Government & Education,Al Barsha South
+P00227,Indian,Crescent Logistics,Aviation & Logistics,Tecom
+P00228,British,Oasis Energy,Energy,Al Barsha South
+P00229,Pakistani,Self-employed,Self-employed / Other,Al Barsha South
+P00230,Pakistani,Government Entity,Government & Education,Al Barsha
+P00231,Indian,Gulf Crescent Bank,Banking & Finance,Al Barsha South
+P00232,Emirati,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P00233,Indian,Orbit Telecom,Tech & Telecom,Al Barsha South
+P00234,Lebanese,Self-employed,Self-employed / Other,Al Barsha
+P00235,Filipino,Souk & Co Retail,Hospitality & Retail,Al Sufouh
+P00236,Emirati,Desert Rose Hospitality,Hospitality & Retail,Al Barsha
+P00237,Pakistani,OASIS ENERGY,Energy,Umm Suqeim
+P00238,Emirati,Education Authority,Government & Education,Tecom
+P00239,Emirati,Education Authority,Government & Education,Al Barsha
+P00240,Syrian,Government Entity,Government & Education,Umm Suqeim
+P00241,Filipino,Oasis Energy,Energy,Al Barsha
+P00242,Pakistani,Oasis Energy,Energy,Umm Suqeim
+P00243,Egypt,,Healthcare,Al Barsha
+P00244,Egyptian,Harbour Capital,Banking & Finance,Al Barsha
+P00245,Lebanese,Palm Health Group,Healthcare,Dubai Hills
+P00246,Pakistani,Government Entity,Government & Education,Al Barsha South
+P00247,Indian,,Tech & Telecom,Umm Suqeim
+P00248,Pakistani,Souk & Co Retail,Hospitality & Retail,Al Sufouh
+P00249,Jordanian,Crescent Logistics,Aviation & Logistics,Umm Suqeim
+P00250,Philippines,Education Authority,Government & Education,Al Barsha
+P00251,Emirati,Cedar Medical Centre,Healthcare,Umm Suqeim
+P00252,Emirati,Self-employed,Self-employed / Other,Al Barsha
+P00253,Russian,Skyline Aviation,Aviation & Logistics,Tecom
+P00254,Emirati,Orbit Telecom,Tech & Telecom,Dubai Hills
+P00255,Russian,Education Authority,Government & Education,Al Barsha
+P00256,Pakistani,Palm Health Group,Healthcare,Al Barsha
+P00257,Emirati,Oasis Energy,Energy,Al Sufouh
+P00258,Emirati,Oasis Developments,Real Estate & Construction,Al Sufouh
+P00259,Egyptian,Palm Health Group,Healthcare,Umm Suqeim
+P00260,Indian,Meridian Bank,Banking & Finance,Al Sufouh
+P00261,Other,Government Entity,Government & Education,Al Barsha
+P00262,Jordanian,Skyline Aviation,Aviation & Logistics,Al Sufouh
+P00263,Syrian,Oasis Energy,Energy,Al Barsha
+P00264,British,Gulf Crescent Bank,Banking & Finance,Al Sufouh
+P00265,Emirati,Desert Rose Hospitality,Hospitality & Retail,Al Sufouh
+P00266,Lebanese,Palm Health Group,Healthcare,Dubai Hills
+P00267,Other,Education Authority,Government & Education,Al Barsha South
+P00268,Emirati,Crescent Logistics,Aviation & Logistics,Al Barsha South
+P00269,Russian,Meridian Bank,Banking & Finance,Al Sufouh
+P00270,Indian,Souk & Co Retail,Hospitality & Retail,Al Barsha South
+P00271,Pakistani,Oasis Energy,Energy,Tecom
+P00272,India,Self-employed,Self-employed / Other,Dubai Hills
+P00273,Other,Harbour Capital,Banking & Finance,Al Barsha South
+P00274,Other,Oasis Developments,Real Estate & Construction,Town Square
+P00275,Indian,Souk & Co Retail,Hospitality & Retail,Arabian Ranches
+P00276,Pakistani,Palm Health Group,Healthcare,Arabian Ranches
+P00277,Filipino,Orbit Telecom,Tech & Telecom,Damac Hills
+P00278,Indian,Souk & Co Retail,Hospitality & Retail,Dubai Hills
+P00279,Pakistani,Orbit Telecom,Tech & Telecom,Arabian Ranches
+P00280,Indian,Meridian Bank,Banking & Finance,Town Square
+P00281,Filipino,Government Entity,Government & Education,Dubai Hills
+P00282,Pakistani,Crescent Logistics,Aviation & Logistics,Dubailand
+P00283,Russian,Education Authority,Government & Education,Arabian Ranches
+P00284,Emirati,Orbit Telecom,Tech & Telecom,Arabian Ranches
+P00285,Indian,Education Authority,Government & Education,Mudon
+P00286,Emirati,Oasis Energy,Energy,Dubai Hills
+P00287,Indian,Souk & Co Retail,Hospitality & Retail,Damac Hills
+P00288,Filipino,Education Authority,Government & Education,Dubai Hills
+P00289,Syrian,Self-employed,Self-employed / Other,Dubai Hills
+P00290,Russian,Souk & Co Retail,Hospitality & Retail,Town Square
+P00291,Indian,Oasis Energy,Energy,Town Square
+P00292,British,Education Authority,Government & Education,Dubailand
+P00293,Lebanese,,Self-employed / Other,Arabian Ranches
+P00294,Indian,Zenith Tech,Tech & Telecom,Dubai Hills
+P00295,Lebanese,Desert Rose Hospitality,Hospitality & Retail,Damac Hills
+P00296,Jordanian,Zenith Tech,Tech & Telecom,Arabian Ranches
+P00297,Pakistani,Government Entity,Government & Education,Arabian Ranches
+P00298,Syrian,Crescent Logistics,Aviation & Logistics,Dubai Hills
+P00299,Indian,Orbit Telecom,Tech & Telecom,Arabian Ranches
+P00300,Egyptian,Palm Health Group,Healthcare,Arabian Ranches
+P00301,Egyptian,Pinnacle Properties,Real Estate & Construction,Arabian Ranches
+P00302,Egyptian,Crescent Logistics,Aviation & Logistics,Mudon
+P00303,Russian,Palm Health Group,Healthcare,Arabian Ranches
+P00304,egyptian,Souk & Co Retail,Hospitality & Retail,Mudon
+P00305,Filipino,Harbour Capital,Banking & Finance,Arabian Ranches
+P00306,Philippines,Crescent Logistics,Aviation & Logistics,Dubai Hills
+P00307,Indian,Meridian Bank,Banking & Finance,Dubai Hills
+P00308,Pakistani,HARBOUR CAPITAL,Banking & Finance,Dubailand
+P00309,Egyptian,Meridian Bank,Banking & Finance,Arabian Ranches
+P00310,Pakistani,Zenith Tech,Tech & Telecom,Dubai Hills
+P00311,British,Cedar Medical Centre,Healthcare,Arabian Ranches
+P00312,Filipino,Zenith Tech,Tech & Telecom,Damac Hills
+P00313,indian ,Palm Health Group,Healthcare,Dubai Hills
+P00314,Emirati,  Oasis Energy ,Energy,Dubai Hills
+P00315,Indian,Skyline Aviation,Aviation & Logistics,Arabian Ranches
+P00316,Emirati,Cedar Medical Centre,Healthcare,Dubai Hills
+P00317,British,Harbour Capital,Banking & Finance,Arabian Ranches
+P00318,Emirati,Self-employed,Self-employed / Other,Dubai Hills
+P00319,Emirati,Zenith Tech,Tech & Telecom,Mudon
+P00320,Syrian,CEDAR MEDICAL CENTRE,Healthcare,Arabian Ranches
+P00321,Indian,Zenith Tech,Tech & Telecom,Mudon
+P00322,Pakistani,,Banking & Finance,Arabian Ranches
+P00323,Other,Oasis Developments,Real Estate & Construction,Mudon
+P00324,Russian,Oasis Developments,Real Estate & Construction,Dubai Hills
+P00325,Egyptian,Oasis Developments,Real Estate & Construction,Dubailand
+P00326,Indian,Pinnacle Properties,Real Estate & Construction,Arabian Ranches
+P00327,Philippines,Government Entity,Government & Education,Mudon
+P00328,Other,government entity,Government & Education,Dubai Hills
+P00329,Indian,Self-employed,Self-employed / Other,Town Square
+P00330,Egyptian,Self-employed,Self-employed / Other,Arabian Ranches
+P00331,Egyptian,Palm Health Group,Healthcare,Dubai Hills
+P00332,Indian,Zenith Tech,Tech & Telecom,Arabian Ranches
+P00333,Jordanian,Oasis Developments,Real Estate & Construction,Arabian Ranches
+P00334,Pakistani,Zenith Tech,Tech & Telecom,Dubai Hills
+P00335,Filipino,Orbit Telecom,Tech & Telecom,Damac Hills
+P00336,Indian,crescent logistics,Aviation & Logistics,Mudon
+P00337,indian ,Oasis Energy,Energy,Mudon
+P00338,Other,Self-employed,Self-employed / Other,Dubai Hills
+P00339,Indian,Harbour Capital,Banking & Finance,Arabian Ranches
+P00340,Indian,Zenith Tech,Tech & Telecom,Arabian Ranches
+P00341,Lebanese,Palm Health Group,Healthcare,Dubai Hills
+P00342,British,Orbit Telecom,Tech & Telecom,Dubailand
+P00343,British,Zenith Tech,Tech & Telecom,Arabian Ranches
+P00344,Pakistani,Self-employed,Self-employed / Other,Damac Hills
+P00345,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Damac Hills
+P00346,Jordanian,,Hospitality & Retail,Uptown Mirdif
+P00347,Filipino,Crescent Logistics,Aviation & Logistics,
+P00348,Russian,Crescent Logistics,Aviation & Logistics,Al Warqa
+P00349,British,Palm Health Group,Healthcare,Uptown Mirdif
+P00350,Jordanian,Cedar Medical Centre,Healthcare,Mirdif
+P00351,Pakistani,Desert Rose Hospitality,Hospitality & Retail,Rashidiya
+P00352,Indian,Government Entity,Government & Education,Mirdif
+P00353,Pakistani,Gulf Crescent Bank,Banking & Finance,Mirdif
+P00354,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Al Warqa
+P00355,Indian,Gulf Crescent Bank,Banking & Finance,Mirdif
+P00356,Egyptian,Orbit Telecom,Tech & Telecom,Rashidiya
+P00357,Jordanian,Palm Health Group,Healthcare,Al Warqa
+P00358,Egyptian,Education Authority,Government & Education,Dubai Silicon Oasis
+P00359,Indian,Cedar Medical Centre,Healthcare,Mirdif
+P00360,Syrian,Crescent Logistics,Aviation & Logistics,Dubai Silicon Oasis
+P00361,British,,Aviation & Logistics,Uptown Mirdif
+P00362,Other,Souk & Co Retail,Hospitality & Retail,Uptown Mirdif
+P00363,Indian,Oasis Developments,Real Estate & Construction,Mirdif
+P00364,Indian,Souk & Co Retail,Hospitality & Retail,Rashidiya
+P00365,Filipino,Self-employed,Self-employed / Other,Mirdif
+P00366,Syrian,Orbit Telecom,Tech & Telecom,Al Warqa
+P00367,Pakistani,Government Entity,Government & Education,Uptown Mirdif
+P00368,Indian,  Crescent Logistics ,Aviation & Logistics,Mirdif
+P00369,Indian,Palm Health Group,Healthcare,Mirdif
+P00370,Indian,Education Authority,Government & Education,Uptown Mirdif
+P00371,Lebanese,Oasis Energy,Energy,Uptown Mirdif
+P00372,Lebanese,Self-employed,Self-employed / Other,Rashidiya
+P00373,Indian,Crescent Logistics,Aviation & Logistics,Mirdif
+P00374,Emirati,Self-employed,Self-employed / Other,Dubai Silicon Oasis
+P00375,Pakistani,Souk & Co Retail,Hospitality & Retail,Rashidiya
+P00376,Filipino,Palm Health Group,Healthcare,Uptown Mirdif
+P00377,Emirati,Education Authority,Government & Education,Mirdif
+P00378,Egyptian,Palm Health Group,Healthcare,Uptown Mirdif
+P00379,Indian,Oasis Energy,Energy,Mirdif
+P00380,Pakistani,Government Entity,Government & Education,Uptown Mirdif
+P00381,Pakistani,Orbit Telecom,Tech & Telecom,Mirdif
+P00382,Indian,souk & co retail,Hospitality & Retail,Dubai Silicon Oasis
+P00383,U.K.,Education Authority,Government & Education,Rashidiya
+P00384,Indian,Orbit Telecom,Tech & Telecom,Uptown Mirdif
+P00385,Lebanese,Gulf Crescent Bank,Banking & Finance,Mirdif
+P00386,Pakistani,Meridian Bank,Banking & Finance,Mirdif
+P00387,Pakistani,Oasis Developments,Real Estate & Construction,Rashidiya
+P00388,Emirati,Oasis Energy,Energy,Rashidiya
+P00389,Syrian,Souk & Co Retail,Hospitality & Retail,Mirdif
+P00390,Filipino,Gulf Crescent Bank,Banking & Finance,Rashidiya
+P00391,Filipino,Self-employed,Self-employed / Other,Rashidiya
+P00392,Indian,Cedar Medical Centre,Healthcare,Mirdif
+P00393,Egyptian,Education Authority,Government & Education,Al Warqa
+P00394,indian ,Cedar Medical Centre,Healthcare,Mirdif
+P00395,Emirati,Skyline Aviation,Aviation & Logistics,Al Warqa
+P00396,Indian,Zenith Tech,Tech & Telecom,Uptown Mirdif
+P00397,Egyptian,SELF-EMPLOYED,Self-employed / Other,Mirdif
+P00398,Indian,Palm Health Group,Healthcare,Uptown Mirdif
+P00399,British,Orbit Telecom,Tech & Telecom,Mirdif
+P00400,Lebanese,Oasis Developments,Real Estate & Construction,Dubai Silicon Oasis
+P00401,Emirati,Oasis Energy,Energy,Mirdif
+P00402,Indian,souk & co retail,Hospitality & Retail,Mirdif
+P00403,Lebanese,Skyline Aviation,Aviation & Logistics,Mirdif
+P00404,Indian,Orbit Telecom,Tech & Telecom,Uptown Mirdif
+P00405,Pakistani,Cedar Medical Centre,Healthcare,Mirdif
+P00406,British,Gulf Crescent Bank,Banking & Finance,Al Warqa
+P00407,Other,Self-employed,Self-employed / Other,Rashidiya
+P00408,Indian,Oasis Energy,Energy,Uptown Mirdif
+P00409,Syrian,Gulf Crescent Bank,Banking & Finance,Uptown Mirdif
+P00410,Indian,Zenith Tech,Tech & Telecom,Mirdif
+P00411,Indian,Cedar Medical Centre,Healthcare,Al Warqa
+P00412,Other,Self-employed,Self-employed / Other,Al Warqa
+P00413,British,Cedar Medical Centre,Healthcare,Al Warqa
+P00414,Pakistani,Souk & Co Retail,Hospitality & Retail,Al Twar
+P00415,Syrian,Crescent Logistics,Aviation & Logistics,Mirdif
+P00416,Russian,Orbit Telecom,Tech & Telecom,Mirdif
+P00417,Jordanian,Government Entity,Government & Education,Mirdif
+P00418,Pakistani,Cedar Medical Centre,Healthcare,Al Twar
+P00419,Indian,Skyline Aviation,Aviation & Logistics,Al Twar
+P00420,Other,Palm Health Group,Healthcare,Mirdif
+P00421,Pakistani,Skyline Aviation,Aviation & Logistics,Dubai Silicon Oasis
+P00422,Indian,Desert Rose Hospitality,Hospitality & Retail,Uptown Mirdif
+P00423,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Rashidiya
+P00424,Other,Government Entity,Government & Education,Mirdif
+P00425,Filipino,Pinnacle Properties,Real Estate & Construction,Al Twar
+P00426,Lebanese,Oasis Developments,Real Estate & Construction,Mirdif
+P00427,Other,Crescent Logistics,Aviation & Logistics,Mirdif
+P00428,Indian,Palm Health Group,Healthcare,Al Warqa
+P00429,Filipino,Souk & Co Retail,Hospitality & Retail,Dubai Silicon Oasis
+P00430,Emirati,,Hospitality & Retail,Mirdif
+P00431,Syrian,Palm Health Group,Healthcare,Al Warqa
+P00432,Other,Education Authority,Government & Education,Al Warqa
+P00433,Other,Desert Rose Hospitality,Hospitality & Retail,Dubai Silicon Oasis
+P00434,Pakistani,Education Authority,Government & Education,Al Twar
+P00435,Indian,Palm Health Group,Healthcare,Rashidiya
+P00436,Emirati,Orbit Telecom,Tech & Telecom,Dubai Silicon Oasis
+P00437,Indian,Palm Health Group,Healthcare,Dubai Silicon Oasis
+P00438,Egyptian,Crescent Logistics,Aviation & Logistics,Mirdif
+P00439,Pakistani,Crescent Logistics,Aviation & Logistics,Uptown Mirdif
+P00440,Emirati,Education Authority,Government & Education,
+P00441,Emirati,Gulf Crescent Bank,Banking & Finance,
+P00442,Indian,Orbit Telecom,Tech & Telecom,Masdar City
+P00443,Jordanian,Education Authority,Government & Education,Khalifa City
+P00444,Filipino,Palm Health Group,Healthcare,Khalifa City
+P00445,Emirati,Orbit Telecom,Tech & Telecom,Masdar City
+P00446,Indian,Cedar Medical Centre,Healthcare,Al Raha
+P00447,Other,Zenith Tech,Tech & Telecom,
+P00448,Lebanese,Meridian Bank,Banking & Finance,Khalifa City
+P00449,Filipino,Education Authority,Government & Education,Khalifa City
+P00450,Other,Meridian Bank,Banking & Finance,Al Reef
+P00451,Other,Orbit Telecom,Tech & Telecom,Khalifa City
+P00452,Lebanese,Palm Health Group,Healthcare,Khalifa City
+P00453,Emirati,Self-employed,Self-employed / Other,Masdar City
+P00454,Other,Gulf Crescent Bank,Banking & Finance,Khalifa City
+P00455,Emirati,Souk & Co Retail,Hospitality & Retail,Al Raha
+P00456,Emirati,Self-employed,Self-employed / Other,Khalifa City
+P00457,Egyptian,Meridian Bank,Banking & Finance,Mohammed Bin Zayed City
+P00458,British,Souk & Co Retail,Hospitality & Retail,Al Reef
+P00459,Other,Skyline Aviation,Aviation & Logistics,Khalifa City
+P00460,British,Cedar Medical Centre,Healthcare,Al Raha
+P00461,Emirati,,Tech & Telecom,Shakhbout City
+P00462,Indian,Gulf Crescent Bank,Banking & Finance,
+P00463,Filipino,Meridian Bank,Banking & Finance,
+P00464,Other,Harbour Capital,Banking & Finance,Khalifa City
+P00465,Other,Education Authority,Government & Education,Khalifa City
+P00466,Emirati,Zenith Tech,Tech & Telecom,Khalifa City
+P00467,Emirati,,Real Estate & Construction,Khalifa City
+P00468,Emirati,Cedar Medical Centre,Healthcare,Masdar City
+P00469,Other,Oasis Developments,Real Estate & Construction,Khalifa City
+P00470,British,Pinnacle Properties,Real Estate & Construction,Al Raha
+P00471,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Khalifa City
+P00472,Indian,skyline aviation,Aviation & Logistics,
+P00473,Emirati,Pinnacle Properties,Real Estate & Construction,Khalifa City
+P00474,Indian,Souk & Co Retail,Hospitality & Retail,Khalifa City
+P00475,Emirati,Crescent Logistics,Aviation & Logistics,Khalifa City
+P00476,Egyptian,Education Authority,Government & Education,Khalifa City
+P00477,Egyptian,Souk & Co Retail,Hospitality & Retail,Masdar City
+P00478,Emirati,Skyline Aviation,Aviation & Logistics,Mohammed Bin Zayed City
+P00479,Indian,Gulf Crescent Bank,Banking & Finance,Mohammed Bin Zayed City
+P00480,Egyptian,,Energy,Al Raha
+P00481,Egyptian,Oasis Energy,Energy,Khalifa City
+P00482,Other,Gulf Crescent Bank,Banking & Finance,Mohammed Bin Zayed City
+P00483,British,Desert Rose Hospitality,Hospitality & Retail,Al Raha
+P00484,Emirati,Education Authority,Government & Education,Khalifa City
+P00485,Emirati,Souk & Co Retail,Hospitality & Retail,
+P00486,Indian,Meridian Bank,Banking & Finance,Al Raha
+P00487,Indian,Zenith Tech,Tech & Telecom,Khalifa City
+P00488,Indian,Self-employed,Self-employed / Other,Shakhbout City
+P00489,British,Oasis Energy,Energy,Masdar City
+P00490,Indian,Oasis Energy,Energy,Mohammed Bin Zayed City
+P00491,Filipino,Harbour Capital,Banking & Finance,Khalifa City
+P00492,Egyptian,Skyline Aviation,Aviation & Logistics,Masdar City
+P00493,Egyptian,Cedar Medical Centre,Healthcare,Khalifa City
+P00494,Lebanese,Crescent Logistics,Aviation & Logistics,Al Raha
+P00495,Jordanian,Government Entity,Government & Education,Mohammed Bin Zayed City
+P00496,Egyptian,Palm Health Group,Healthcare,Khalifa City
+P00497,Indian,Cedar Medical Centre,Healthcare,
+P00498,Emirati,Meridian Bank,Banking & Finance,Al Raha
+P00499,Other,Palm Health Group,Healthcare,Khalifa City
+P00500,Emirati ,Pinnacle Properties,Real Estate & Construction,Mohammed Bin Zayed City
+P00501,Egyptian,Zenith Tech,Tech & Telecom,
+P00502,Pakistani,Crescent Logistics,Aviation & Logistics,
+P00503,Jordanian,Crescent Logistics,Aviation & Logistics,Al Raha
+P00504,Indian,Government Entity,Government & Education,Masdar City
+P00505,Other,Harbour Capital,Banking & Finance,Khalifa City
+P00506,Other,Orbit Telecom,Tech & Telecom,Shakhbout City
+P00507,British,PALM HEALTH GROUP,Healthcare,Masdar City
+P00508,Egyptian,Zenith Tech,Tech & Telecom,Shakhbout City
+P00509,egyptian,Palm Health Group,Healthcare,
+P00510,Other,Harbour Capital,Banking & Finance,Al Raha
+P00511,Egypt,Pinnacle Properties,Real Estate & Construction,Al Raha
+P00512,Emirati,Desert Rose Hospitality,Hospitality & Retail,Khalifa City
+P00513,Lebanese,Desert Rose Hospitality,Hospitality & Retail,Khalifa City
+P00514,Indian,Skyline Aviation,Aviation & Logistics,Al Reef
+P00515,Other,Gulf Crescent Bank,Banking & Finance,Al Raha
+P00516,Other,Souk & Co Retail,Hospitality & Retail,Khalifa City
+P00517,Pakistani,Cedar Medical Centre,Healthcare,Khalifa City
+P00518,Egyptian,Oasis Energy,Energy,
+P00519,Jordanian,Harbour Capital,Banking & Finance,Al Raha
+P00520,Indian,Orbit Telecom,Tech & Telecom,Masdar City
+P00521,Egyptian,Oasis Energy,Energy,Masdar City
+P00522,Jordanian,Education Authority,Government & Education,Khalifa City
+P00523,Indian,Education Authority,Government & Education,Al Raha
+P00524,Indian,,Real Estate & Construction,Masdar City
+P00525,Emirati,Oasis Developments,Real Estate & Construction,Saadiyat Island
+P00526,Indian,Gulf Crescent Bank,Banking & Finance,Yas Island
+P00527,Emirati,Oasis Developments,Real Estate & Construction,Al Raha
+P00528,Jordanian,Zenith Tech,Tech & Telecom,Yas Island
+P00529,Indian,  Education Authority ,Government & Education,Khalifa City
+P00530,Egyptian,Orbit Telecom,Tech & Telecom,Yas Island
+P00531,Jordanian,Palm Health Group,Healthcare,Al Raha Beach
+P00532,Filipino,Orbit Telecom,Tech & Telecom,Saadiyat Island
+P00533,Filipino,Crescent Logistics,Aviation & Logistics,Saadiyat Island
+P00534,Indian,Meridian Bank,Banking & Finance,Al Raha
+P00535,British,Gulf Crescent Bank,Banking & Finance,Al Raha
+P00536,Emirati,Meridian Bank,Banking & Finance,Saadiyat Island
+P00537,British,Palm Health Group,Healthcare,Al Reem Island
+P00538,Other,Skyline Aviation,Aviation & Logistics,Al Raha
+P00539,Indian,Orbit Telecom,Tech & Telecom,Yas Island
+P00540,Other,GOVERNMENT ENTITY,Government & Education,Al Raha
+P00541,Egyptian,Gulf Crescent Bank,Banking & Finance,Al Reem Island
+P00542,Other,Orbit Telecom,Tech & Telecom,Yas Island
+P00543,Indian,Government Entity,Government & Education,Yas Island
+P00544,Other,Palm Health Group,Healthcare,
+P00545,Egyptian,Palm Health Group,Healthcare,Saadiyat Island
+P00546,Indian,Skyline Aviation,Aviation & Logistics,Yas Island
+P00547,Emirati,Harbour Capital,Banking & Finance,Saadiyat Island
+P00548,Jordanian,Palm Health Group,Healthcare,Yas Island
+P00549,Egyptian,Pinnacle Properties,Real Estate & Construction,Al Raha
+P00550,Filipino,Palm Health Group,Healthcare,Al Raha
+P00551,Egyptian,,Government & Education,Saadiyat Island
+P00552,Jordanian,Government Entity,Government & Education,Yas Island
+P00553,Other,Education Authority,Government & Education,Saadiyat Island
+P00554,Jordanian,Orbit Telecom,Tech & Telecom,Saadiyat Island
+P00555,Emirati,Cedar Medical Centre,Healthcare,Khalifa City
+P00556,Other,Self-employed,Self-employed / Other,Yas Island
+P00557,Emirati,Pinnacle Properties,Real Estate & Construction,Al Raha
+P00558,Emirati,Meridian Bank,Banking & Finance,Saadiyat Island
+P00559,Indian,Cedar Medical Centre,Healthcare,Al Raha
+P00560,Egyptian,  Government Entity ,Government & Education,Al Raha Beach
+P00561,Indian,Harbour Capital,Banking & Finance,Yas Island
+P00562,Emirati,Self-employed,Self-employed / Other,Saadiyat Island
+P00563,Filipino,Orbit Telecom,Tech & Telecom,Yas Island
+P00564,Other,Desert Rose Hospitality,Hospitality & Retail,Saadiyat Island
+P00565,Other,Orbit Telecom,Tech & Telecom,Saadiyat Island
+P00566,Emirati,CEDAR MEDICAL CENTRE,Healthcare,Al Raha
+P00567,Pakistani,Gulf Crescent Bank,Banking & Finance,Saadiyat Island
+P00568,Indian,Harbour Capital,Banking & Finance,Al Raha
+P00569,Philippines,Crescent Logistics,Aviation & Logistics,Al Reem Island
+P00570,Emirati,Orbit Telecom,Tech & Telecom,Yas Island
+P00571,British,Zenith Tech,Tech & Telecom,Al Raha
+P00572,Jordanian,Zenith Tech,Tech & Telecom,Yas Island
+P00573,Filipino,Gulf Crescent Bank,Banking & Finance,Yas Island
+P00574,Lebanese,Crescent Logistics,Aviation & Logistics,Yas Island
+P00575,Egyptian,Harbour Capital,Banking & Finance,Al Reem Island
+P00576,Emirati,Orbit Telecom,Tech & Telecom,Yas Island
+P00577,Filipino,Cedar Medical Centre,Healthcare,Yas Island
+P00578,Other,Skyline Aviation,Aviation & Logistics,Saadiyat Island
+P00579,Emirati,Education Authority,Government & Education,Saadiyat Island
+P00580,Lebanese,Cedar Medical Centre,Healthcare,Al Raha
+P00581,Other,Skyline Aviation,Aviation & Logistics,Yas Island
+P00582,India,Oasis Energy,Energy,Yas Island
+P00583,Pakistani,,Government & Education,Khalifa City
+P00584,Indian,Government Entity,Government & Education,Yas Island
+P00585,Filipino,Oasis Energy,Energy,Yas Island
+P00586,Indian,Zenith Tech,Tech & Telecom,Yas Island
+P00587,Other,Government Entity,Government & Education,Yas Island
+P00588,Lebanese,Souk & Co Retail,Hospitality & Retail,Saadiyat Island
+P00589,Egyptian,Harbour Capital,Banking & Finance,Yas Island
+P00590,Egyptian,Government Entity,Government & Education,The Pearl-Qatar
+P00591,Indian,Skyline Aviation,Aviation & Logistics,Al Sadd
+P00592,British,Crescent Logistics,Aviation & Logistics,West Bay
+P00593,Qatari,Souk & Co Retail,Hospitality & Retail,West Bay
+P00594,British,Crescent Logistics,Aviation & Logistics,West Bay
+P00595,British,Self-employed,Self-employed / Other,Al Sadd
+P00596,Indian,Palm Health Group,Healthcare,West Bay
+P00597,Lebanese,Zenith Tech,Tech & Telecom,Msheireb
+P00598,Lebanese,Desert Rose Hospitality,Hospitality & Retail,West Bay
+P00599,Jordanian,OASIS DEVELOPMENTS,Real Estate & Construction,Corniche
+P00600,Indian,Crescent Logistics,Aviation & Logistics,Al Sadd
+P00601,Qatari,Pinnacle Properties,Real Estate & Construction,The Pearl-Qatar
+P00602,Indian,Crescent Logistics,Aviation & Logistics,West Bay
+P00603,Indian,Crescent Logistics,Aviation & Logistics,West Bay
+P00604,Jordanian,Orbit Telecom,Tech & Telecom,West Bay
+P00605,Qatari,,Government & Education,The Pearl-Qatar
+P00606,Qatari,Orbit Telecom,Tech & Telecom,West Bay
+P00607,Jordanian,Desert Rose Hospitality,Hospitality & Retail,West Bay
+P00608,British,Self-employed,Self-employed / Other,Al Dafna
+P00609,Qatari,Oasis Energy,Energy,The Pearl-Qatar
+P00610,Indian,Education Authority,Government & Education,West Bay
+P00611,British,Desert Rose Hospitality,Hospitality & Retail,Corniche
+P00612,Lebanese,Souk & Co Retail,Hospitality & Retail,The Pearl-Qatar
+P00613,Jordanian,Oasis Energy,Energy,Corniche
+P00614,Lebanese,Crescent Logistics,Aviation & Logistics,The Pearl-Qatar
+P00615,Indian,Gulf Crescent Bank,Banking & Finance,West Bay
+P00616,Jordanian,Skyline Aviation,Aviation & Logistics,
+P00617,British,Self-employed,Self-employed / Other,Msheireb
+P00618,Lebanese,Souk & Co Retail,Hospitality & Retail,West Bay
+P00619,Other,Oasis Developments,Real Estate & Construction,The Pearl-Qatar
+P00620,American,Oasis Developments,Real Estate & Construction,West Bay
+P00621,Indian,Harbour Capital,Banking & Finance,West Bay
+P00622,Lebanese,Orbit Telecom,Tech & Telecom,West Bay
+P00623,Indian,,Energy,Corniche
+P00624,Syrian,Palm Health Group,Healthcare,West Bay
+P00625,American,Harbour Capital,Banking & Finance,Msheireb
+P00626,Qatari,Cedar Medical Centre,Healthcare,West Bay
+P00627,Jordanian,Self-employed,Self-employed / Other,Msheireb
+P00628,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Msheireb
+P00629,Indian,Education Authority,Government & Education,West Bay
+P00630,Lebanese,Cedar Medical Centre,Healthcare,The Pearl-Qatar
+P00631,Egyptian,Cedar Medical Centre,Healthcare,Al Dafna
+P00632,American,Palm Health Group,Healthcare,West Bay
+P00633,Syrian,Palm Health Group,Healthcare,Msheireb
+P00634,Indian,Self-employed,Self-employed / Other,Al Dafna
+P00635,Indian,Meridian Bank,Banking & Finance,West Bay
+P00636,Jordanian,Gulf Crescent Bank,Banking & Finance,West Bay
+P00637,Qatari,Skyline Aviation,Aviation & Logistics,Al Dafna
+P00638,Other,orbit telecom,Tech & Telecom,The Pearl-Qatar
+P00639,British,Oasis Developments,Real Estate & Construction,West Bay
+P00640,Lebanese,Gulf Crescent Bank,Banking & Finance,West Bay
+P00641,Filipino,Crescent Logistics,Aviation & Logistics,Al Dafna
+P00642,British,Souk & Co Retail,Hospitality & Retail,The Pearl-Qatar
+P00643,Jordanian,Souk & Co Retail,Hospitality & Retail,The Pearl-Qatar
+P00644,Jordanian,Harbour Capital,Banking & Finance,The Pearl-Qatar
+P00645,Indian,Oasis Energy,Energy,Al Dafna
+P00646,Qatari,Souk & Co Retail,Hospitality & Retail,Al Dafna
+P00647,indian ,,Banking & Finance,West Bay
+P00648,Egyptian,Cedar Medical Centre,Healthcare,The Pearl-Qatar
+P00649,British,Palm Health Group,Healthcare,West Bay
+P00650,Filipino,Desert Rose Hospitality,Hospitality & Retail,West Bay
+P00651,Syrian,Government Entity,Government & Education,
+P00652,Indian,Cedar Medical Centre,Healthcare,Al Dafna
+P00653,American,Oasis Energy,Energy,West Bay
+P00654,Qatari,Crescent Logistics,Aviation & Logistics,West Bay
+P00655,Jordanian,Self-employed,Self-employed / Other,The Pearl-Qatar
+P00656,Egyptian,skyline aviation,Aviation & Logistics,West Bay
+P00657,Qatari,Crescent Logistics,Aviation & Logistics,The Pearl-Qatar
+P00658,Indian,Zenith Tech,Tech & Telecom,The Pearl-Qatar
+P00659,Indian,Palm Health Group,Healthcare,Al Waab
+P00660,Lebanese,Oasis Energy,Energy,Al Waab
+P00661,Lebanese,Meridian Bank,Banking & Finance,Aspire Zone
+P00662,Filipino,Harbour Capital,Banking & Finance,Al Gharrafa
+P00663,Filipino,Desert Rose Hospitality,Hospitality & Retail,Al Waab
+P00664,Egyptian,Harbour Capital,Banking & Finance,Al Waab
+P00665,Filipino,Desert Rose Hospitality,Hospitality & Retail,Aspire Zone
+P00666,Qatari,Cedar Medical Centre,Healthcare,Aspire Zone
+P00667,Jordanian,Zenith Tech,Tech & Telecom,Al Luqta
+P00668,India,souk & co retail,Hospitality & Retail,Al Aziziya
+P00669,Qatari,,Banking & Finance,Al Waab
+P00670,Indian,Crescent Logistics,Aviation & Logistics,Muaither
+P00671,British,Orbit Telecom,Tech & Telecom,Aspire Zone
+P00672,Jordanian,Education Authority,Government & Education,Al Gharrafa
+P00673,Egyptian,Skyline Aviation,Aviation & Logistics,Al Waab
+P00674,British,Education Authority,Government & Education,Al Waab
+P00675,Qatari,,Banking & Finance,Al Waab
+P00676,Indian,Pinnacle Properties,Real Estate & Construction,Al Waab
+P00677,Filipino,Self-employed,Self-employed / Other,Al Waab
+P00678,Jordanian,Meridian Bank,Banking & Finance,Al Waab
+P00679,Syrian,Government Entity,Government & Education,
+P00680,Filipino,Cedar Medical Centre,Healthcare,Al Aziziya
+P00681,Syrian,Souk & Co Retail,Hospitality & Retail,Al Aziziya
+P00682,Other,Cedar Medical Centre,Healthcare,Al Waab
+P00683,indian ,Skyline Aviation,Aviation & Logistics,Al Aziziya
+P00684,Syrian,Desert Rose Hospitality,Hospitality & Retail,Al Waab
+P00685,Lebanese,Government Entity,Government & Education,Al Gharrafa
+P00686,British,,Energy,Muaither
+P00687,Indian,Skyline Aviation,Aviation & Logistics,Muaither
+P00688,Egyptian,Education Authority,Government & Education,Al Aziziya
+P00689,Lebanese,Zenith Tech,Tech & Telecom,
+P00690,Indian,Orbit Telecom,Tech & Telecom,Al Waab
+P00691,Indian,Zenith Tech,Tech & Telecom,Aspire Zone
+P00692,Egyptian,Government Entity,Government & Education,Aspire Zone
+P00693,Indian,Harbour Capital,Banking & Finance,Al Waab
+P00694,Other,Zenith Tech,Tech & Telecom,Al Aziziya
+P00695,Qatari,Pinnacle Properties,Real Estate & Construction,Al Aziziya
+P00696,Filipino,,Self-employed / Other,Aspire Zone
+P00697,Egyptian,Skyline Aviation,Aviation & Logistics,Al Luqta
+P00698,Indian,Desert Rose Hospitality,Hospitality & Retail,Al Waab
+P00699,U.K.,Self-employed,Self-employed / Other,Al Waab
+P00700,Syrian,Cedar Medical Centre,Healthcare,Al Aziziya
+P00701,Egyptian,Self-employed,Self-employed / Other,Al Waab
+P00702,Filipino,,Hospitality & Retail,Aspire Zone
+P00703,Syrian,Cedar Medical Centre,Healthcare,Al Waab
+P00704,Jordanian,Self-employed,Self-employed / Other,Muaither
+P00705,Qatari,Meridian Bank,Banking & Finance,Aspire Zone
+P00706,Jordanian,Zenith Tech,Tech & Telecom,Al Aziziya
+P00707,Other,Harbour Capital,Banking & Finance,Al Aziziya
+P00708,Syrian,Palm Health Group,Healthcare,Al Luqta
+P00709,Indian,Harbour Capital,Banking & Finance,Al Waab
+P00710,British,Government Entity,Government & Education,Al Gharrafa
+P00711,Qatari,Skyline Aviation,Aviation & Logistics,Al Luqta
+P00712,Filipino,Skyline Aviation,Aviation & Logistics,Muaither
+P00713,Other,Pinnacle Properties,Real Estate & Construction,Muaither
+P00714,Filipino,Skyline Aviation,Aviation & Logistics,Aspire Zone
+P00715,Indian,Gulf Crescent Bank,Banking & Finance,Aspire Zone
+P00716,egyptian,Souk & Co Retail,Hospitality & Retail,Al Luqta
+P00717,United Kingdom,Gulf Crescent Bank,Banking & Finance,Aspire Zone
+P00718,Indian,Cedar Medical Centre,Healthcare,Aspire Zone
+P00719,Qatari,Zenith Tech,Tech & Telecom,Al Luqta
+P00720,Indian,Orbit Telecom,Tech & Telecom,Aspire Zone
+P00721,Qatari,Government Entity,Government & Education,Al Waab
+P00722,Lebanese,Skyline Aviation,Aviation & Logistics,Al Waab
+P00723,Indian,Oasis Developments,Real Estate & Construction,Al Waab
+P00724,Indian,Crescent Logistics,Aviation & Logistics,Al Gharrafa
+P00725,Lebanese,Skyline Aviation,Aviation & Logistics,Al Gharrafa
+P00726,Indian,Desert Rose Hospitality,Hospitality & Retail,Al Waab
+P00727,Indian,Desert Rose Hospitality,Hospitality & Retail,Aspire Zone
+P00728,Indian,Harbour Capital,Banking & Finance,Al Waab
+P00729,Lebanese,Oasis Developments,Real Estate & Construction,Al Waab
+P00730,Other,Self-employed,Self-employed / Other,Al Kheesa
+P00731,Lebanese,Souk & Co Retail,Hospitality & Retail,
+P00732,Qatari,Government Entity,Government & Education,Fox Hills
+P00733,Indian,  Oasis Developments ,Real Estate & Construction,Lusail
+P00734,American,Cedar Medical Centre,Healthcare,The Pearl-Qatar
+P00735,Filipino,Harbour Capital,Banking & Finance,Lusail
+P00736,India,Skyline Aviation,Aviation & Logistics,Fox Hills
+P00737,Qatari,Education Authority,Government & Education,Al Kheesa
+P00738,Jordanian,Zenith Tech,Tech & Telecom,Al Kheesa
+P00739,Jordanian,Government Entity,Government & Education,Al Kheesa
+P00740,American,Self-employed,Self-employed / Other,Lusail
+P00741,Egyptian,Pinnacle Properties,Real Estate & Construction,Al Daayen
+P00742,British,Harbour Capital,Banking & Finance,Fox Hills
+P00743,Filipino,Palm Health Group,Healthcare,Lusail
+P00744,Jordanian,Oasis Energy,Energy,Lusail
+P00745,British,SOUK & CO RETAIL,Hospitality & Retail,Fox Hills
+P00746,Lebanese,,Aviation & Logistics,Umm Salal
+P00747,Other,Souk & Co Retail,Hospitality & Retail,Lusail
+P00748,Egyptian,Orbit Telecom,Tech & Telecom,Umm Salal
+P00749,Lebanese,Pinnacle Properties,Real Estate & Construction,Lusail
+P00750,Syrian,Crescent Logistics,Aviation & Logistics,Lusail
+P00751,Other,Pinnacle Properties,Real Estate & Construction,Lusail
+P00752,Egyptian,Self-employed,Self-employed / Other,Fox Hills
+P00753,Indian,Self-employed,Self-employed / Other,Al Daayen
+P00754,British,Souk & Co Retail,Hospitality & Retail,Lusail
+P00755,Qatari,Zenith Tech,Tech & Telecom,Umm Salal
+P00756,Filipino,Orbit Telecom,Tech & Telecom,Fox Hills
+P00757,indian ,Palm Health Group,Healthcare,Fox Hills
+P00758,Jordanian,Zenith Tech,Tech & Telecom,Lusail
+P00759,Qatari,Skyline Aviation,Aviation & Logistics,Lusail
+P00760,Lebanese,Skyline Aviation,Aviation & Logistics,Lusail
+P00761,Egyptian,,Tech & Telecom,Lusail
+P00762,Indian,EDUCATION AUTHORITY,Government & Education,Al Kheesa
+P00763,Indian,Meridian Bank,Banking & Finance,Umm Salal
+P00764,Other,Gulf Crescent Bank,Banking & Finance,Fox Hills
+P00765,Syrian,Crescent Logistics,Aviation & Logistics,Fox Hills
+P00766,Qatari,Souk & Co Retail,Hospitality & Retail,Lusail
+P00767,Other,Palm Health Group,Healthcare,Lusail
+P00768,Lebanese,Oasis Energy,Energy,Lusail
+P00769,Indian,HARBOUR CAPITAL,Banking & Finance,Al Kheesa
+P00770,British,Palm Health Group,Healthcare,
+P00771,Pakistani,Self-employed,Self-employed / Other,Khalifa City
+P00772,Egyptian,Government Entity,Government & Education,Khalifa City
+P00773,Egyptian,Cedar Medical Centre,Healthcare,Uptown Mirdif
+P00774,Russian,Self-employed,Self-employed / Other,Al Warqa
+P00775,British,Palm Health Group,Healthcare,Khalifa City
+P00776,Filipino,Desert Rose Hospitality,Hospitality & Retail,Aspire Zone
+P00777,Egyptian,Crescent Logistics,Aviation & Logistics,Jumeirah Village Triangle
+P00778,Russian,,Hospitality & Retail,Arabian Ranches
+P00779,Pakistani,Oasis Developments,Real Estate & Construction,Mirdif
+P00780,Qatari,Skyline Aviation,Aviation & Logistics,Al Waab
+P00781,Other,Desert Rose Hospitality,Hospitality & Retail,Saadiyat Island
+P00782,Indian,Oasis Developments,Real Estate & Construction,The Pearl-Qatar
+P00783,British,Pinnacle Properties,Real Estate & Construction,Al Waab
+P00784,Filipino,Palm Health Group,Healthcare,Al Aziziya
+P00785,Lebanese,CEDAR MEDICAL CENTRE,Healthcare,Al Waab
+P00786,Indian,Oasis Developments,Real Estate & Construction,The Pearl-Qatar
+P00787,Indian,Oasis Developments,Real Estate & Construction,Jumeirah Village Circle
+P00788,Jordanian,Meridian Bank,Banking & Finance,Shakhbout City
+P00789,British,Oasis Developments,Real Estate & Construction,The Pearl-Qatar
+P00790,Lebanese,Oasis Energy,Energy,Fox Hills
+P00791,Russian,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P00792,British,Harbour Capital,Banking & Finance,Al Waab
+P00793,Egyptian,Palm Health Group,Healthcare,Fox Hills
+P00794,Other,Cedar Medical Centre,Healthcare,Fox Hills
+P00795,Egyptian,Gulf Crescent Bank,Banking & Finance,Khalifa City
+P00796,Indian,Meridian Bank,Banking & Finance,JLT
+P00797,Indian,Souk & Co Retail,Hospitality & Retail,Yas Island
+P00798,Indian,Oasis Energy,Energy,Al Raha
+P00799,Other,Souk & Co Retail,Hospitality & Retail,Yas Island
+P00800,British,Government Entity,Government & Education,Al Barsha South
+P00801,Egyptian,Crescent Logistics,Aviation & Logistics,Yas Island
+P00802,Syrian,Cedar Medical Centre,Healthcare,Arabian Ranches
+P00803,Emirati,Skyline Aviation,Aviation & Logistics,Saadiyat Island
+P00804,Other,Government Entity,Government & Education,Al Waab
+P00805,Filipino,Crescent Logistics,Aviation & Logistics,
+P00806,Other,Meridian Bank,Banking & Finance,
+P00807,Egyptian,Meridian Bank,Banking & Finance,Rashidiya
+P00808,Indian,Cedar Medical Centre,Healthcare,Mohammed Bin Zayed City
+P00809,Filipino,Gulf Crescent Bank,Banking & Finance,Yas Island
+P00810,Emirati,Crescent Logistics,Aviation & Logistics,Al Raha
+P00811,Pakistani,Education Authority,Government & Education,Al Barsha South
+P00812,Jordanian,Cedar Medical Centre,Healthcare,Yas Island
+P00813,Indian,Government Entity,Government & Education,Arabian Ranches
+P00814,Jordanian,Government Entity,Government & Education,Yas Island
+P00815,Qatari,Zenith Tech,Tech & Telecom,Muaither
+P00816,Pakistani,Zenith Tech,Tech & Telecom,Saadiyat Island
+P00817,Pakistani,Cedar Medical Centre,Healthcare,Khalifa City
+P00818,Qatari,Cedar Medical Centre,Healthcare,West Bay
+P00819,Other,Orbit Telecom,Tech & Telecom,Al Barsha South
+P00820,Other,Meridian Bank,Banking & Finance,Khalifa City
+P00821,Other,Zenith Tech,Tech & Telecom,JBR
+P00822,Lebanese,cedar medical centre,Healthcare,Arabian Ranches
+P00823,Other,Oasis Energy,Energy,Jumeirah Village Circle
+P00824,Other,Self-employed,Self-employed / Other,Motor City
+P00825,Lebanese,Harbour Capital,Banking & Finance,Al Barsha
+P00826,Indian,Desert Rose Hospitality,Hospitality & Retail,Jumeirah Village Circle
+P00827,British,Orbit Telecom,Tech & Telecom,Jumeirah Village Circle
+P00828,Indian,Oasis Developments,Real Estate & Construction,Dubai Marina
+P00829,Emirati,Government Entity,Government & Education,Arjan
+P00830,Indian,Meridian Bank,Banking & Finance,Mirdif
+P00831,Emirati,Oasis Developments,Real Estate & Construction,Khalifa City
+P00832,Other,Education Authority,Government & Education,Lusail
+P00833,Indian,Zenith Tech,Tech & Telecom,Yas Island
+P00834,Indian,Palm Health Group,Healthcare,Motor City
+P00835,British,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P00836,Jordanian,Self-employed,Self-employed / Other,The Pearl-Qatar
+P00837,Indian,Government Entity,Government & Education,Umm Suqeim
+P00838,Lebanese,Harbour Capital,Banking & Finance,The Pearl-Qatar
+P00839,British,Palm Health Group,Healthcare,Al Raha Beach
+P00840,Pakistani,Meridian Bank,Banking & Finance,Al Barsha
+P00841,Pakistani,Souk & Co Retail,Hospitality & Retail,Al Reef
+P00842,Other,Orbit Telecom,Tech & Telecom,Khalifa City
+P00843,Pakistani,Orbit Telecom,Tech & Telecom,Dubai Hills
+P00844,Lebanese,Souk & Co Retail,Hospitality & Retail,Rashidiya
+P00845,Egyptian,Self-employed,Self-employed / Other,Dubai Sports City
+P00846,Indian,Zenith Tech,Tech & Telecom,West Bay
+P00847,Indian,Self-employed,Self-employed / Other,Arabian Ranches
+P00848,British,Cedar Medical Centre,Healthcare,Dubai Sports City
+P00849,British,Government Entity,Government & Education,Al Reem Island
+P00850,Other,Crescent Logistics,Aviation & Logistics,Dubai Hills
+P00851,Lebanese,Self-employed,Self-employed / Other,Dubai Sports City
+P00852,Indian,Orbit Telecom,Tech & Telecom,Uptown Mirdif
+P00853,Lebanese,Gulf Crescent Bank,Banking & Finance,Dubai Media City
+P00854,Indian,Orbit Telecom,Tech & Telecom,Jumeirah Village Triangle
+P00855,Other,Oasis Energy,Energy,Arabian Ranches
+P00856,Egyptian,Education Authority,Government & Education,Khalifa City
+P00857,Jordanian,Government Entity,Government & Education,
+P00858,Indian,Skyline Aviation,Aviation & Logistics,Mirdif
+P00859,Syrian,Orbit Telecom,Tech & Telecom,Lusail
+P00860,Other,Crescent Logistics,Aviation & Logistics,Al Gharrafa
+P00861,Emirati,Crescent Logistics,Aviation & Logistics,
+P00862,Other,Souk & Co Retail,Hospitality & Retail,Mudon
+P00863,Indian,,Aviation & Logistics,Jumeirah Village Circle
+P00864,Qatari,Desert Rose Hospitality,Hospitality & Retail,Aspire Zone
+P00865,Indian,Palm Health Group,Healthcare,Umm Salal
+P00866,Emirati,Meridian Bank,Banking & Finance,JLT
+P00867,Indian,Oasis Energy,Energy,Uptown Mirdif
+P00868,Lebanese,Meridian Bank,Banking & Finance,Dubai Marina
+P00869,Indian,Cedar Medical Centre,Healthcare,Al Raha Beach
+P00870,Emirati,Harbour Capital,Banking & Finance,Saadiyat Island
+P00871,Other,Desert Rose Hospitality,Hospitality & Retail,Dubai Marina
+P00872,Emirati,Self-employed,Self-employed / Other,Al Warqa
+P00873,Lebanese,Oasis Energy,Energy,JBR
+P00874,Syrian,Harbour Capital,Banking & Finance,Umm Suqeim
+P00875,Pakistan,Self-employed,Self-employed / Other,Al Raha
+P00876,Filipino,Orbit Telecom,Tech & Telecom,Uptown Mirdif
+P00877,Indian,Orbit Telecom,Tech & Telecom,The Pearl-Qatar
+P00878,Egyptian,Pinnacle Properties,Real Estate & Construction,Al Waab
+P00879,Indian,Cedar Medical Centre,Healthcare,Al Aziziya
+P00880,Filipino,Palm Health Group,Healthcare,Jumeirah Village Circle
+P00881,Jordanian,Desert Rose Hospitality,Hospitality & Retail,The Pearl-Qatar
+P00882,American,Gulf Crescent Bank,Banking & Finance,Al Daayen
+P00883,Indian,Oasis Developments,Real Estate & Construction,JLT
+P00884,Jordanian,GOVERNMENT ENTITY,Government & Education,Al Luqta
+P00885,Indian,Oasis Energy,Energy,Arjan
+P00886,Indian,Self-employed,Self-employed / Other,Al Barsha
+P00887,Indian,Cedar Medical Centre,Healthcare,Lusail
+P00888,Lebanese,Self-employed,Self-employed / Other,Al Sufouh
+P00889,Filipino,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P00890,Syrian,Souk & Co Retail,Hospitality & Retail,JLT
+P00891,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Dubai Sports City
+P00892,Indian,Palm Health Group,Healthcare,Dubai Sports City
+P00893,Emirati,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Circle
+P00894,Other,Skyline Aviation,Aviation & Logistics,West Bay
+P00895,Jordanian,Education Authority,Government & Education,Fox Hills
+P00896,indian ,Palm Health Group,Healthcare,
+P00897,Jordanian,Crescent Logistics,Aviation & Logistics,Dubai Sports City
+P00898,Indian,Self-employed,Self-employed / Other,Arabian Ranches
+P00899,Indian,Pinnacle Properties,Real Estate & Construction,Dubai Hills
+P00900,Egyptian,Palm Health Group,Healthcare,Arabian Ranches
+P00901,Jordanian,Crescent Logistics,Aviation & Logistics,Arabian Ranches
+P00902,Egyptian,Meridian Bank,Banking & Finance,Mohammed Bin Zayed City
+P00903,emirati,Oasis Energy,Energy,Saadiyat Island
+P00904,Lebanese,  Zenith Tech ,Tech & Telecom,Yas Island
+P00905,Other,Self-employed,Self-employed / Other,West Bay
+P00906,Other,,Aviation & Logistics,Fox Hills
+P00907,Indian,Cedar Medical Centre,Healthcare,Dubai Marina
+P00908,Egyptian,Palm Health Group,Healthcare,Town Square
+P00909,Indian,Gulf Crescent Bank,Banking & Finance,Dubai Hills
+P00910,Egyptian,Self-employed,Self-employed / Other,Al Raha
+P00911,British,Oasis Energy,Energy,Al Raha Beach
+P00912,Filipino,Cedar Medical Centre,Healthcare,Al Waab
+P00913,Egypt,Palm Health Group,Healthcare,The Pearl-Qatar
+P00914,Jordanian,Oasis Developments,Real Estate & Construction,Uptown Mirdif
+P00915,Lebanese,Self-employed,Self-employed / Other,Al Waab
+P00916,Emirati,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Circle
+P00917,Other,Skyline Aviation,Aviation & Logistics,Al Barsha
+P00918,British,Skyline Aviation,Aviation & Logistics,Rashidiya
+P00919,Indian,Self-employed,Self-employed / Other,Yas Island
+P00920,Other,Cedar Medical Centre,Healthcare,Motor City
+P00921,Indian,Education Authority,Government & Education,Uptown Mirdif
+P00922,Other,Desert Rose Hospitality,Hospitality & Retail,Shakhbout City
+P00923,Egyptian,Gulf Crescent Bank,Banking & Finance,Masdar City
+P00924,Indian,Oasis Developments,Real Estate & Construction,Yas Island
+P00925,Lebanese,Oasis Developments,Real Estate & Construction,Al Raha
+P00926,British,Palm Health Group,Healthcare,Al Sadd
+P00927,British,Souk & Co Retail,Hospitality & Retail,Al Sadd
+P00928,Jordanian,Government Entity,Government & Education,Al Waab
+P00929,Jordanian,Orbit Telecom,Tech & Telecom,Dubai Sports City
+P00930,Other,Pinnacle Properties,Real Estate & Construction,Mudon
+P00931,Other,Oasis Energy,Energy,Damac Hills
+P00932,Indian,Harbour Capital,Banking & Finance,Al Raha
+P00933,Russian,Harbour Capital,Banking & Finance,JBR
+P00934,Indian,Souk & Co Retail,Hospitality & Retail,Al Sufouh
+P00935,Syrian,Meridian Bank,Banking & Finance,Arabian Ranches
+P00936,Jordanian,Self-employed,Self-employed / Other,Khalifa City
+P00937,egyptian,Orbit Telecom,Tech & Telecom,
+P00938,Indian,Cedar Medical Centre,Healthcare,Motor City
+P00939,Indian,meridian bank,Banking & Finance,Jumeirah Village Triangle
+P00940,Egyptian,Government Entity,Government & Education,Jumeirah Village Circle
+P00941,Indian,Government Entity,Government & Education,Khalifa City
+P00942,Lebanese,Government Entity,Government & Education,Al Raha Beach
+P00943,British,Education Authority,Government & Education,West Bay
+P00944,Filipino,Skyline Aviation,Aviation & Logistics,JLT
+P00945,Indian,Education Authority,Government & Education,Arabian Ranches
+P00946,Lebanese,Education Authority,Government & Education,Al Reef
+P00947,Egyptian,Cedar Medical Centre,Healthcare,Yas Island
+P00948,British,Crescent Logistics,Aviation & Logistics,Al Aziziya
+P00949,Indian,Harbour Capital,Banking & Finance,Town Square
+P00950,Egyptian,SKYLINE AVIATION,Aviation & Logistics,West Bay
+P00951,British,Souk & Co Retail,Hospitality & Retail,JLT
+P00952,British,Zenith Tech,Tech & Telecom,Dubai Marina
+P00953,British,  Palm Health Group ,Healthcare,Jumeirah Village Circle
+P00954,Filipino,Souk & Co Retail,Hospitality & Retail,Al Sufouh
+P00955,Pakistani,Souk & Co Retail,Hospitality & Retail,Damac Hills
+P00956,Other,Skyline Aviation,Aviation & Logistics,Dubai Hills
+P00957,Egyptian,Cedar Medical Centre,Healthcare,Rashidiya
+P00958,British,Oasis Energy,Energy,Al Raha
+P00959,Indian,Gulf Crescent Bank,Banking & Finance,Saadiyat Island
+P00960,Jordanian,Palm Health Group,Healthcare,Lusail
+P00961,American,Crescent Logistics,Aviation & Logistics,Al Daayen
+P00962,Jordanian,,Banking & Finance,Palm Jumeirah
+P00963,Pakistani,Zenith Tech,Tech & Telecom,Jumeirah Village Triangle
+P00964,British,Meridian Bank,Banking & Finance,Lusail
+P00965,American,Oasis Developments,Real Estate & Construction,Lusail
+P00966,U.K.,Cedar Medical Centre,Healthcare,Al Warqa
+P00967,Indian,Oasis Energy,Energy,Shakhbout City
+P00968,Indian,Palm Health Group,Healthcare,
+P00969,Lebanese,,Hospitality & Retail,Al Barsha
+P00970,Filipino,Oasis Energy,Energy,Uptown Mirdif
+P00971,Emirati,Harbour Capital,Banking & Finance,Mohammed Bin Zayed City
+P00972,Lebanese,Skyline Aviation,Aviation & Logistics,Al Sadd
+P00973,British,Government Entity,Government & Education,Jumeirah Village Circle
+P00974,Egyptian,HARBOUR CAPITAL,Banking & Finance,Jumeirah Village Circle
+P00975,Other,Government Entity,Government & Education,Dubai Hills
+P00976,Egyptian,Oasis Developments,Real Estate & Construction,Town Square
+P00977,British,Meridian Bank,Banking & Finance,Khalifa City
+P00978,Lebanese,Government Entity,Government & Education,Jumeirah Village Circle
+P00979,Indian,Self-employed,Self-employed / Other,Dubailand
+P00980,Jordanian,Harbour Capital,Banking & Finance,Khalifa City
+P00981,Egyptian,Oasis Energy,Energy,Al Waab
+P00982,Jordanian,Cedar Medical Centre,Healthcare,JLT
+P00983,Egyptian,Souk & Co Retail,Hospitality & Retail,Al Barsha South
+P00984,Lebanese,Desert Rose Hospitality,Hospitality & Retail,Dubai Silicon Oasis
+P00985,Lebanese,Palm Health Group,Healthcare,Uptown Mirdif
+P00986,Jordanian,Harbour Capital,Banking & Finance,West Bay
+P00987,Filipino,,Tech & Telecom,West Bay
+P00988,Filipino,Orbit Telecom,Tech & Telecom,Msheireb
+P00989,Russian,Cedar Medical Centre,Healthcare,Palm Jumeirah
+P00990,Jordanian,,Aviation & Logistics,Arjan
+P00991,Indian,Souk & Co Retail,Hospitality & Retail,Arabian Ranches
+P00992,Indian,Government Entity,Government & Education,Arabian Ranches
+P00993,Jordanian,Crescent Logistics,Aviation & Logistics,The Pearl-Qatar
+P00994,Syrian,Oasis Developments,Real Estate & Construction,Lusail
+P00995,Filipino,Harbour Capital,Banking & Finance,Fox Hills
+P00996,Other,Self-employed,Self-employed / Other,Palm Jumeirah
+P00997,Lebanese,Harbour Capital,Banking & Finance,Dubai Hills
+P00998,Indian,Self-employed,Self-employed / Other,Msheireb
+P00999,Emirati,Self-employed,Self-employed / Other,Dubai Marina
+P01000,Emirati,Education Authority,Government & Education,Al Barsha
+P01001,Indian,Pinnacle Properties,Real Estate & Construction,Al Raha
+P01002,Egypt,,Hospitality & Retail,Corniche
+P01003,Other,Zenith Tech,Tech & Telecom,Aspire Zone
+P01004,Pakistani,Oasis Developments,Real Estate & Construction,Palm Jumeirah
+P01005,Indian,Cedar Medical Centre,Healthcare,Al Barsha South
+P01006,Indian,Cedar Medical Centre,Healthcare,Mudon
+P01007,Indian,Desert Rose Hospitality,Hospitality & Retail,Khalifa City
+P01008,Other,Zenith Tech,Tech & Telecom,Mohammed Bin Zayed City
+P01009,India,Education Authority,Government & Education,Lusail
+P01010,Russian,Oasis Energy,Energy,Tecom
+P01011,American,Government Entity,Government & Education,West Bay
+P01012,Other,Education Authority,Government & Education,Al Waab
+P01013,Egyptian,Skyline Aviation,Aviation & Logistics,Al Kheesa
+P01014,Indian,Palm Health Group,Healthcare,JBR
+P01015,Qatari,Gulf Crescent Bank,Banking & Finance,The Pearl-Qatar
+P01016,Filipino,,Tech & Telecom,The Pearl-Qatar
+P01017,Filipino,Souk & Co Retail,Hospitality & Retail,Dubai Marina
+P01018,Emirati,Zenith Tech,Tech & Telecom,Al Barsha South
+P01019,Indian,Government Entity,Government & Education,Arabian Ranches
+P01020,Lebanese,Pinnacle Properties,Real Estate & Construction,Al Raha
+P01021,Indian,Skyline Aviation,Aviation & Logistics,Al Sufouh
+P01022,Indian,Meridian Bank,Banking & Finance,JBR
+P01023,Lebanese,Cedar Medical Centre,Healthcare,The Pearl-Qatar
+P01024,Indian,Oasis Energy,Energy,Dubai Hills
+P01025,British,Harbour Capital,Banking & Finance,Masdar City
+P01026,Pakistani,Souk & Co Retail,Hospitality & Retail,Dubai Sports City
+P01027,British,Oasis Developments,Real Estate & Construction,Dubai Marina
+P01028,Lebanese,Orbit Telecom,Tech & Telecom,Masdar City
+P01029,British,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Triangle
+P01030,Filipino,OASIS ENERGY,Energy,Jumeirah Village Triangle
+P01031,Egyptian,Government Entity,Government & Education,Al Gharrafa
+P01032,Russian,Desert Rose Hospitality,Hospitality & Retail,Motor City
+P01033,Egyptian,Zenith Tech,Tech & Telecom,Umm Suqeim
+P01034,Egyptian,Gulf Crescent Bank,Banking & Finance,Lusail
+P01035,Qatari,Desert Rose Hospitality,Hospitality & Retail,Lusail
+P01036,Lebanese,Harbour Capital,Banking & Finance,Dubai Sports City
+P01037,Syrian,Government Entity,Government & Education,West Bay
+P01038,Filipino,Desert Rose Hospitality,Hospitality & Retail,Al Sufouh
+P01039,Pakistani,Zenith Tech,Tech & Telecom,Palm Jumeirah
+P01040,Egyptian,Pinnacle Properties,Real Estate & Construction,Al Aziziya
+P01041,Emirati,Cedar Medical Centre,Healthcare,Jumeirah Village Circle
+P01042,Indian,Pinnacle Properties,Real Estate & Construction,Al Sufouh
+P01043,Indian,Meridian Bank,Banking & Finance,Mirdif
+P01044,Other,oasis developments,Real Estate & Construction,JLT
+P01045,Indian,,Aviation & Logistics,Town Square
+P01046,Indian,Zenith Tech,Tech & Telecom,Rashidiya
+P01047,Pakistani,Gulf Crescent Bank,Banking & Finance,Tecom
+P01048,Indian,Palm Health Group,Healthcare,Al Barsha
+P01049,British,Meridian Bank,Banking & Finance,Al Waab
+P01050,Filipino,Crescent Logistics,Aviation & Logistics,Khalifa City
+P01051,British,  Zenith Tech ,Tech & Telecom,Al Barsha South
+P01052,British,Gulf Crescent Bank,Banking & Finance,Motor City
+P01053,UAE,  Self-employed ,Self-employed / Other,Khalifa City
+P01054,Syrian,Harbour Capital,Banking & Finance,Muaither
+P01055,Russian,Oasis Developments,Real Estate & Construction,Jumeirah Village Circle
+P01056,Indian,,Banking & Finance,Lusail
+P01057,Russian,Souk & Co Retail,Hospitality & Retail,Rashidiya
+P01058,Indian,Oasis Energy,Energy,Khalifa City
+P01059,Indian,Palm Health Group,Healthcare,Yas Island
+P01060,Indian,souk & co retail,Hospitality & Retail,Al Gharrafa
+P01061,Filipino,Education Authority,Government & Education,Damac Hills
+P01062,Indian,Palm Health Group,Healthcare,Al Kheesa
+P01063,Pakistani,Harbour Capital,Banking & Finance,Jumeirah Village Triangle
+P01064,British,Government Entity,Government & Education,Jumeirah Village Triangle
+P01065,Jordanian,Government Entity,Government & Education,Jumeirah Village Circle
+P01066,Indian,Palm Health Group,Healthcare,West Bay
+P01067,Other,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P01068,Qatari,Meridian Bank,Banking & Finance,Al Kheesa
+P01069,Egyptian,palm health group,Healthcare,Al Sufouh
+P01070,Pakistani,Pinnacle Properties,Real Estate & Construction,Yas Island
+P01071,Jordanian,Self-employed,Self-employed / Other,Msheireb
+P01072,Other,Meridian Bank,Banking & Finance,Al Reef
+P01073,indian ,Cedar Medical Centre,Healthcare,JBR
+P01074,emirati,Harbour Capital,Banking & Finance,Al Reem Island
+P01075,American,Skyline Aviation,Aviation & Logistics,The Pearl-Qatar
+P01076,Filipino,Souk & Co Retail,Hospitality & Retail,Mirdif
+P01077,British,Souk & Co Retail,Hospitality & Retail,JVC
+P01078,Indian,Self-employed,Self-employed / Other,Al Daayen
+P01079,Indian,Cedar Medical Centre,Healthcare,Al Daayen
+P01080,Jordanian,Pinnacle Properties,Real Estate & Construction,Al Reef
+P01081,Egyptian,Souk & Co Retail,Hospitality & Retail,Al Sadd
+P01082,India,Pinnacle Properties,Real Estate & Construction,Fox Hills
+P01083,Filipino,Orbit Telecom,Tech & Telecom,
+P01084,British,Harbour Capital,Banking & Finance,Lusail
+P01085,Lebanese,Gulf Crescent Bank,Banking & Finance,Jumeirah Village Circle
+P01086,Syrian,Cedar Medical Centre,Healthcare,West Bay
+P01087,Syrian,Orbit Telecom,Tech & Telecom,The Pearl-Qatar
+P01088,Indian,Palm Health Group,Healthcare,Al Sufouh
+P01089,UK,Palm Health Group,Healthcare,Dubai Marina
+P01090,Filipino,Palm Health Group,Healthcare,Mudon
+P01091,Filipino,Skyline Aviation,Aviation & Logistics,Saadiyat Island
+P01092,Lebanese,Self-employed,Self-employed / Other,Motor City
+P01093,Other,Harbour Capital,Banking & Finance,Dubai Marina
+P01094,Other,Government Entity,Government & Education,Dubai Media City
+P01095,Jordanian,Desert Rose Hospitality,Hospitality & Retail,West Bay
+P01096,British,Zenith Tech,Tech & Telecom,Jumeirah Village Circle
+P01097,Jordanian,Meridian Bank,Banking & Finance,Al Reef
+P01098,Emirati,Oasis Developments,Real Estate & Construction,Al Raha
+P01099,Other,,Hospitality & Retail,Al Kheesa
+P01100,Egyptian,Cedar Medical Centre,Healthcare,Rashidiya
+P01101,Other,Desert Rose Hospitality,Hospitality & Retail,JBR
+P01102,Indian,Zenith Tech,Tech & Telecom,Mirdif
+P01103,Lebanese,Gulf Crescent Bank,Banking & Finance,Dubai Hills
+P01104,British,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P01105,Lebanese,Skyline Aviation,Aviation & Logistics,Al Barsha South
+P01106,Indian,Palm Health Group,Healthcare,
+P01107,Filipino,Orbit Telecom,Tech & Telecom,
+P01108,British,Zenith Tech,Tech & Telecom,Al Kheesa
+P01109,Lebanese,,Banking & Finance,Al Barsha
+P01110,Filipino,Palm Health Group,Healthcare,Al Aziziya
+P01111,Indian,Crescent Logistics,Aviation & Logistics,Al Kheesa
+P01112,Indian,Education Authority,Government & Education,Al Sufouh
+P01113,British,Desert Rose Hospitality,Hospitality & Retail,Mirdif
+P01114,Syrian,Souk & Co Retail,Hospitality & Retail,Arjan
+P01115,Indian,oasis developments,Real Estate & Construction,Yas Island
+P01116,Filipino,Government Entity,Government & Education,
+P01117,Syrian,Palm Health Group,Healthcare,Lusail
+P01118,Other,Self-employed,Self-employed / Other,Lusail
+P01119,Indian,Souk & Co Retail,Hospitality & Retail,Umm Suqeim
+P01120,Indian,Education Authority,Government & Education,The Pearl-Qatar
+P01121,Filipino,Orbit Telecom,Tech & Telecom,Al Dafna
+P01122,Other,Education Authority,Government & Education,Al Dafna
+P01123,indian ,,Banking & Finance,Al Twar
+P01124,Indian,Palm Health Group,Healthcare,Dubai Marina
+P01125,Other,Zenith Tech,Tech & Telecom,Mirdif
+P01126,Egyptian,Orbit Telecom,Tech & Telecom,Corniche
+P01127,Other,Gulf Crescent Bank,Banking & Finance,Al Barsha
+P01128,Indian,Meridian Bank,Banking & Finance,Masdar City
+P01129,Egypt,Harbour Capital,Banking & Finance,Dubai Marina
+P01130,Indian,Gulf Crescent Bank,Banking & Finance,Yas Island
+P01131,Egyptian,Self-employed,Self-employed / Other,Lusail
+P01132,Indian,Oasis Energy,Energy,Al Raha
+P01133,British,Education Authority,Government & Education,
+P01134,British,Desert Rose Hospitality,Hospitality & Retail,Uptown Mirdif
+P01135,British,Education Authority,Government & Education,Fox Hills
+P01136,Indian,Harbour Capital,Banking & Finance,JBR
+P01137,Qatari,Self-employed,Self-employed / Other,Aspire Zone
+P01138,Indian,Palm Health Group,Healthcare,Fox Hills
+P01139,Indian,Orbit Telecom,Tech & Telecom,Palm Jumeirah
+P01140,Filipino,Self-employed,Self-employed / Other,JBR
+P01141,Emirati ,Meridian Bank,Banking & Finance,Al Barsha South
+P01142,Egyptian,Cedar Medical Centre,Healthcare,Jumeirah Village Circle
+P01143,Pakistani,Orbit Telecom,Tech & Telecom,
+P01144,Jordanian,Oasis Developments,Real Estate & Construction,Al Reef
+P01145,Emirati,Government Entity,Government & Education,Khalifa City
+P01146,indian ,Pinnacle Properties,Real Estate & Construction,The Pearl-Qatar
+P01147,Pakistani,Crescent Logistics,Aviation & Logistics,Mirdif
+P01148,Jordanian,Oasis Energy,Energy,Lusail
+P01149,Other,Orbit Telecom,Tech & Telecom,Palm Jumeirah
+P01150,Indian,Desert Rose Hospitality,Hospitality & Retail,Mohammed Bin Zayed City
+P01151,Emirati,Pinnacle Properties,Real Estate & Construction,Khalifa City
+P01152,Qatari,Zenith Tech,Tech & Telecom,Al Waab
+P01153,Indian,Desert Rose Hospitality,Hospitality & Retail,Palm Jumeirah
+P01154,Filipino,Desert Rose Hospitality,Hospitality & Retail,Al Barsha
+P01155,Russian,Zenith Tech,Tech & Telecom,Dubai Hills
+P01156,Indian,Education Authority,Government & Education,JLT
+P01157,Filipino,Zenith Tech,Tech & Telecom,Al Raha
+P01158,Indian,Oasis Energy,Energy,Arabian Ranches
+P01159,American,Government Entity,Government & Education,West Bay
+P01160,Emirati,Palm Health Group,Healthcare,Khalifa City
+P01161,Indian,Zenith Tech,Tech & Telecom,Al Barsha
+P01162,Syrian,Oasis Energy,Energy,The Pearl-Qatar
+P01163,Emirati,Oasis Energy,Energy,JBR
+P01164,Indian,Education Authority,Government & Education,Al Raha Beach
+P01165,Other,Oasis Developments,Real Estate & Construction,Al Reef
+P01166,British,CEDAR MEDICAL CENTRE,Healthcare,Masdar City
+P01167,Filipino,Oasis Developments,Real Estate & Construction,Al Barsha South
+P01168,Indian,Cedar Medical Centre,Healthcare,Al Waab
+P01169,Qatari,Desert Rose Hospitality,Hospitality & Retail,Lusail
+P01170,Filipino,Self-employed,Self-employed / Other,West Bay
+P01171,Filipino,Government Entity,Government & Education,Al Dafna
+P01172,Indian,Crescent Logistics,Aviation & Logistics,Al Aziziya
+P01173,Russian,Zenith Tech,Tech & Telecom,Motor City
+P01174,Jordanian,Harbour Capital,Banking & Finance,Dubailand
+P01175,Syrian,Souk & Co Retail,Hospitality & Retail,Lusail
+P01176,Other,Education Authority,Government & Education,Uptown Mirdif
+P01177,British,Skyline Aviation,Aviation & Logistics,Khalifa City
+P01178,Other,Meridian Bank,Banking & Finance,Mohammed Bin Zayed City
+P01179,American,Self-employed,Self-employed / Other,Fox Hills
+P01180,Emirati,Harbour Capital,Banking & Finance,Khalifa City
+P01181,Indian,Harbour Capital,Banking & Finance,Mirdif
+P01182,Indian,Education Authority,Government & Education,Umm Suqeim
+P01183,Indian,Government Entity,Government & Education,The Pearl-Qatar
+P01184,Indian,Souk & Co Retail,Hospitality & Retail,Al Raha Beach
+P01185,Other,,Government & Education,Al Barsha South
+P01186,Egyptian,Orbit Telecom,Tech & Telecom,Al Waab
+P01187,Other,Harbour Capital,Banking & Finance,Mirdif
+P01188,Lebanese,Self-employed,Self-employed / Other,Mudon
+P01189,Jordanian,Gulf Crescent Bank,Banking & Finance,Khalifa City
+P01190,British,Meridian Bank,Banking & Finance,Umm Suqeim
+P01191,British,Skyline Aviation,Aviation & Logistics,Mirdif
+P01192,Egyptian,Harbour Capital,Banking & Finance,West Bay
+P01193,Other,Oasis Energy,Energy,Al Raha
+P01194,Syrian,Orbit Telecom,Tech & Telecom,Arabian Ranches
+P01195,Egyptian,Crescent Logistics,Aviation & Logistics,West Bay
+P01196,Emirati,Government Entity,Government & Education,Al Warqa
+P01197,Other,Orbit Telecom,Tech & Telecom,Mirdif
+P01198,Egyptian,Zenith Tech,Tech & Telecom,Khalifa City
+P01199,Filipino,Orbit Telecom,Tech & Telecom,Lusail
+P01200,Egyptian,Orbit Telecom,Tech & Telecom,Lusail
+P01201,India,Orbit Telecom,Tech & Telecom,Al Barsha South
+P01202,Other,Palm Health Group,Healthcare,Mirdif
+P01203,Lebanese,Oasis Developments,Real Estate & Construction,Mohammed Bin Zayed City
+P01204,Lebanese,Pinnacle Properties,Real Estate & Construction,Dubailand
+P01205,Other,Desert Rose Hospitality,Hospitality & Retail,Al Dafna
+P01206,Egyptian,Crescent Logistics,Aviation & Logistics,Al Sufouh
+P01207,Egypt,Souk & Co Retail,Hospitality & Retail,Yas Island
+P01208,Emirati,Palm Health Group,Healthcare,Al Raha
+P01209,Other,Cedar Medical Centre,Healthcare,Al Luqta
+P01210,Syrian,Meridian Bank,Banking & Finance,Al Aziziya
+P01211,British,Government Entity,Government & Education,Msheireb
+P01212,emirati,Education Authority,Government & Education,Khalifa City
+P01213,Lebanese,,Healthcare,Al Dafna
+P01214,Qatari,Crescent Logistics,Aviation & Logistics,Msheireb
+P01215,Emirati,Orbit Telecom,Tech & Telecom,Al Twar
+P01216,Other,Education Authority,Government & Education,Saadiyat Island
+P01217,Russian,Souk & Co Retail,Hospitality & Retail,Dubai Sports City
+P01218,Indian,Zenith Tech,Tech & Telecom,Lusail
+P01219,Other,Self-employed,Self-employed / Other,JLT
+P01220,Other,Pinnacle Properties,Real Estate & Construction,Arabian Ranches
+P01221,indian ,Harbour Capital,Banking & Finance,Al Luqta
+P01222,Indian,Government Entity,Government & Education,Al Raha
+P01223,Other,Harbour Capital,Banking & Finance,Aspire Zone
+P01224,Indian,Skyline Aviation,Aviation & Logistics,Mudon
+P01225,Indian,Orbit Telecom,Tech & Telecom,Dubai Silicon Oasis
+P01226,Egyptian,Skyline Aviation,Aviation & Logistics,Mohammed Bin Zayed City
+P01227,Indian,Harbour Capital,Banking & Finance,Jumeirah Village Circle
+P01228,Pakistan,Orbit Telecom,Tech & Telecom,Jumeirah Village Triangle
+P01229,Qatari,Gulf Crescent Bank,Banking & Finance,Fox Hills
+P01230,Pakistani,Gulf Crescent Bank,Banking & Finance,Dubai Marina
+P01231,Egyptian,Skyline Aviation,Aviation & Logistics,Al Sufouh
+P01232,British,Cedar Medical Centre,Healthcare,Mirdif
+P01233,indian ,Harbour Capital,Banking & Finance,Msheireb
+P01234,Indian,Palm Health Group,Healthcare,Dubai Hills
+P01235,Filipino,Zenith Tech,Tech & Telecom,Al Aziziya
+P01236,Egyptian,Palm Health Group,Healthcare,Masdar City
+P01237,Indian,Oasis Energy,Energy,Al Twar
+P01238,Egyptian,Palm Health Group,Healthcare,Lusail
+P01239,Other,Zenith Tech,Tech & Telecom,Arabian Ranches
+P01240,Pakistani,Oasis Developments,Real Estate & Construction,Damac Hills
+P01241,Indian,Education Authority,Government & Education,Mirdif
+P01242,Filipino,Oasis Developments,Real Estate & Construction,Uptown Mirdif
+P01243,Indian,Meridian Bank,Banking & Finance,Mudon
+P01244,Other,Orbit Telecom,Tech & Telecom,Al Kheesa
+P01245,Lebanese,Government Entity,Government & Education,Jumeirah Village Circle
+P01246,Filipino,Government Entity,Government & Education,JBR
+P01247,Lebanese,Pinnacle Properties,Real Estate & Construction,Mirdif
+P01248,Russian,Cedar Medical Centre,Healthcare,Dubai Marina
+P01249,Lebanese,Souk & Co Retail,Hospitality & Retail,Al Luqta
+P01250,British,Self-employed,Self-employed / Other,Jumeirah Village Circle
+P01251,Indian,Pinnacle Properties,Real Estate & Construction,Arabian Ranches
+P01252,Indian,Self-employed,Self-employed / Other,Mirdif
+P01253,Emirati ,Desert Rose Hospitality,Hospitality & Retail,Al Twar
+P01254,British,Harbour Capital,Banking & Finance,Dubai Marina
+P01255,Indian,Orbit Telecom,Tech & Telecom,Umm Suqeim
+P01256,Russian,Desert Rose Hospitality,Hospitality & Retail,Damac Hills
+P01257,Emirati,oasis energy,Energy,Khalifa City
+P01258,British,Palm Health Group,Healthcare,Al Waab
+P01259,Filipino,Oasis Energy,Energy,Al Luqta
+P01260,Egyptian,,Energy,Palm Jumeirah
+P01261,emirati,Skyline Aviation,Aviation & Logistics,JLT
+P01262,British,,Banking & Finance,Jumeirah Village Triangle
+P01263,Indian,Palm Health Group,Healthcare,Jumeirah Village Circle
+P01264,Russian,Education Authority,Government & Education,Jumeirah Village Circle
+P01265,Pakistani,Education Authority,Government & Education,Uptown Mirdif
+P01266,Filipino,education authority,Government & Education,Al Barsha
+P01267,Indian,,Aviation & Logistics,Arabian Ranches
+P01268,Other,SELF-EMPLOYED,Self-employed / Other,Dubai Silicon Oasis
+P01269,Lebanese,Palm Health Group,Healthcare,Khalifa City
+P01270,Emirati,Self-employed,Self-employed / Other,Yas Island
+P01271,Qatari,Gulf Crescent Bank,Banking & Finance,
+P01272,Indian,Souk & Co Retail,Hospitality & Retail,Palm Jumeirah
+P01273,Syrian,Meridian Bank,Banking & Finance,Al Warqa
+P01274,Other,Zenith Tech,Tech & Telecom,Yas Island
+P01275,Egyptian,Government Entity,Government & Education,Al Waab
+P01276,Qatari,Skyline Aviation,Aviation & Logistics,Muaither
+P01277,Jordanian,Cedar Medical Centre,Healthcare,Tecom
+P01278,Indian,Meridian Bank,Banking & Finance,Al Barsha
+P01279,Emirati,Desert Rose Hospitality,Hospitality & Retail,Dubai Hills
+P01280,Other,Crescent Logistics,Aviation & Logistics,Khalifa City
+P01281,Jordanian,Self-employed,Self-employed / Other,Uptown Mirdif
+P01282,Qatari,Self-employed,Self-employed / Other,The Pearl-Qatar
+P01283,Egyptian,Pinnacle Properties,Real Estate & Construction,Aspire Zone
+P01284,Emirati,Desert Rose Hospitality,Hospitality & Retail,Al Sufouh
+P01285,Lebanese,  Desert Rose Hospitality ,Hospitality & Retail,Tecom
+P01286,Egyptian,Palm Health Group,Healthcare,Khalifa City
+P01287,Indian,Crescent Logistics,Aviation & Logistics,Al Waab
+P01288,Indian,Oasis Developments,Real Estate & Construction,JLT
+P01289,British,Oasis Energy,Energy,Al Raha
+P01290,Indian,Orbit Telecom,Tech & Telecom,Dubai Marina
+P01291,Other,Government Entity,Government & Education,Al Sufouh
+P01292,egyptian,Government Entity,Government & Education,JLT
+P01293,Emirati,Desert Rose Hospitality,Hospitality & Retail,Al Sufouh
+P01294,Pakistani,Palm Health Group,Healthcare,Mirdif
+P01295,Filipino,,Tech & Telecom,Khalifa City
+P01296,British,Palm Health Group,Healthcare,Masdar City
+P01297,Indian,PALM HEALTH GROUP,Healthcare,Saadiyat Island
+P01298,Indian,Government Entity,Government & Education,Yas Island
+P01299,Egyptian,,Aviation & Logistics,Al Dafna
+P01300,Indian,Zenith Tech,Tech & Telecom,Al Daayen
+P01301,Indian,Oasis Energy,Energy,Al Kheesa
+P01302,Indian,Souk & Co Retail,Hospitality & Retail,Saadiyat Island
+P01303,British,Souk & Co Retail,Hospitality & Retail,Al Dafna
+P01304,Indian,Oasis Energy,Energy,West Bay
+P01305,Other,Souk & Co Retail,Hospitality & Retail,Dubai Hills
+P01306,British,Zenith Tech,Tech & Telecom,Arabian Ranches
+P01307,Indian,Palm Health Group,Healthcare,Arabian Ranches
+P01308,Emirati,Cedar Medical Centre,Healthcare,Khalifa City
+P01309,Other,Zenith Tech,Tech & Telecom,Al Kheesa
+P01310,Indian,Oasis Energy,Energy,Mudon
+P01311,Filipino,Skyline Aviation,Aviation & Logistics,Uptown Mirdif
+P01312,Filipino,Souk & Co Retail,Hospitality & Retail,Rashidiya
+P01313,Filipino,Gulf Crescent Bank,Banking & Finance,Al Waab
+P01314,British,Meridian Bank,Banking & Finance,Al Barsha
+P01315,Other,Souk & Co Retail,Hospitality & Retail,Dubai Hills
+P01316,Pakistani,  Crescent Logistics ,Aviation & Logistics,Al Raha
+P01317,Jordanian,Desert Rose Hospitality,Hospitality & Retail,Al Reef
+P01318,Indian,Souk & Co Retail,Hospitality & Retail,Yas Island
+P01319,Other,Orbit Telecom,Tech & Telecom,Corniche
+P01320,Filipino,Cedar Medical Centre,Healthcare,Al Sufouh
+P01321,emirati,Oasis Developments,Real Estate & Construction,Dubai Hills
+P01322,Other,Government Entity,Government & Education,JLT
+P01323,Pakistani,Self-employed,Self-employed / Other,Al Barsha South
+P01324,Pakistani,Cedar Medical Centre,Healthcare,Rashidiya
+P01325,British,education authority,Government & Education,Al Raha
+P01326,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Saadiyat Island
+P01327,Emirati,Self-employed,Self-employed / Other,Yas Island
+P01328,American,Orbit Telecom,Tech & Telecom,West Bay
+P01329,Indian,Palm Health Group,Healthcare,Al Waab
+P01330,Lebanese,Desert Rose Hospitality,Hospitality & Retail,Lusail
+P01331,British,Palm Health Group,Healthcare,Al Sufouh
+P01332,British,Desert Rose Hospitality,Hospitality & Retail,Al Barsha South
+P01333,Egyptian,Oasis Energy,Energy,Dubailand
+P01334,Pakistani,Desert Rose Hospitality,Hospitality & Retail,Al Raha
+P01335,Lebanese,Skyline Aviation,Aviation & Logistics,Uptown Mirdif
+P01336,Pakistani,Gulf Crescent Bank,Banking & Finance,Mirdif
+P01337,Russian,Harbour Capital,Banking & Finance,Uptown Mirdif
+P01338,Egyptian,Pinnacle Properties,Real Estate & Construction,Khalifa City
+P01339,Other,Palm Health Group,Healthcare,Khalifa City
+P01340,Filipino,Palm Health Group,Healthcare,West Bay
+P01341,British,Meridian Bank,Banking & Finance,Dubai Sports City
+P01342,Pakistani,Gulf Crescent Bank,Banking & Finance,Al Barsha South
+P01343,Other,Orbit Telecom,Tech & Telecom,Al Raha
+P01344,Indian,oasis developments,Real Estate & Construction,Dubai Marina
+P01345,Indian,oasis energy,Energy,Jumeirah Village Circle
+P01346,Pakistani,Palm Health Group,Healthcare,Arabian Ranches
+P01347,Indian,oasis energy,Energy,The Pearl-Qatar
+P01348,Other,Skyline Aviation,Aviation & Logistics,Motor City
+P01349,Egyptian,,Government & Education,Dubai Sports City
+P01350,Egyptian,Souk & Co Retail,Hospitality & Retail,West Bay
+P01351,British,Skyline Aviation,Aviation & Logistics,Al Dafna
+P01352,Egyptian,Skyline Aviation,Aviation & Logistics,Lusail
+P01353,UAE,Souk & Co Retail,Hospitality & Retail,Jumeirah Village Circle
+P01354,Indian,OASIS DEVELOPMENTS,Real Estate & Construction,Mirdif
+P01355,indian ,Desert Rose Hospitality,Hospitality & Retail,Mirdif
+P01356,British,Self-employed,Self-employed / Other,Al Raha
+P01357,Lebanese,Desert Rose Hospitality,Hospitality & Retail,Yas Island
+P01358,Other,Souk & Co Retail,Hospitality & Retail,West Bay
+P01359,Other,Government Entity,Government & Education,Al Waab
+P01360,Egyptian,Education Authority,Government & Education,Al Waab
+P01361,Egyptian,Gulf Crescent Bank,Banking & Finance,Al Waab
+P01362,British,Oasis Energy,Energy,Fox Hills
+P01363,Egyptian,Harbour Capital,Banking & Finance,Al Kheesa
+P01364,Egyptian,Desert Rose Hospitality,Hospitality & Retail,Lusail
+P01365,Egyptian,Desert Rose Hospitality,Hospitality & Retail,
+P01366,American,Souk & Co Retail,Hospitality & Retail,Lusail
+P01367,British,Zenith Tech,Tech & Telecom,Fox Hills
+P01368,Other,Self-employed,Self-employed / Other,Jumeirah Village Triangle
+P01369,Indian,Education Authority,Government & Education,Dubai Hills
+P01370,Other,Government Entity,Government & Education,Al Warqa
+P01371,Egyptian,Skyline Aviation,Aviation & Logistics,Al Warqa
+P01372,Egyptian,Desert Rose Hospitality,Hospitality & Retail,West Bay
+P01373,Egyptian,Oasis Developments,Real Estate & Construction,Al Daayen
+P01374,Pakistani,Orbit Telecom,Tech & Telecom,Al Barsha
+P01375,Qatari,Pinnacle Properties,Real Estate & Construction,Al Luqta
+P01376,Filipino,Education Authority,Government & Education,Fox Hills
+P01377,Indian,Zenith Tech,Tech & Telecom,Dubai Hills
+P01378,Emirati,Palm Health Group,Healthcare,Yas Island
+P01379,Jordanian,Desert Rose Hospitality,Hospitality & Retail,Al Raha
+P01380,Indian,Orbit Telecom,Tech & Telecom,Aspire Zone
+P01381,Qatari,Cedar Medical Centre,Healthcare,Fox Hills
+P01382,Filipino,Orbit Telecom,Tech & Telecom,Umm Suqeim
+P01383,Egyptian,Self-employed,Self-employed / Other,Al Sufouh
+P01384,Indian,Crescent Logistics,Aviation & Logistics,Al Reem Island
+P01385,Indian,,Hospitality & Retail,Dubai Marina
+P01386,Jordanian,Harbour Capital,Banking & Finance,The Pearl-Qatar
+P01387,Jordanian,Desert Rose Hospitality,Hospitality & Retail,Khalifa City
+P01388,Indian,Desert Rose Hospitality,Hospitality & Retail,Palm Jumeirah
+P01389,Indian,Government Entity,Government & Education,Dubai Marina
+P01390,British,Oasis Developments,Real Estate & Construction,Arjan
+P01391,India,Meridian Bank,Banking & Finance,Al Raha
+P01392,Qatari,Orbit Telecom,Tech & Telecom,Lusail
+P01393,Egyptian,Harbour Capital,Banking & Finance,Al Warqa
+P01394,Egyptian,Meridian Bank,Banking & Finance,Aspire Zone
+P01395,Other,Oasis Developments,Real Estate & Construction,Masdar City
+P01396,Indian,Gulf Crescent Bank,Banking & Finance,Al Barsha South
+P01397,Indian,Meridian Bank,Banking & Finance,Mirdif
+P01398,Indian,DESERT ROSE HOSPITALITY,Hospitality & Retail,Jumeirah Village Circle
+P01399,Indian,Oasis Energy,Energy,Dubai Marina
+P01400,Egyptian,Meridian Bank,Banking & Finance,Dubai Hills
+P01401,Syrian,Self-employed,Self-employed / Other,West Bay
+P01402,Filipino,Gulf Crescent Bank,Banking & Finance,Yas Island
+P01403,Indian,Skyline Aviation,Aviation & Logistics,Dubai Hills
+P01404,Other,Souk & Co Retail,Hospitality & Retail,Al Waab
+P01405,Jordanian,Skyline Aviation,Aviation & Logistics,West Bay

@@ -1,0 +1,1593 @@
+child_id,parent_id,nursery_id,date_of_birth,class_at_enrolment,enrol_date,leave_date,leave_reason,enrol_source,lead_id,camp_id,fee_discount_rate,status
+C00001,P00001,N01,2019-10-22,FS2,2024-02-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00002,P00002,N01,2020-05-08,FS2,2023-06-17,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00003,P00003,N01,2019-12-17,FS2,2023-12-25,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00004,P00002,N01,2021-03-10,FS1,2023-07-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00005,P00001,N01,2020-07-14,FS2,2024-03-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00006,P00004,N01,2023-01-27,Toddler,2024-09-09,,,Existing,,,0.0,Active
+C00007,P00005,N01,2022-11-20,Toddler,2023-04-19,,,Existing,,,0.0,Active
+C00008,P00006,N01,2024-07-17,Infant,2024-12-14,,,Existing,,,0.0,Active
+C00009,P00007,N01,2021-02-05,FS1,2023-08-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00010,P00008,N01,2019-10-09,FS2,2023-06-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00011,P00009,N01,2022-11-25,Toddler,2023-07-20,,,Existing,,,0.0,Active
+C00012,P00010,N01,2021-02-05,FS1,2023-07-31,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00013,P00011,N01,2021-03-08,FS1,2023-12-22,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00014,P00012,N01,2023-07-15,Toddler,2023-12-12,,,Existing,,,0.05,Active
+C00015,P00013,N01,2022-12-23,Toddler,2023-09-25,,,Existing,,,0.0,Active
+C00016,P00014,N01,2023-03-31,Toddler,2023-11-21,,,Existing,,,0.0,Active
+C00017,P00015,N01,2020-09-25,FS1,2024-02-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00018,P00016,N01,2022-07-11,Nursery,2024-04-23,2026-02-28,Fees,Existing,,,0.0,Left
+C00019,P00017,N01,2019-10-21,FS2,2024-06-30,2025-07-31,Graduated to school,Existing,,,0.15,Left
+C00020,P00018,N01,2019-09-08,FS2,2024-02-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00021,P00019,N01,2021-12-12,Nursery,2024-07-06,2025-11-30,Fees,Existing,,,0.0,Left
+C00022,P00020,N01,2022-07-01,Nursery,2024-10-13,,,Existing,,,0.0,Active
+C00023,P00021,N01,2023-05-06,Toddler,2024-11-16,,,Existing,,,0.0,Active
+C00024,P00022,N01,2021-01-15,FS1,2024-08-04,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00025,P00023,N01,2022-09-27,Toddler,2023-12-15,2025-06-30,Other,Existing,,,0.0,Left
+C00026,P00024,N01,2019-10-08,FS2,2023-08-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00027,P00025,N01,2021-07-25,FS1,2024-05-31,2025-05-31,Fees,Existing,,,0.1,Left
+C00028,P00026,N01,2023-05-20,Toddler,2023-10-17,,,Existing,,,0.0,Active
+C00029,P00027,N01,2023-05-13,Toddler,2024-10-08,,,Existing,,,0.0,Active
+C00030,P00028,N01,2024-01-21,Infant,2024-06-19,,,Existing,,,0.1,Active
+C00031,P00029,N01,2020-08-10,FS2,2024-11-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00032,P00030,N01,2021-03-08,FS1,2024-08-12,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00033,P00031,N01,2020-10-20,FS1,2024-06-15,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00034,P00023,N01,2023-10-11,Infant,2024-09-27,,,Existing,,,0.1,Active
+C00035,P00032,N01,2023-05-23,Toddler,2023-10-20,,,Existing,,,0.0,Active
+C00036,P00033,N01,2022-08-06,Nursery,2024-09-04,,,Existing,,,0.1,Active
+C00037,P00020,N01,2022-12-19,Toddler,2023-09-08,,,Existing,,,0.0,Active
+C00038,P00034,N01,2020-07-25,FS2,2024-05-14,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00039,P00035,N01,2022-11-28,Toddler,2024-04-07,,,Existing,,,0.0,Active
+C00040,P00036,N01,2021-04-14,FS1,2023-06-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00041,P00037,N01,2019-12-06,FS2,2024-09-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00042,P00038,N01,2020-07-24,FS2,2024-05-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00043,P00039,N01,2024-05-13,Infant,2024-10-10,,,Existing,,,0.0,Active
+C00044,P00040,N01,2022-08-09,Nursery,2023-03-04,,,Existing,,,0.0,Active
+C00045,P00041,N01,2021-05-24,FS1,2023-09-09,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00046,P00042,N01,2021-08-10,FS1,2024-10-21,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00047,P00043,N01,2023-06-02,Toddler,2024-06-18,,,Existing,,,0.0,Active
+C00048,P00044,N01,2020-11-19,FS1,2023-03-02,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00049,P00045,N01,2021-05-18,FS1,2023-05-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00050,P00046,N01,2023-04-19,Toddler,2023-09-16,,,Existing,,,0.0,Active
+C00051,P00047,N01,2021-03-07,FS1,2023-06-07,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00052,P00048,N01,2021-04-10,FS1,2023-07-27,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00053,P00048,N01,2020-12-28,FS1,2024-06-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00054,P00049,N01,2020-12-23,FS1,2023-04-11,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00055,P00050,N01,2024-06-06,Infant,2024-11-03,,,Existing,,,0.0,Active
+C00056,P00051,N01,2022-09-21,Toddler,2023-05-03,,,Existing,,,0.0,Active
+C00057,P00052,N01,2022-05-27,Nursery,2023-06-11,,,Existing,,,0.0,Active
+C00058,P00053,N01,2020-10-24,FS1,2023-11-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00059,P00054,N01,2020-02-08,FS2,2023-07-08,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00060,P00055,N01,2022-08-01,Nursery,2024-05-19,,,Existing,,,0.0,Active
+C00061,P00056,N01,2021-10-06,Nursery,2023-06-27,,,Existing,,,0.0,Active
+C00062,P00057,N01,2022-09-21,Toddler,2024-07-11,2025-03-31,Moved to another nursery,Existing,,,0.0,Left
+C00063,P00058,N01,2022-11-17,Toddler,2023-10-21,,,Existing,,,0.0,Active
+C00064,P00059,N01,2021-04-29,FS1,2023-02-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00065,P00060,N01,2022-06-03,Nursery,2024-03-10,,,Existing,,,0.0,Active
+C00066,P00061,N01,2021-11-05,Nursery,2023-10-23,2026-10-31,Relocation,Existing,,,0.0,Left
+C00067,P00062,N01,2020-01-27,FS2,2024-10-22,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00068,P00025,N01,2022-06-30,Nursery,2023-04-11,,,Existing,,,0.0,Active
+C00069,P00063,N01,2022-02-05,Nursery,2024-03-05,,,Existing,,,0.0,Active
+C00070,P00014,N01,2020-03-10,FS2,2023-10-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00071,P00004,N01,2021-04-14,FS1,2023-02-20,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00072,P00064,N01,2021-04-29,FS1,2023-11-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00073,P00065,N01,2019-11-20,FS2,2023-08-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00074,P00066,N01,2021-04-15,FS1,2023-12-19,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00075,P00067,N01,2021-10-22,Nursery,2023-06-05,2025-12-31,Moved to another nursery,Existing,,,0.0,Left
+C00076,P00068,N01,2021-11-24,Nursery,2024-04-11,2025-06-30,Relocation,Existing,,,0.0,Left
+C00077,P00069,N01,2022-01-01,Nursery,2024-03-06,,,Existing,,,0.0,Active
+C00078,P00070,N01,2021-05-30,FS1,2023-04-03,2025-12-31,Moved to another nursery,Existing,,,0.0,Left
+C00079,P00071,N01,2021-09-24,Nursery,2023-07-05,,,Existing,,,0.0,Active
+C00080,P00072,N01,2021-01-02,FS1,2024-07-26,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00081,P00073,N01,2022-10-15,Toddler,2023-03-14,,,Existing,,,0.1,Active
+C00082,P00074,N01,2022-06-21,Nursery,2024-03-26,,,Existing,,,0.0,Active
+C00083,P00075,N01,2022-05-12,Nursery,2023-03-04,,,Existing,,,0.0,Active
+C00084,P00076,N01,2022-10-14,Toddler,2023-03-20,,,Existing,,,0.0,Active
+C00085,P00077,N01,2020-08-23,FS2,2023-03-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00086,P00078,N01,2020-02-19,FS2,2024-03-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00087,P00079,N01,2020-11-11,FS1,2023-10-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00088,P00080,N01,2020-11-14,FS1,2024-11-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00089,P00081,N01,2023-02-12,Toddler,2023-09-12,,,Existing,,,0.1,Active
+C00090,P00082,N01,2020-02-05,FS2,2024-08-13,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00091,P00083,N01,2021-02-04,FS1,2024-03-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00092,P00084,N01,2019-11-22,FS2,2023-04-12,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00093,P00085,N01,2021-04-11,FS1,2023-12-19,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00094,P00022,N01,2019-12-20,FS2,2024-11-13,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00095,P00086,N01,2021-09-30,Nursery,2024-11-05,,,Existing,,,0.0,Active
+C00096,P00087,N01,2021-01-17,FS1,2024-07-02,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00097,P00088,N02,2024-06-24,Infant,2024-11-21,,,Existing,,,0.0,Active
+C00098,P00089,N02,2020-07-16,FS2,2023-09-13,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00099,P00090,N02,2022-09-23,Toddler,2024-11-20,,,Existing,,,0.15,Active
+C00100,P00091,N02,2022-03-02,Nursery,2023-12-31,,,Existing,,,0.15,Active
+C00101,P00092,N02,2020-12-05,FS1,2024-01-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00102,P00093,N02,2021-02-26,FS1,2023-05-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00103,P00094,N02,2023-06-29,Toddler,2023-11-26,,,Existing,,,0.0,Active
+C00104,P00095,N02,2020-12-17,FS1,2024-09-15,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00105,P00091,N02,2021-01-13,FS1,2024-07-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00106,P00096,N02,2020-06-06,FS2,2024-09-17,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00107,P00097,N02,2020-07-26,FS2,2024-06-04,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00108,P00098,N02,2021-09-12,Nursery,2024-02-26,,,Existing,,,0.0,Active
+C00109,P00099,N02,2020-05-16,FS2,2023-11-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00110,P00100,N02,2022-11-25,Toddler,2024-08-26,,,Existing,,,0.0,Active
+C00111,P00101,N02,2021-08-01,FS1,2023-09-02,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00112,P00102,N02,2022-11-05,Toddler,2023-05-25,,,Existing,,,0.0,Active
+C00113,P00103,N02,2022-12-17,Toddler,2023-05-16,,,Existing,,,0.0,Active
+C00114,P00104,N02,2021-04-12,FS1,2024-11-22,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00115,P00105,N02,2022-07-04,Nursery,2024-06-04,2025-01-31,Moved to another nursery,Existing,,,0.0,Left
+C00116,P00106,N02,2021-12-13,Nursery,2023-09-04,,,Existing,,,0.05,Active
+C00117,P00107,N02,2020-08-21,FS2,2023-05-28,2025-04-30,Other,Existing,,,0.0,Left
+C00118,P00108,N02,2020-08-27,FS2,2024-04-26,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00119,P00109,N02,2023-05-19,Toddler,2024-09-17,,,Existing,,,0.0,Active
+C00120,P00110,N02,2020-08-09,FS2,2023-10-13,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00121,P00103,N02,2020-09-02,FS1,2024-11-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00122,P00111,N02,2021-06-25,FS1,2024-04-03,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00123,P00112,N02,2023-02-24,Toddler,2024-02-24,,,Existing,,,0.0,Active
+C00124,P00113,N02,2019-12-21,FS2,2023-04-09,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00125,P00114,N02,2020-08-17,FS2,2023-05-09,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00126,P00115,N02,2020-11-28,FS1,2024-07-07,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00127,P00116,N02,2020-01-31,FS2,2023-04-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00128,P00117,N02,2021-05-28,FS1,2023-05-14,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00129,P00118,N02,2021-06-21,FS1,2024-07-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00130,P00119,N02,2022-10-09,Toddler,2024-05-01,,,Existing,,,0.0,Active
+C00131,P00120,N02,2024-07-25,Infant,2024-12-22,2026-09-30,Relocation,Existing,,,0.0,Left
+C00132,P00121,N02,2021-02-05,FS1,2024-05-17,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00133,P00122,N02,2020-11-08,FS1,2024-07-13,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00134,P00123,N02,2022-03-22,Nursery,2023-04-09,,,Existing,,,0.0,Active
+C00135,P00124,N02,2023-10-10,Infant,2024-03-08,,,Existing,,,0.0,Active
+C00136,P00125,N02,2024-01-11,Infant,2024-06-09,,,Existing,,,0.1,Active
+C00137,P00121,N02,2020-12-03,FS1,2023-12-29,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00138,P00126,N02,2022-07-04,Nursery,2024-11-11,,,Existing,,,0.0,Active
+C00139,P00127,N02,2022-05-25,Nursery,2024-03-16,,,Existing,,,0.0,Active
+C00140,P00128,N02,2020-04-09,FS2,2023-03-14,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00141,P00129,N02,2021-08-08,FS1,2023-11-26,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00142,P00122,N02,2020-09-20,FS1,2024-04-30,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00143,P00094,N02,2021-06-07,FS1,2024-06-27,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00144,P00130,N02,2022-08-20,Nursery,2024-04-12,,,Existing,,,0.0,Active
+C00145,P00131,N02,2022-03-20,Nursery,2024-01-17,,,Existing,,,0.0,Active
+C00146,P00132,N02,2023-09-24,Infant,2024-02-21,,,Existing,,,0.0,Active
+C00147,P00090,N02,2023-05-19,Toddler,2023-10-16,2025-01-31,Moved to another nursery,Existing,,,0.0,Left
+C00148,P00133,N02,2020-01-25,FS2,2024-09-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00149,P00134,N02,2023-02-03,Toddler,2024-06-05,2025-11-30,Relocation,Existing,,,0.0,Left
+C00150,P00135,N02,2022-12-14,Toddler,2023-09-16,,,Existing,,,0.0,Active
+C00151,P00136,N02,2022-03-18,Nursery,2024-10-28,,,Existing,,,0.15,Active
+C00152,P00137,N02,2019-10-16,FS2,2024-08-21,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00153,P00138,N02,2021-05-06,FS1,2023-05-09,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00154,P00139,N02,2020-09-22,FS1,2023-09-23,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00155,P00140,N02,2022-04-25,Nursery,2023-07-03,2025-09-30,Moved to another nursery,Existing,,,0.0,Left
+C00156,P00141,N02,2021-11-27,Nursery,2024-07-16,,,Existing,,,0.0,Active
+C00157,P00142,N02,2020-04-02,FS2,2023-12-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00158,P00110,N02,2022-04-24,Nursery,2024-05-21,2026-08-31,Moved to another nursery,Existing,,,0.0,Left
+C00159,P00143,N02,2021-11-20,Nursery,2023-12-31,2025-12-31,Moved to another nursery,Existing,,,0.0,Left
+C00160,P00144,N02,2022-09-08,Toddler,2024-10-22,,,Existing,,,0.0,Active
+C00161,P00145,N02,2023-08-12,Toddler,2024-01-09,,,Existing,,,0.0,Active
+C00162,P00146,N02,2020-06-22,FS2,2023-08-22,2025-05-31,Other,Existing,,,0.0,Left
+C00163,P00147,N02,2021-08-15,FS1,2023-03-04,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00164,P00148,N02,2022-01-12,Nursery,2023-09-10,,,Existing,,,0.05,Active
+C00165,P00149,N02,2019-11-05,FS2,2023-07-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00166,P00150,N02,2021-01-05,FS1,2023-11-13,2025-02-28,Moved to another nursery,Existing,,,0.0,Left
+C00167,P00151,N02,2021-10-27,Nursery,2024-08-16,,,Existing,,,0.0,Active
+C00168,P00152,N02,2021-03-19,FS1,2024-05-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00169,P00153,N02,2019-12-27,FS2,2023-11-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00170,P00154,N02,2020-12-05,FS1,2023-08-03,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00171,P00155,N02,2023-07-13,Toddler,2023-12-10,,,Existing,,,0.0,Active
+C00172,P00156,N02,2023-07-18,Toddler,2023-12-15,,,Existing,,,0.0,Active
+C00173,P00157,N02,2020-06-04,FS2,2023-12-31,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00174,P00158,N02,2022-04-02,Nursery,2023-03-22,2025-06-30,Moved to another nursery,Existing,,,0.1,Left
+C00175,P00159,N02,2021-12-26,Nursery,2023-12-10,2026-01-31,Relocation,Existing,,,0.0,Left
+C00176,P00160,N02,2021-03-06,FS1,2024-06-28,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00177,P00161,N02,2020-10-05,FS1,2023-08-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00178,P00162,N02,2023-08-19,Toddler,2024-01-16,,,Existing,,,0.0,Active
+C00179,P00163,N02,2019-12-18,FS2,2024-11-22,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00180,P00164,N02,2023-10-24,Infant,2024-03-22,,,Existing,,,0.0,Active
+C00181,P00165,N02,2024-03-03,Infant,2024-07-31,2025-10-31,Fees,Existing,,,0.0,Left
+C00182,P00166,N02,2020-01-30,FS2,2024-06-28,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00183,P00167,N02,2021-07-17,FS1,2024-11-27,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00184,P00168,N02,2022-05-19,Nursery,2023-04-26,2026-07-31,Relocation,Existing,,,0.0,Left
+C00185,P00169,N02,2020-03-24,FS2,2024-05-12,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00186,P00170,N02,2024-01-05,Infant,2024-06-03,,,Existing,,,0.15,Active
+C00187,P00171,N02,2021-03-29,FS1,2023-11-05,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00188,P00172,N02,2021-10-18,Nursery,2023-05-06,2026-05-31,Fees,Existing,,,0.0,Left
+C00189,P00173,N02,2022-02-14,Nursery,2023-11-19,,,Existing,,,0.1,Active
+C00190,P00174,N02,2023-06-25,Toddler,2023-11-22,,,Existing,,,0.0,Active
+C00191,P00175,N02,2023-02-01,Toddler,2023-07-22,2025-03-31,Relocation,Existing,,,0.1,Left
+C00192,P00176,N02,2021-03-30,FS1,2023-10-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00193,P00092,N02,2022-06-07,Nursery,2023-07-07,,,Existing,,,0.0,Active
+C00194,P00177,N02,2022-06-30,Nursery,2023-07-10,,,Existing,,,0.0,Active
+C00195,P00178,N02,2021-09-20,Nursery,2023-09-14,,,Existing,,,0.05,Active
+C00196,P00146,N02,2022-03-15,Nursery,2024-07-15,,,Existing,,,0.0,Active
+C00197,P00149,N02,2019-11-10,FS2,2023-05-21,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00198,P00179,N02,2021-01-04,FS1,2023-06-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00199,P00180,N02,2020-02-19,FS2,2024-03-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00200,P00181,N02,2021-08-22,FS1,2023-11-14,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00201,P00088,N02,2024-03-27,Infant,2024-09-03,,,Existing,,,0.0,Active
+C00202,P00182,N02,2020-08-07,FS2,2024-08-20,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00203,P00183,N02,2021-01-08,FS1,2023-06-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00204,P00184,N02,2020-07-31,FS2,2023-04-09,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00205,P00185,N02,2022-11-19,Toddler,2023-10-01,,,Existing,,,0.0,Active
+C00206,P00114,N02,2021-10-30,Nursery,2023-10-09,,,Existing,,,0.0,Active
+C00207,P00186,N02,2022-05-28,Nursery,2024-01-19,,,Existing,,,0.0,Active
+C00208,P00187,N02,2021-07-03,FS1,2024-05-10,2026-03-31,Other,Existing,,,0.1,Left
+C00209,P00188,N02,2022-03-17,Nursery,2024-04-09,,,Existing,,,0.0,Active
+C00210,P00189,N02,2020-05-31,FS2,2023-04-26,2025-07-31,Graduated to school,Existing,,,0.15,Left
+C00211,P00190,N02,2020-01-24,FS2,2024-01-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00212,P00191,N02,2022-02-17,Nursery,2024-03-20,,,Existing,,,0.0,Active
+C00213,P00192,N02,2021-05-18,FS1,2024-01-29,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00214,P00193,N02,2020-06-17,FS2,2023-09-09,2025-01-31,Relocation,Existing,,,0.0,Left
+C00215,P00194,N02,2020-10-23,FS1,2023-07-29,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00216,P00195,N02,2019-12-13,FS2,2023-02-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00217,P00196,N03,2021-06-28,FS1,2024-08-09,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00218,P00197,N03,2021-01-01,FS1,2024-11-27,2025-02-28,Relocation,Existing,,,0.0,Left
+C00219,P00198,N03,2022-06-18,Nursery,2024-01-23,,,Existing,,,0.1,Active
+C00220,P00199,N03,2021-07-09,FS1,2023-04-30,2026-03-31,Moved to another nursery,Existing,,,0.0,Left
+C00221,P00200,N03,2024-01-21,Infant,2024-06-25,2026-07-31,Moved to another nursery,Existing,,,0.1,Left
+C00222,P00201,N03,2021-11-02,Nursery,2023-04-22,2025-07-31,Relocation,Existing,,,0.05,Left
+C00223,P00202,N03,2021-02-20,FS1,2023-05-17,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00224,P00203,N03,2020-08-03,FS2,2024-01-26,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00225,P00204,N03,2021-08-14,FS1,2024-11-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00226,P00205,N03,2020-03-29,FS2,2024-03-03,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00227,P00206,N03,2022-03-02,Nursery,2024-10-21,2025-02-28,Relocation,Existing,,,0.0,Left
+C00228,P00205,N03,2019-10-26,FS2,2024-08-24,2025-03-31,Moved to another nursery,Existing,,,0.0,Left
+C00229,P00207,N03,2019-12-03,FS2,2023-07-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00230,P00208,N03,2020-07-01,FS2,2023-05-20,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00231,P00209,N03,2020-05-01,FS2,2023-12-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00232,P00210,N03,2024-05-17,Infant,2024-10-14,2025-08-31,Relocation,Existing,,,0.1,Left
+C00233,P00211,N03,2022-04-18,Nursery,2023-08-21,,,Existing,,,0.0,Active
+C00234,P00212,N03,2020-04-30,FS2,2023-03-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00235,P00210,N03,2022-03-13,Nursery,2023-09-20,,,Existing,,,0.0,Active
+C00236,P00213,N03,2022-11-22,Toddler,2023-06-04,2025-03-31,Other,Existing,,,0.0,Left
+C00237,P00214,N03,2020-02-29,FS2,2024-07-05,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00238,P00215,N03,2021-08-04,FS1,2024-11-10,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00239,P00216,N03,2021-11-20,Nursery,2024-09-15,2025-09-30,Relocation,Existing,,,0.1,Left
+C00240,P00217,N03,2022-04-09,Nursery,2023-12-14,,,Existing,,,0.0,Active
+C00241,P00218,N03,2021-10-14,Nursery,2023-12-27,,,Existing,,,0.0,Active
+C00242,P00219,N03,2019-11-28,FS2,2024-01-21,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00243,P00220,N03,2021-02-02,FS1,2024-03-17,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00244,P00221,N03,2019-12-07,FS2,2023-05-08,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00245,P00222,N03,2023-10-24,Infant,2024-05-21,,,Existing,,,0.0,Active
+C00246,P00198,N03,2023-01-03,Toddler,2023-08-09,,,Existing,,,0.0,Active
+C00247,P00217,N03,2022-08-24,Nursery,2023-10-12,,,Existing,,,0.0,Active
+C00248,P00223,N03,2022-05-03,Nursery,2024-03-30,,,Existing,,,0.0,Active
+C00249,P00224,N03,2020-01-31,FS2,2024-07-03,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00250,P00225,N03,2021-07-28,FS1,2024-02-22,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00251,P00226,N03,2024-01-22,Infant,2024-07-26,,,Existing,,,0.0,Active
+C00252,P00227,N03,2022-01-19,Nursery,2023-12-29,,,Existing,,,0.0,Active
+C00253,P00228,N03,2020-03-17,FS2,2024-06-12,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00254,P00229,N03,2024-06-10,Infant,2024-11-07,,,Existing,,,0.0,Active
+C00255,P00230,N03,2021-09-05,Nursery,2023-11-02,,,Existing,,,0.15,Active
+C00256,P00231,N03,2020-06-19,FS2,2023-03-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00257,P00232,N03,2023-06-30,Toddler,2023-11-27,,,Existing,,,0.05,Active
+C00258,P00233,N03,2024-01-14,Infant,2024-09-04,,,Existing,,,0.0,Active
+C00259,P00225,N03,2023-08-30,Toddler,2024-08-06,,,Existing,,,0.0,Active
+C00260,P00234,N03,2024-02-08,Infant,2024-07-07,,,Existing,,,0.0,Active
+C00261,P00235,N03,2021-06-15,FS1,2024-08-29,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00262,P00236,N03,2022-05-25,Nursery,2023-08-23,,,Existing,,,0.15,Active
+C00263,P00237,N03,2021-05-31,FS1,2024-11-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00264,P00238,N03,2020-12-23,FS1,2024-01-17,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00265,P00239,N03,2021-09-23,Nursery,2024-03-28,2025-08-31,Moved to another nursery,Existing,,,0.0,Left
+C00266,P00240,N03,2021-10-01,Nursery,2024-06-16,,,Existing,,,0.0,Active
+C00267,P00241,N03,2022-03-18,Nursery,2023-08-13,,,Existing,,,0.0,Active
+C00268,P00242,N03,2022-12-15,Toddler,2023-06-26,,,Existing,,,0.05,Active
+C00269,P00243,N03,2022-08-08,Nursery,2023-09-27,,,Existing,,,0.05,Active
+C00270,P00244,N03,2021-05-03,FS1,2023-04-11,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00271,P00245,N03,2023-06-12,Toddler,2023-11-09,2026-01-31,Relocation,Existing,,,0.0,Left
+C00272,P00246,N03,2019-11-21,FS2,2023-05-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00273,P00247,N03,2022-09-16,Toddler,2024-06-22,,,Existing,,,0.0,Active
+C00274,P00248,N03,2021-07-04,FS1,2023-10-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00275,P00249,N03,2020-12-12,FS1,2023-09-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00276,P00248,N03,2022-09-28,Toddler,2024-07-20,,,Existing,,,0.1,Active
+C00277,P00250,N03,2020-11-26,FS1,2024-01-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00278,P00251,N03,2023-06-20,Toddler,2024-09-24,,,Existing,,,0.0,Active
+C00279,P00234,N03,2023-01-01,Toddler,2023-12-09,,,Existing,,,0.1,Active
+C00280,P00252,N03,2021-12-31,Nursery,2023-11-21,,,Existing,,,0.0,Active
+C00281,P00253,N03,2021-06-20,FS1,2023-10-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00282,P00254,N03,2021-01-18,FS1,2024-01-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00283,P00253,N03,2021-04-21,FS1,2023-04-06,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00284,P00255,N03,2022-10-31,Toddler,2024-09-07,,,Existing,,,0.0,Active
+C00285,P00256,N03,2022-06-28,Nursery,2024-01-01,,,Existing,,,0.0,Active
+C00286,P00257,N03,2020-02-23,FS2,2024-07-04,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00287,P00258,N03,2019-11-19,FS2,2023-08-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00288,P00259,N03,2023-05-28,Toddler,2023-10-25,,,Existing,,,0.1,Active
+C00289,P00260,N03,2020-04-16,FS2,2024-07-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00290,P00261,N03,2022-01-12,Nursery,2023-11-21,2025-08-31,Relocation,Existing,,,0.0,Left
+C00291,P00222,N03,2020-06-02,FS2,2023-08-26,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00292,P00262,N03,2023-10-14,Infant,2024-03-12,,,Existing,,,0.15,Active
+C00293,P00263,N03,2020-12-07,FS1,2023-09-12,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00294,P00264,N03,2020-03-23,FS2,2024-10-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00295,P00265,N03,2021-03-15,FS1,2023-07-14,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00296,P00266,N03,2022-09-15,Toddler,2023-08-21,,,Existing,,,0.0,Active
+C00297,P00267,N03,2022-06-06,Nursery,2024-12-02,2025-02-28,Relocation,Existing,,,0.0,Left
+C00298,P00268,N03,2019-10-09,FS2,2024-02-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00299,P00269,N03,2022-04-05,Nursery,2024-07-15,,,Existing,,,0.1,Active
+C00300,P00270,N03,2024-05-01,Infant,2024-11-24,,,Existing,,,0.0,Active
+C00301,P00271,N03,2021-12-10,Nursery,2024-03-22,,,Existing,,,0.0,Active
+C00302,P00246,N03,2019-10-25,FS2,2024-08-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00303,P00272,N03,2023-08-05,Toddler,2024-09-27,,,Existing,,,0.05,Active
+C00304,P00209,N03,2020-04-04,FS2,2023-07-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00305,P00273,N03,2022-05-05,Nursery,2023-11-26,2026-06-30,Moved to another nursery,Existing,,,0.1,Left
+C00306,P00270,N03,2021-05-10,FS1,2024-08-24,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00307,P00274,N04,2022-03-13,Nursery,2024-05-10,,,Existing,,,0.0,Active
+C00308,P00275,N04,2023-10-11,Infant,2024-03-09,,,Existing,,,0.0,Active
+C00309,P00276,N04,2023-02-27,Toddler,2024-08-03,,,Existing,,,0.15,Active
+C00310,P00277,N04,2021-04-02,FS1,2023-03-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00311,P00278,N04,2022-02-02,Nursery,2024-08-14,,,Existing,,,0.0,Active
+C00312,P00279,N04,2022-08-25,Nursery,2024-11-20,,,Existing,,,0.0,Active
+C00313,P00280,N04,2023-12-10,Infant,2024-09-25,,,Existing,,,0.05,Active
+C00314,P00281,N04,2020-11-04,FS1,2023-05-03,2025-04-30,Moved to another nursery,Existing,,,0.0,Left
+C00315,P00282,N04,2024-06-14,Infant,2024-11-18,,,Existing,,,0.05,Active
+C00316,P00282,N04,2020-03-02,FS2,2024-01-29,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00317,P00283,N04,2022-08-25,Nursery,2024-09-26,,,Existing,,,0.05,Active
+C00318,P00280,N04,2021-11-23,Nursery,2023-08-04,,,Existing,,,0.0,Active
+C00319,P00284,N04,2021-08-28,FS1,2024-03-31,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00320,P00285,N04,2021-03-21,FS1,2023-06-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00321,P00286,N04,2023-11-30,Infant,2024-04-28,2026-04-30,Relocation,Existing,,,0.1,Left
+C00322,P00287,N04,2023-06-24,Toddler,2023-11-21,2025-08-31,Relocation,Existing,,,0.1,Left
+C00323,P00278,N04,2021-03-18,FS1,2024-08-28,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00324,P00288,N04,2024-04-22,Infant,2024-09-19,,,Existing,,,0.0,Active
+C00325,P00284,N04,2020-10-06,FS1,2023-04-29,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00326,P00289,N04,2020-05-15,FS2,2023-03-12,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00327,P00290,N04,2020-06-15,FS2,2024-11-22,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00328,P00291,N04,2021-02-07,FS1,2023-08-10,2025-03-31,Fees,Existing,,,0.0,Left
+C00329,P00292,N04,2022-04-17,Nursery,2024-09-28,,,Existing,,,0.0,Active
+C00330,P00293,N04,2020-04-02,FS2,2024-04-09,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00331,P00294,N04,2022-06-14,Nursery,2024-08-25,2026-08-31,Relocation,Existing,,,0.0,Left
+C00332,P00295,N04,2020-06-25,FS2,2023-08-13,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00333,P00295,N04,2020-05-16,FS2,2023-08-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00334,P00296,N04,2021-12-13,Nursery,2024-11-26,,,Existing,,,0.0,Active
+C00335,P00297,N04,2021-05-06,FS1,2023-10-06,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00336,P00298,N04,2020-04-11,FS2,2024-02-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00337,P00299,N04,2021-03-14,FS1,2024-09-16,2025-10-31,Relocation,Existing,,,0.0,Left
+C00338,P00300,N04,2020-01-25,FS2,2023-07-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00339,P00301,N04,2023-02-05,Toddler,2024-05-01,,,Existing,,,0.0,Active
+C00340,P00302,N04,2020-01-01,FS2,2024-05-27,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00341,P00285,N04,2023-09-29,Infant,2024-05-13,,,Existing,,,0.15,Active
+C00342,P00290,N04,2019-11-10,FS2,2023-12-11,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00343,P00303,N04,2020-03-13,FS2,2023-03-08,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00344,P00287,N04,2021-02-12,FS1,2023-10-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00345,P00304,N04,2020-03-18,FS2,2023-05-20,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00346,P00305,N04,2021-03-31,FS1,2023-08-22,2025-02-28,Moved to another nursery,Existing,,,0.0,Left
+C00347,P00306,N04,2023-02-24,Toddler,2023-07-24,,,Existing,,,0.0,Active
+C00348,P00307,N04,2021-03-27,FS1,2023-10-02,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00349,P00308,N04,2020-05-04,FS2,2023-04-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00350,P00309,N04,2022-12-27,Toddler,2024-11-23,,,Existing,,,0.0,Active
+C00351,P00310,N04,2021-05-20,FS1,2023-02-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00352,P00300,N04,2019-12-02,FS2,2023-12-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00353,P00311,N04,2023-09-05,Infant,2024-02-02,,,Existing,,,0.0,Active
+C00354,P00312,N04,2020-01-13,FS2,2024-05-29,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00355,P00313,N04,2020-07-19,FS2,2023-12-08,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00356,P00314,N04,2020-07-22,FS2,2024-08-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00357,P00315,N04,2020-12-31,FS1,2024-02-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00358,P00316,N04,2024-07-11,Infant,2024-12-08,,,Existing,,,0.1,Active
+C00359,P00317,N04,2022-12-10,Toddler,2023-09-13,2026-05-31,Fees,Existing,,,0.0,Left
+C00360,P00318,N04,2021-11-06,Nursery,2023-06-26,,,Existing,,,0.0,Active
+C00361,P00319,N04,2021-09-26,Nursery,2023-03-27,,,Existing,,,0.0,Active
+C00362,P00320,N04,2023-05-05,Toddler,2024-09-18,2025-11-30,Relocation,Existing,,,0.0,Left
+C00363,P00321,N04,2021-07-02,FS1,2023-12-08,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00364,P00322,N04,2021-04-17,FS1,2023-11-30,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00365,P00323,N04,2023-05-05,Toddler,2023-12-19,,,Existing,,,0.1,Active
+C00366,P00324,N04,2023-02-04,Toddler,2023-12-20,,,Existing,,,0.0,Active
+C00367,P00325,N04,2021-05-29,FS1,2024-06-20,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00368,P00326,N04,2022-11-01,Toddler,2024-10-14,,,Existing,,,0.05,Active
+C00369,P00283,N04,2023-06-06,Toddler,2024-05-31,,,Existing,,,0.0,Active
+C00370,P00327,N04,2020-05-06,FS2,2024-09-26,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00371,P00328,N04,2021-05-11,FS1,2023-03-14,2025-05-31,Moved to another nursery,Existing,,,0.05,Left
+C00372,P00329,N04,2019-10-08,FS2,2023-03-29,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00373,P00330,N04,2019-12-15,FS2,2024-04-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00374,P00331,N04,2022-07-31,Nursery,2023-09-09,,,Existing,,,0.0,Active
+C00375,P00315,N04,2022-03-27,Nursery,2023-02-28,,,Existing,,,0.0,Active
+C00376,P00332,N04,2022-11-19,Toddler,2024-06-08,,,Existing,,,0.15,Active
+C00377,P00333,N04,2020-05-29,FS2,2024-11-02,2025-07-31,Graduated to school,Existing,,,0.15,Left
+C00378,P00334,N04,2022-08-21,Nursery,2023-11-20,2026-06-30,Relocation,Existing,,,0.0,Left
+C00379,P00335,N04,2019-09-30,FS2,2023-05-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00380,P00336,N04,2023-07-08,Toddler,2024-08-28,,,Existing,,,0.0,Active
+C00381,P00337,N04,2020-03-25,FS2,2023-08-18,2025-07-31,Graduated to school,Existing,,,0.15,Left
+C00382,P00338,N04,2022-02-17,Nursery,2023-05-14,,,Existing,,,0.0,Active
+C00383,P00339,N04,2020-11-26,FS1,2023-09-24,2025-03-31,Fees,Existing,,,0.0,Left
+C00384,P00340,N04,2021-10-11,Nursery,2023-09-13,,,Existing,,,0.0,Active
+C00385,P00341,N04,2023-07-01,Toddler,2023-11-28,,,Existing,,,0.0,Active
+C00386,P00307,N04,2020-02-01,FS2,2024-06-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00387,P00342,N04,2020-05-20,FS2,2023-12-23,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00388,P00343,N04,2020-06-21,FS2,2023-06-15,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00389,P00344,N04,2020-03-04,FS2,2023-06-26,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00390,P00345,N04,2021-05-08,FS1,2023-03-01,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00391,P00346,N05,2020-08-15,FS2,2024-05-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00392,P00347,N05,2020-06-28,FS2,2024-06-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00393,P00348,N05,2021-12-30,Nursery,2024-04-07,,,Existing,,,0.1,Active
+C00394,P00348,N05,2021-07-18,FS1,2023-12-20,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00395,P00349,N05,2019-10-25,FS2,2024-09-01,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00396,P00350,N05,2022-08-23,Nursery,2023-10-24,,,Existing,,,0.0,Active
+C00397,P00351,N05,2020-05-23,FS2,2023-05-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00398,P00352,N05,2022-05-14,Nursery,2023-05-05,,,Existing,,,0.0,Active
+C00399,P00353,N05,2021-08-24,FS1,2024-11-19,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00400,P00351,N05,2023-07-12,Toddler,2024-09-20,,,Existing,,,0.15,Active
+C00401,P00354,N05,2020-02-13,FS2,2023-11-20,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00402,P00355,N05,2022-01-31,Nursery,2024-06-28,,,Existing,,,0.0,Active
+C00403,P00356,N05,2021-09-25,Nursery,2024-06-14,,,Existing,,,0.1,Active
+C00404,P00357,N05,2020-03-15,FS2,2024-08-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00405,P00358,N05,2020-03-18,FS2,2023-03-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00406,P00359,N05,2022-11-23,Toddler,2024-07-17,2026-04-30,Other,Existing,,,0.0,Left
+C00407,P00360,N05,2022-06-23,Nursery,2023-11-23,,,Existing,,,0.0,Active
+C00408,P00361,N05,2024-01-26,Infant,2024-06-24,,,Existing,,,0.1,Active
+C00409,P00358,N05,2024-03-13,Infant,2024-08-10,,,Existing,,,0.0,Active
+C00410,P00362,N05,2022-12-27,Toddler,2024-06-29,,,Existing,,,0.0,Active
+C00411,P00363,N05,2023-10-18,Infant,2024-07-02,2026-03-31,Relocation,Existing,,,0.0,Left
+C00412,P00364,N05,2021-03-17,FS1,2023-06-13,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00413,P00365,N05,2021-04-20,FS1,2024-11-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00414,P00366,N05,2023-03-19,Toddler,2024-09-09,,,Existing,,,0.1,Active
+C00415,P00357,N05,2019-09-12,FS2,2023-04-17,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00416,P00367,N05,2023-08-18,Toddler,2024-01-15,2025-10-31,Fees,Existing,,,0.0,Left
+C00417,P00368,N05,2022-06-22,Nursery,2024-09-23,,,Existing,,,0.0,Active
+C00418,P00369,N05,2023-07-29,Toddler,2023-12-26,2025-01-31,Fees,Existing,,,0.0,Left
+C00419,P00370,N05,2022-08-30,Nursery,2023-11-14,,,Existing,,,0.0,Active
+C00420,P00371,N05,2021-07-22,FS1,2024-03-30,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00421,P00372,N05,2020-06-12,FS2,2023-05-20,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00422,P00373,N05,2021-03-31,FS1,2023-11-29,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00423,P00374,N05,2021-05-24,FS1,2023-10-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00424,P00375,N05,2021-08-31,FS1,2023-03-29,2026-03-31,Moved to another nursery,Existing,,,0.0,Left
+C00425,P00376,N05,2021-10-13,Nursery,2024-09-19,,,Existing,,,0.15,Active
+C00426,P00377,N05,2020-04-29,FS2,2023-09-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00427,P00378,N05,2021-06-27,FS1,2024-11-12,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00428,P00379,N05,2023-05-10,Toddler,2024-05-08,2025-04-30,Other,Existing,,,0.0,Left
+C00429,P00380,N05,2023-05-01,Toddler,2024-09-27,,,Existing,,,0.0,Active
+C00430,P00381,N05,2020-01-02,FS2,2024-11-08,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00431,P00382,N05,2021-08-08,FS1,2024-10-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00432,P00383,N05,2020-06-03,FS2,2023-02-05,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00433,P00384,N05,2021-03-30,FS1,2023-08-18,2026-03-31,Relocation,Existing,,,0.0,Left
+C00434,P00385,N05,2022-01-24,Nursery,2024-07-06,,,Existing,,,0.0,Active
+C00435,P00386,N05,2020-10-31,FS1,2024-09-01,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00436,P00387,N05,2021-10-26,Nursery,2023-12-29,2026-02-28,Relocation,Existing,,,0.0,Left
+C00437,P00388,N05,2022-09-27,Toddler,2023-11-03,2025-09-30,Relocation,Existing,,,0.05,Left
+C00438,P00349,N05,2023-08-22,Toddler,2024-11-23,2025-10-31,Relocation,Existing,,,0.0,Left
+C00439,P00354,N05,2024-06-01,Infant,2024-10-29,,,Existing,,,0.0,Active
+C00440,P00389,N05,2020-07-27,FS2,2023-11-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00441,P00390,N05,2023-09-09,Infant,2024-02-06,2025-08-31,Relocation,Existing,,,0.0,Left
+C00442,P00391,N05,2023-01-27,Toddler,2023-06-26,,,Existing,,,0.0,Active
+C00443,P00392,N05,2024-01-26,Infant,2024-06-24,2026-05-31,Fees,Existing,,,0.0,Left
+C00444,P00393,N05,2020-10-03,FS1,2024-11-20,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00445,P00394,N05,2023-04-24,Toddler,2024-01-07,,,Existing,,,0.1,Active
+C00446,P00395,N05,2020-09-20,FS1,2024-09-22,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00447,P00396,N05,2023-08-15,Toddler,2024-07-12,,,Existing,,,0.0,Active
+C00448,P00397,N05,2023-01-23,Toddler,2024-09-08,2025-09-30,Moved to another nursery,Existing,,,0.0,Left
+C00449,P00398,N05,2021-08-03,FS1,2023-12-26,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00450,P00399,N05,2020-11-16,FS1,2023-07-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00451,P00400,N05,2021-03-22,FS1,2023-11-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00452,P00401,N05,2023-05-31,Toddler,2024-08-11,,,Existing,,,0.0,Active
+C00453,P00402,N05,2023-03-20,Toddler,2024-09-15,2025-04-30,Relocation,Existing,,,0.1,Left
+C00454,P00403,N05,2021-09-10,Nursery,2023-12-15,2026-10-31,Relocation,Existing,,,0.1,Left
+C00455,P00404,N05,2022-01-01,Nursery,2023-12-15,,,Existing,,,0.0,Active
+C00456,P00405,N05,2023-09-13,Infant,2024-10-13,2025-12-31,Fees,Existing,,,0.0,Left
+C00457,P00406,N05,2020-09-05,FS1,2024-06-28,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00458,P00407,N05,2019-12-06,FS2,2024-12-01,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00459,P00408,N05,2024-02-22,Infant,2024-08-30,2026-03-31,Relocation,Existing,,,0.0,Left
+C00460,P00409,N05,2021-01-17,FS1,2023-05-11,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00461,P00410,N05,2023-03-13,Toddler,2024-06-14,,,Existing,,,0.0,Active
+C00462,P00411,N05,2020-01-11,FS2,2023-02-02,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00463,P00412,N05,2021-09-16,Nursery,2023-04-16,,,Existing,,,0.0,Active
+C00464,P00413,N05,2021-11-24,Nursery,2024-01-17,2025-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00465,P00414,N05,2020-04-17,FS2,2023-12-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00466,P00415,N05,2023-10-06,Infant,2024-03-04,,,Existing,,,0.0,Active
+C00467,P00365,N05,2022-07-05,Nursery,2024-08-31,,,Existing,,,0.1,Active
+C00468,P00416,N05,2020-10-17,FS1,2023-12-14,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00469,P00417,N05,2023-05-17,Toddler,2024-05-17,,,Existing,,,0.15,Active
+C00470,P00418,N05,2020-11-15,FS1,2023-08-27,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00471,P00409,N05,2023-06-03,Toddler,2023-11-25,,,Existing,,,0.0,Active
+C00472,P00419,N05,2022-02-17,Nursery,2024-10-12,2025-12-31,Moved to another nursery,Existing,,,0.0,Left
+C00473,P00420,N05,2021-07-22,FS1,2023-06-28,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00474,P00421,N05,2020-02-07,FS2,2024-03-23,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00475,P00422,N05,2020-10-25,FS1,2024-08-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00476,P00423,N05,2024-02-18,Infant,2024-07-17,,,Existing,,,0.0,Active
+C00477,P00424,N05,2020-12-30,FS1,2024-06-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00478,P00425,N05,2020-03-15,FS2,2024-07-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00479,P00426,N05,2020-09-16,FS1,2023-10-04,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00480,P00427,N05,2019-09-19,FS2,2023-07-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00481,P00428,N05,2022-09-28,Toddler,2024-11-17,2026-07-31,Moved to another nursery,Existing,,,0.15,Left
+C00482,P00429,N05,2022-07-11,Nursery,2023-11-04,,,Existing,,,0.0,Active
+C00483,P00430,N05,2023-05-02,Toddler,2024-01-10,,,Existing,,,0.15,Active
+C00484,P00431,N05,2022-11-17,Toddler,2024-08-09,,,Existing,,,0.0,Active
+C00485,P00432,N05,2021-02-08,FS1,2023-08-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00486,P00433,N05,2022-08-08,Nursery,2023-04-16,,,Existing,,,0.0,Active
+C00487,P00434,N05,2024-01-29,Infant,2024-06-27,,,Existing,,,0.0,Active
+C00488,P00389,N05,2022-11-12,Toddler,2023-05-05,,,Existing,,,0.0,Active
+C00489,P00435,N05,2020-09-09,FS1,2024-03-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00490,P00436,N05,2021-10-13,Nursery,2024-05-10,,,Existing,,,0.0,Active
+C00491,P00437,N05,2020-02-29,FS2,2023-12-05,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00492,P00438,N05,2022-06-19,Nursery,2023-12-23,2025-09-30,Other,Existing,,,0.05,Left
+C00493,P00377,N05,2024-05-27,Infant,2024-10-24,,,Existing,,,0.0,Active
+C00494,P00439,N05,2023-01-03,Toddler,2024-02-07,,,Existing,,,0.1,Active
+C00495,P00440,N06,2021-10-11,Nursery,2023-11-29,,,Existing,,,0.0,Active
+C00496,P00441,N06,2020-07-03,FS2,2023-10-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00497,P00442,N06,2021-09-12,Nursery,2024-05-06,2026-07-31,Moved to another nursery,Existing,,,0.0,Left
+C00498,P00441,N06,2020-12-19,FS1,2024-08-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00499,P00443,N06,2020-04-02,FS2,2023-09-28,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00500,P00444,N06,2022-09-23,Toddler,2023-10-14,2026-09-30,Relocation,Existing,,,0.0,Left
+C00501,P00445,N06,2019-10-16,FS2,2024-07-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00502,P00446,N06,2022-06-09,Nursery,2024-03-12,,,Existing,,,0.0,Active
+C00503,P00447,N06,2024-02-13,Infant,2024-07-12,,,Existing,,,0.0,Active
+C00504,P00448,N06,2023-06-05,Toddler,2024-01-17,2026-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00505,P00449,N06,2020-10-19,FS1,2024-07-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00506,P00450,N06,2021-09-17,Nursery,2024-08-30,,,Existing,,,0.0,Active
+C00507,P00451,N06,2019-11-06,FS2,2023-02-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00508,P00452,N06,2019-09-27,FS2,2023-03-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00509,P00453,N06,2021-06-11,FS1,2024-09-11,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00510,P00454,N06,2023-01-11,Toddler,2024-11-19,2025-11-30,Other,Existing,,,0.0,Left
+C00511,P00455,N06,2023-12-31,Infant,2024-05-29,,,Existing,,,0.0,Active
+C00512,P00456,N06,2023-06-11,Toddler,2023-11-08,,,Existing,,,0.0,Active
+C00513,P00448,N06,2022-07-19,Nursery,2024-07-16,,,Existing,,,0.0,Active
+C00514,P00457,N06,2021-10-08,Nursery,2023-10-15,,,Existing,,,0.0,Active
+C00515,P00458,N06,2022-10-04,Toddler,2024-04-05,,,Existing,,,0.0,Active
+C00516,P00459,N06,2020-10-02,FS1,2024-04-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00517,P00460,N06,2020-07-17,FS2,2023-03-01,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00518,P00461,N06,2022-02-06,Nursery,2023-08-17,,,Existing,,,0.0,Active
+C00519,P00462,N06,2022-02-09,Nursery,2023-10-01,,,Existing,,,0.0,Active
+C00520,P00463,N06,2022-10-07,Toddler,2023-05-05,2025-12-31,Moved to another nursery,Existing,,,0.0,Left
+C00521,P00464,N06,2022-10-22,Toddler,2023-11-01,,,Existing,,,0.0,Active
+C00522,P00465,N06,2023-07-29,Toddler,2023-12-26,,,Existing,,,0.0,Active
+C00523,P00466,N06,2021-10-07,Nursery,2023-04-04,,,Existing,,,0.05,Active
+C00524,P00467,N06,2022-12-11,Toddler,2023-10-16,,,Existing,,,0.0,Active
+C00525,P00468,N06,2021-10-08,Nursery,2023-09-15,,,Existing,,,0.0,Active
+C00526,P00469,N06,2022-09-05,Toddler,2023-07-19,2026-06-30,Fees,Existing,,,0.1,Left
+C00527,P00453,N06,2023-05-27,Toddler,2023-10-24,,,Existing,,,0.0,Active
+C00528,P00470,N06,2021-10-10,Nursery,2024-10-12,,,Existing,,,0.1,Active
+C00529,P00471,N06,2021-12-10,Nursery,2024-04-04,,,Existing,,,0.1,Active
+C00530,P00472,N06,2019-11-08,FS2,2023-06-08,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00531,P00473,N06,2021-01-22,FS1,2024-04-04,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00532,P00474,N06,2024-05-22,Infant,2024-10-19,,,Existing,,,0.0,Active
+C00533,P00440,N06,2020-10-13,FS1,2024-09-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00534,P00475,N06,2022-09-10,Toddler,2024-06-20,,,Existing,,,0.0,Active
+C00535,P00476,N06,2020-11-24,FS1,2023-03-18,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00536,P00477,N06,2022-04-23,Nursery,2024-05-27,2025-02-28,Relocation,Existing,,,0.0,Left
+C00537,P00478,N06,2021-12-01,Nursery,2024-09-30,2025-08-31,Relocation,Existing,,,0.0,Left
+C00538,P00479,N06,2022-07-03,Nursery,2024-08-24,2025-06-30,Relocation,Existing,,,0.1,Left
+C00539,P00480,N06,2019-09-12,FS2,2023-03-22,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00540,P00481,N06,2022-08-20,Nursery,2024-06-08,,,Existing,,,0.0,Active
+C00541,P00482,N06,2024-02-09,Infant,2024-07-21,,,Existing,,,0.0,Active
+C00542,P00483,N06,2022-07-20,Nursery,2024-07-29,,,Existing,,,0.15,Active
+C00543,P00484,N06,2023-01-13,Toddler,2023-06-12,,,Existing,,,0.1,Active
+C00544,P00485,N06,2020-09-16,FS1,2023-07-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00545,P00486,N06,2019-12-08,FS2,2023-06-17,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00546,P00487,N06,2023-07-28,Toddler,2023-12-25,,,Existing,,,0.0,Active
+C00547,P00488,N06,2020-08-29,FS2,2023-07-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00548,P00489,N06,2021-05-27,FS1,2023-03-25,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00549,P00490,N06,2023-07-09,Toddler,2023-12-06,,,Existing,,,0.0,Active
+C00550,P00491,N06,2023-07-28,Toddler,2023-12-25,,,Existing,,,0.05,Active
+C00551,P00492,N06,2021-03-14,FS1,2024-08-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00552,P00493,N06,2020-12-02,FS1,2023-10-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00553,P00494,N06,2023-03-08,Toddler,2024-11-28,,,Existing,,,0.0,Active
+C00554,P00495,N06,2023-07-10,Toddler,2024-11-03,2025-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00555,P00483,N06,2024-02-25,Infant,2024-07-24,,,Existing,,,0.0,Active
+C00556,P00496,N06,2019-10-03,FS2,2024-10-12,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00557,P00497,N06,2020-06-29,FS2,2023-09-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00558,P00498,N06,2023-01-19,Toddler,2024-06-14,,,Existing,,,0.0,Active
+C00559,P00497,N06,2022-07-06,Nursery,2023-06-05,,,Existing,,,0.0,Active
+C00560,P00499,N06,2022-06-05,Nursery,2023-03-26,2026-04-30,Relocation,Existing,,,0.0,Left
+C00561,P00500,N06,2022-09-02,Toddler,2023-06-18,,,Existing,,,0.0,Active
+C00562,P00501,N06,2022-12-27,Toddler,2024-09-26,,,Existing,,,0.0,Active
+C00563,P00485,N06,2023-07-13,Toddler,2024-03-22,,,Existing,,,0.0,Active
+C00564,P00502,N06,2024-03-03,Infant,2024-07-31,,,Existing,,,0.0,Active
+C00565,P00503,N06,2024-03-31,Infant,2024-08-28,,,Existing,,,0.0,Active
+C00566,P00504,N06,2022-02-19,Nursery,2023-07-10,,,Existing,,,0.0,Active
+C00567,P00505,N06,2022-07-08,Nursery,2024-07-28,,,Existing,,,0.0,Active
+C00568,P00458,N06,2022-05-23,Nursery,2024-05-26,2026-10-31,Relocation,Existing,,,0.0,Left
+C00569,P00506,N06,2023-02-04,Toddler,2024-08-14,,,Existing,,,0.0,Active
+C00570,P00470,N06,2024-06-19,Infant,2024-11-16,,,Existing,,,0.0,Active
+C00571,P00507,N06,2020-08-13,FS2,2024-09-21,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00572,P00508,N06,2020-01-27,FS2,2024-01-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00573,P00509,N06,2021-03-02,FS1,2023-11-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00574,P00510,N06,2022-02-14,Nursery,2024-10-12,,,Existing,,,0.05,Active
+C00575,P00511,N06,2019-09-22,FS2,2024-09-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00576,P00512,N06,2020-08-18,FS2,2023-10-17,2025-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00577,P00479,N06,2020-06-01,FS2,2024-09-02,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00578,P00472,N06,2020-10-22,FS1,2023-03-26,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00579,P00513,N06,2021-06-13,FS1,2024-01-14,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00580,P00514,N06,2022-05-03,Nursery,2023-04-29,,,Existing,,,0.0,Active
+C00581,P00515,N06,2021-10-29,Nursery,2023-08-24,,,Existing,,,0.0,Active
+C00582,P00516,N06,2022-10-19,Toddler,2023-05-20,2025-07-31,Relocation,Existing,,,0.0,Left
+C00583,P00517,N06,2022-10-11,Toddler,2024-11-22,2025-03-31,Relocation,Existing,,,0.15,Left
+C00584,P00518,N06,2021-07-30,FS1,2024-01-03,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00585,P00519,N06,2021-05-29,FS1,2024-07-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00586,P00520,N06,2020-06-07,FS2,2024-09-01,2025-02-28,Other,Existing,,,0.0,Left
+C00587,P00521,N06,2021-03-20,FS1,2024-07-04,2025-04-30,Relocation,Existing,,,0.0,Left
+C00588,P00522,N06,2019-12-22,FS2,2024-01-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00589,P00523,N06,2020-08-02,FS2,2024-04-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00590,P00524,N06,2019-12-18,FS2,2023-05-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00591,P00525,N07,2022-08-28,Nursery,2024-01-11,,,Existing,,,0.1,Active
+C00592,P00526,N07,2021-10-21,Nursery,2024-05-09,,,Existing,,,0.0,Active
+C00593,P00527,N07,2021-12-24,Nursery,2023-07-17,2026-07-31,Relocation,Existing,,,0.0,Left
+C00594,P00528,N07,2022-09-02,Toddler,2024-07-05,2026-03-31,Relocation,Existing,,,0.0,Left
+C00595,P00529,N07,2021-12-17,Nursery,2023-04-22,,,Existing,,,0.1,Active
+C00596,P00530,N07,2021-09-28,Nursery,2024-09-09,,,Existing,,,0.15,Active
+C00597,P00531,N07,2020-08-07,FS2,2023-11-13,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00598,P00532,N07,2022-03-29,Nursery,2024-02-10,,,Existing,,,0.0,Active
+C00599,P00533,N07,2023-01-11,Toddler,2023-06-10,,,Existing,,,0.0,Active
+C00600,P00534,N07,2021-03-04,FS1,2024-08-17,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00601,P00529,N07,2020-04-14,FS2,2023-05-01,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00602,P00535,N07,2023-07-24,Toddler,2024-07-16,,,Existing,,,0.0,Active
+C00603,P00536,N07,2020-07-18,FS2,2023-11-03,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00604,P00537,N07,2020-02-20,FS2,2023-03-13,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00605,P00538,N07,2021-09-27,Nursery,2024-03-08,,,Existing,,,0.0,Active
+C00606,P00539,N07,2022-08-06,Nursery,2023-03-28,,,Existing,,,0.05,Active
+C00607,P00526,N07,2021-09-11,Nursery,2023-11-03,,,Existing,,,0.15,Active
+C00608,P00540,N07,2023-03-25,Toddler,2024-05-11,,,Existing,,,0.0,Active
+C00609,P00541,N07,2023-06-18,Toddler,2024-08-19,,,Existing,,,0.0,Active
+C00610,P00539,N07,2021-08-25,FS1,2024-10-10,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00611,P00542,N07,2020-11-13,FS1,2024-08-05,2025-05-31,Relocation,Existing,,,0.1,Left
+C00612,P00532,N07,2021-11-25,Nursery,2023-11-14,2026-04-30,Moved to another nursery,Existing,,,0.0,Left
+C00613,P00543,N07,2021-02-15,FS1,2024-03-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00614,P00544,N07,2022-02-27,Nursery,2024-07-27,,,Existing,,,0.0,Active
+C00615,P00545,N07,2021-09-04,Nursery,2023-07-30,2025-04-30,Relocation,Existing,,,0.0,Left
+C00616,P00546,N07,2020-01-18,FS2,2024-08-24,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00617,P00547,N07,2021-10-12,Nursery,2023-07-14,,,Existing,,,0.0,Active
+C00618,P00548,N07,2021-08-12,FS1,2024-05-15,2025-10-31,Relocation,Existing,,,0.0,Left
+C00619,P00549,N07,2021-02-14,FS1,2024-09-24,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00620,P00550,N07,2022-05-16,Nursery,2023-09-29,,,Existing,,,0.0,Active
+C00621,P00551,N07,2021-07-22,FS1,2024-08-12,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00622,P00552,N07,2021-08-27,FS1,2024-11-11,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00623,P00540,N07,2021-09-06,Nursery,2024-11-16,,,Existing,,,0.0,Active
+C00624,P00553,N07,2020-10-27,FS1,2024-02-13,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00625,P00554,N07,2022-08-26,Nursery,2023-05-13,,,Existing,,,0.1,Active
+C00626,P00555,N07,2020-03-02,FS2,2024-05-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00627,P00556,N07,2021-12-14,Nursery,2023-02-04,,,Existing,,,0.0,Active
+C00628,P00557,N07,2021-09-22,Nursery,2023-02-06,,,Existing,,,0.1,Active
+C00629,P00558,N07,2020-07-20,FS2,2024-08-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00630,P00536,N07,2020-02-10,FS2,2023-03-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00631,P00555,N07,2020-01-30,FS2,2024-11-07,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00632,P00559,N07,2021-09-11,Nursery,2024-07-13,2025-03-31,Relocation,Existing,,,0.0,Left
+C00633,P00560,N07,2021-04-28,FS1,2023-02-04,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00634,P00561,N07,2021-03-24,FS1,2024-08-12,2026-03-31,Moved to another nursery,Existing,,,0.0,Left
+C00635,P00562,N07,2021-10-11,Nursery,2023-10-27,,,Existing,,,0.0,Active
+C00636,P00563,N07,2019-10-28,FS2,2024-01-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00637,P00531,N07,2022-07-04,Nursery,2023-09-19,,,Existing,,,0.1,Active
+C00638,P00564,N07,2022-03-20,Nursery,2024-01-16,2026-08-31,Relocation,Existing,,,0.0,Left
+C00639,P00565,N07,2023-06-09,Toddler,2024-08-06,,,Existing,,,0.0,Active
+C00640,P00566,N07,2021-10-08,Nursery,2024-09-07,,,Existing,,,0.1,Active
+C00641,P00534,N07,2021-04-26,FS1,2024-02-29,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00642,P00567,N07,2022-06-09,Nursery,2024-05-24,2025-03-31,Moved to another nursery,Existing,,,0.05,Left
+C00643,P00552,N07,2021-08-30,FS1,2024-10-21,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00644,P00568,N07,2022-06-06,Nursery,2023-11-04,2026-06-30,Other,Existing,,,0.0,Left
+C00645,P00569,N07,2020-12-25,FS1,2024-03-04,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00646,P00570,N07,2022-02-18,Nursery,2023-08-12,,,Existing,,,0.0,Active
+C00647,P00530,N07,2021-04-24,FS1,2023-11-17,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00648,P00543,N07,2022-05-11,Nursery,2024-01-20,,,Existing,,,0.0,Active
+C00649,P00571,N07,2023-01-10,Toddler,2023-06-26,2025-05-31,Relocation,Existing,,,0.0,Left
+C00650,P00572,N07,2022-04-02,Nursery,2023-10-06,2026-01-31,Relocation,Existing,,,0.0,Left
+C00651,P00561,N07,2023-06-13,Toddler,2023-11-10,,,Existing,,,0.1,Active
+C00652,P00573,N07,2022-05-12,Nursery,2023-03-05,,,Existing,,,0.1,Active
+C00653,P00574,N07,2020-08-08,FS2,2023-02-22,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00654,P00575,N07,2022-07-22,Nursery,2023-11-05,,,Existing,,,0.05,Active
+C00655,P00576,N07,2021-04-09,FS1,2024-01-07,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00656,P00577,N07,2023-09-03,Infant,2024-08-20,,,Existing,,,0.0,Active
+C00657,P00578,N07,2023-06-29,Toddler,2024-04-19,,,Existing,,,0.0,Active
+C00658,P00579,N07,2021-12-21,Nursery,2023-08-23,,,Existing,,,0.0,Active
+C00659,P00569,N07,2022-09-02,Toddler,2024-10-21,,,Existing,,,0.1,Active
+C00660,P00580,N07,2020-02-09,FS2,2023-09-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00661,P00581,N07,2024-01-10,Infant,2024-11-18,,,Existing,,,0.1,Active
+C00662,P00582,N07,2020-01-16,FS2,2024-11-08,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00663,P00583,N07,2023-07-27,Toddler,2023-12-24,,,Existing,,,0.0,Active
+C00664,P00584,N07,2021-01-28,FS1,2024-11-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00665,P00574,N07,2020-10-25,FS1,2023-12-07,2025-10-31,Fees,Existing,,,0.0,Left
+C00666,P00577,N07,2024-07-03,Infant,2024-11-30,,,Existing,,,0.05,Active
+C00667,P00585,N07,2021-08-12,FS1,2023-05-31,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00668,P00527,N07,2022-04-14,Nursery,2024-06-21,2025-11-30,Other,Existing,,,0.0,Left
+C00669,P00586,N07,2021-05-05,FS1,2024-01-19,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00670,P00587,N07,2024-02-04,Infant,2024-07-03,,,Existing,,,0.0,Active
+C00671,P00588,N07,2020-10-09,FS1,2024-10-23,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00672,P00589,N07,2021-06-06,FS1,2023-08-04,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00673,P00590,N08,2021-10-28,Nursery,2023-09-14,,,Existing,,,0.0,Active
+C00674,P00590,N08,2022-07-04,Nursery,2024-02-08,2025-08-31,Relocation,Existing,,,0.0,Left
+C00675,P00591,N08,2020-08-11,FS2,2024-11-21,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00676,P00592,N08,2020-05-01,FS2,2024-06-01,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00677,P00593,N08,2021-02-22,FS1,2023-06-13,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00678,P00594,N08,2023-04-30,Toddler,2023-09-27,,,Existing,,,0.0,Active
+C00679,P00595,N08,2021-07-25,FS1,2024-10-12,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00680,P00596,N08,2020-04-01,FS2,2024-11-27,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00681,P00597,N08,2021-02-07,FS1,2024-11-28,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00682,P00598,N08,2022-08-29,Nursery,2023-06-25,,,Existing,,,0.0,Active
+C00683,P00599,N08,2021-02-25,FS1,2023-03-23,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00684,P00597,N08,2022-06-08,Nursery,2024-04-28,,,Existing,,,0.05,Active
+C00685,P00600,N08,2022-06-02,Nursery,2024-03-06,,,Existing,,,0.0,Active
+C00686,P00601,N08,2022-01-07,Nursery,2023-11-04,,,Existing,,,0.0,Active
+C00687,P00602,N08,2020-06-01,FS2,2023-10-29,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00688,P00596,N08,2020-02-11,FS2,2023-11-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00689,P00603,N08,2021-03-13,FS1,2023-03-25,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00690,P00604,N08,2021-02-20,FS1,2024-09-13,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00691,P00605,N08,2024-06-18,Infant,2024-11-15,,,Existing,,,0.0,Active
+C00692,P00606,N08,2022-08-01,Nursery,2024-05-17,,,Existing,,,0.1,Active
+C00693,P00607,N08,2020-09-08,FS1,2024-04-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00694,P00608,N08,2022-03-05,Nursery,2024-02-22,,,Existing,,,0.0,Active
+C00695,P00606,N08,2021-11-26,Nursery,2023-05-16,,,Existing,,,0.0,Active
+C00696,P00609,N08,2019-11-25,FS2,2024-07-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00697,P00610,N08,2024-01-05,Infant,2024-06-03,2025-07-31,Relocation,Existing,,,0.05,Left
+C00698,P00610,N08,2020-02-21,FS2,2023-10-03,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00699,P00611,N08,2019-11-06,FS2,2024-03-04,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00700,P00592,N08,2022-08-01,Nursery,2023-08-07,2025-08-31,Other,Existing,,,0.0,Left
+C00701,P00612,N08,2019-11-30,FS2,2023-09-01,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00702,P00613,N08,2020-10-20,FS1,2023-05-12,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00703,P00600,N08,2021-07-09,FS1,2023-12-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00704,P00614,N08,2020-04-11,FS2,2023-05-03,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00705,P00615,N08,2022-02-05,Nursery,2024-09-05,,,Existing,,,0.0,Active
+C00706,P00616,N08,2021-08-06,FS1,2024-10-28,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00707,P00617,N08,2020-10-10,FS1,2023-04-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00708,P00608,N08,2020-07-29,FS2,2023-11-04,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00709,P00618,N08,2020-06-24,FS2,2024-10-29,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00710,P00609,N08,2023-03-08,Toddler,2024-02-10,,,Existing,,,0.0,Active
+C00711,P00619,N08,2023-03-31,Toddler,2023-08-28,2025-04-30,Fees,Existing,,,0.05,Left
+C00712,P00620,N08,2024-05-29,Infant,2024-10-26,,,Existing,,,0.0,Active
+C00713,P00621,N08,2021-11-18,Nursery,2024-10-17,,,Existing,,,0.15,Active
+C00714,P00622,N08,2023-05-23,Toddler,2024-09-28,2025-01-31,Relocation,Existing,,,0.1,Left
+C00715,P00623,N08,2023-03-02,Toddler,2023-07-30,,,Existing,,,0.0,Active
+C00716,P00593,N08,2021-09-13,Nursery,2024-08-04,,,Existing,,,0.05,Active
+C00717,P00615,N08,2021-07-17,FS1,2024-09-06,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00718,P00624,N08,2021-01-22,FS1,2023-11-07,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00719,P00625,N08,2023-03-16,Toddler,2024-02-01,,,Existing,,,0.1,Active
+C00720,P00607,N08,2020-06-23,FS2,2023-05-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00721,P00626,N08,2023-05-11,Toddler,2023-10-08,,,Existing,,,0.0,Active
+C00722,P00627,N08,2022-01-28,Nursery,2024-08-06,,,Existing,,,0.0,Active
+C00723,P00628,N08,2022-05-25,Nursery,2024-05-12,,,Existing,,,0.0,Active
+C00724,P00629,N08,2019-11-23,FS2,2023-04-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00725,P00630,N08,2020-04-09,FS2,2024-08-11,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00726,P00631,N08,2020-12-04,FS1,2023-07-22,2025-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00727,P00626,N08,2020-03-13,FS2,2024-01-05,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00728,P00632,N08,2022-03-18,Nursery,2023-05-26,,,Existing,,,0.05,Active
+C00729,P00633,N08,2021-10-31,Nursery,2024-03-31,2026-02-28,Moved to another nursery,Existing,,,0.1,Left
+C00730,P00634,N08,2023-07-20,Toddler,2023-12-17,2025-02-28,Fees,Existing,,,0.0,Left
+C00731,P00635,N08,2022-11-27,Toddler,2023-10-01,,,Existing,,,0.05,Active
+C00732,P00636,N08,2023-09-25,Infant,2024-02-22,,,Existing,,,0.0,Active
+C00733,P00637,N08,2020-09-16,FS1,2023-11-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00734,P00638,N08,2021-07-20,FS1,2023-05-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00735,P00639,N08,2021-08-25,FS1,2023-03-25,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00736,P00640,N08,2020-12-11,FS1,2024-06-12,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00737,P00641,N08,2024-06-11,Infant,2024-11-08,,,Existing,,,0.0,Active
+C00738,P00642,N08,2020-07-09,FS2,2024-07-30,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00739,P00643,N08,2021-11-07,Nursery,2024-06-22,,,Existing,,,0.1,Active
+C00740,P00644,N08,2022-08-14,Nursery,2024-02-06,,,Existing,,,0.0,Active
+C00741,P00645,N08,2023-08-17,Toddler,2024-01-14,,,Existing,,,0.0,Active
+C00742,P00646,N08,2020-03-14,FS2,2024-09-04,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00743,P00647,N08,2022-01-04,Nursery,2024-07-28,2025-01-31,Fees,Existing,,,0.0,Left
+C00744,P00611,N08,2020-07-07,FS2,2024-01-17,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00745,P00648,N08,2021-04-01,FS1,2024-07-19,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00746,P00622,N08,2021-07-13,FS1,2023-10-09,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00747,P00640,N08,2021-10-04,Nursery,2024-10-31,2026-10-31,Relocation,Existing,,,0.0,Left
+C00748,P00649,N08,2021-12-05,Nursery,2023-06-10,2025-11-30,Other,Existing,,,0.1,Left
+C00749,P00650,N08,2021-01-21,FS1,2023-08-07,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00750,P00651,N08,2022-01-10,Nursery,2023-12-16,2025-03-31,Moved to another nursery,Existing,,,0.0,Left
+C00751,P00652,N08,2024-04-10,Infant,2024-09-07,,,Existing,,,0.0,Active
+C00752,P00653,N08,2021-02-26,FS1,2024-07-20,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00753,P00654,N08,2020-11-16,FS1,2023-05-04,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00754,P00603,N08,2023-11-13,Infant,2024-04-11,,,Existing,,,0.0,Active
+C00755,P00655,N08,2023-08-07,Toddler,2024-06-06,,,Existing,,,0.0,Active
+C00756,P00656,N08,2021-05-14,FS1,2024-10-07,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00757,P00657,N08,2020-02-22,FS2,2023-06-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00758,P00658,N08,2021-10-30,Nursery,2024-01-29,2025-02-28,Moved to another nursery,Existing,,,0.0,Left
+C00759,P00659,N09,2022-01-17,Nursery,2023-06-27,,,Existing,,,0.0,Active
+C00760,P00660,N09,2023-07-29,Toddler,2023-12-26,,,Existing,,,0.0,Active
+C00761,P00661,N09,2020-07-23,FS2,2024-01-11,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00762,P00662,N09,2023-08-16,Toddler,2024-01-13,,,Existing,,,0.0,Active
+C00763,P00663,N09,2022-12-29,Toddler,2023-05-28,,,Existing,,,0.0,Active
+C00764,P00664,N09,2022-04-07,Nursery,2023-02-02,2026-03-31,Other,Existing,,,0.0,Left
+C00765,P00665,N09,2021-10-05,Nursery,2023-05-01,,,Existing,,,0.0,Active
+C00766,P00666,N09,2023-04-29,Toddler,2023-10-18,,,Existing,,,0.0,Active
+C00767,P00667,N09,2021-07-03,FS1,2024-11-13,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00768,P00663,N09,2020-05-07,FS2,2023-09-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00769,P00668,N09,2020-07-14,FS2,2023-07-11,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00770,P00669,N09,2021-01-11,FS1,2023-07-03,2026-07-31,Graduated to school,Existing,,,0.05,Left
+C00771,P00667,N09,2021-06-29,FS1,2024-04-28,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00772,P00670,N09,2024-05-29,Infant,2024-10-26,,,Existing,,,0.1,Active
+C00773,P00660,N09,2021-05-01,FS1,2023-08-13,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00774,P00671,N09,2021-12-07,Nursery,2023-09-22,,,Existing,,,0.0,Active
+C00775,P00672,N09,2019-11-22,FS2,2024-06-26,2025-03-31,Other,Existing,,,0.0,Left
+C00776,P00673,N09,2022-11-25,Toddler,2023-07-16,,,Existing,,,0.0,Active
+C00777,P00674,N09,2020-12-14,FS1,2023-09-16,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00778,P00675,N09,2023-05-12,Toddler,2024-02-23,,,Existing,,,0.1,Active
+C00779,P00676,N09,2023-08-31,Toddler,2024-05-10,,,Existing,,,0.0,Active
+C00780,P00677,N09,2021-01-07,FS1,2024-08-10,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00781,P00678,N09,2020-11-01,FS1,2023-05-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00782,P00679,N09,2019-09-28,FS2,2024-11-17,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00783,P00680,N09,2021-01-17,FS1,2023-03-15,2025-10-31,Fees,Existing,,,0.0,Left
+C00784,P00681,N09,2021-12-02,Nursery,2024-04-22,,,Existing,,,0.0,Active
+C00785,P00682,N09,2020-07-08,FS2,2024-09-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00786,P00683,N09,2023-03-31,Toddler,2024-11-12,,,Existing,,,0.15,Active
+C00787,P00683,N09,2020-09-02,FS1,2024-01-31,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00788,P00684,N09,2019-10-31,FS2,2024-02-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00789,P00685,N09,2023-03-26,Toddler,2024-01-27,,,Existing,,,0.0,Active
+C00790,P00686,N09,2019-11-08,FS2,2024-03-22,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00791,P00687,N09,2020-02-24,FS2,2024-03-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00792,P00688,N09,2020-03-03,FS2,2024-06-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00793,P00689,N09,2021-03-20,FS1,2024-06-26,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00794,P00690,N09,2020-01-14,FS2,2024-06-10,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00795,P00691,N09,2021-10-09,Nursery,2023-07-01,,,Existing,,,0.0,Active
+C00796,P00659,N09,2021-11-02,Nursery,2024-05-21,,,Existing,,,0.0,Active
+C00797,P00692,N09,2020-03-22,FS2,2023-11-01,2025-07-31,Graduated to school,Existing,,,0.1,Left
+C00798,P00666,N09,2022-09-27,Toddler,2024-08-21,,,Existing,,,0.0,Active
+C00799,P00693,N09,2022-05-20,Nursery,2023-10-27,,,Existing,,,0.0,Active
+C00800,P00694,N09,2022-08-03,Nursery,2023-11-19,,,Existing,,,0.0,Active
+C00801,P00695,N09,2024-01-02,Infant,2024-05-31,,,Existing,,,0.05,Active
+C00802,P00696,N09,2019-12-11,FS2,2023-08-12,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00803,P00693,N09,2020-04-08,FS2,2024-04-27,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00804,P00697,N09,2020-05-30,FS2,2024-04-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00805,P00698,N09,2023-09-10,Infant,2024-02-07,2026-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00806,P00670,N09,2020-12-04,FS1,2023-11-09,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00807,P00699,N09,2023-10-10,Infant,2024-03-08,,,Existing,,,0.0,Active
+C00808,P00682,N09,2020-05-22,FS2,2024-09-06,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00809,P00700,N09,2020-01-19,FS2,2023-03-07,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00810,P00701,N09,2022-05-24,Nursery,2023-12-04,,,Existing,,,0.1,Active
+C00811,P00702,N09,2023-09-14,Infant,2024-02-11,,,Existing,,,0.0,Active
+C00812,P00703,N09,2019-10-30,FS2,2023-08-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00813,P00704,N09,2022-10-27,Toddler,2024-06-06,,,Existing,,,0.0,Active
+C00814,P00705,N09,2021-07-10,FS1,2024-11-13,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00815,P00706,N09,2020-03-15,FS2,2023-07-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00816,P00707,N09,2023-12-18,Infant,2024-07-05,,,Existing,,,0.0,Active
+C00817,P00676,N09,2023-07-28,Toddler,2023-12-25,,,Existing,,,0.0,Active
+C00818,P00708,N09,2020-10-04,FS1,2023-12-26,2025-11-30,Fees,Existing,,,0.1,Left
+C00819,P00709,N09,2020-09-16,FS1,2024-09-20,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00820,P00710,N09,2021-07-01,FS1,2023-04-08,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00821,P00711,N09,2022-12-30,Toddler,2024-10-28,,,Existing,,,0.0,Active
+C00822,P00712,N09,2021-10-02,Nursery,2023-10-26,,,Existing,,,0.0,Active
+C00823,P00713,N09,2019-09-09,FS2,2023-06-05,2025-01-31,Other,Existing,,,0.0,Left
+C00824,P00706,N09,2024-04-27,Infant,2024-09-24,2026-08-31,Moved to another nursery,Existing,,,0.0,Left
+C00825,P00714,N09,2024-03-27,Infant,2024-08-24,,,Existing,,,0.0,Active
+C00826,P00715,N09,2020-02-06,FS2,2024-11-05,2025-07-31,Graduated to school,Existing,,,0.05,Left
+C00827,P00716,N09,2022-02-20,Nursery,2024-01-21,,,Existing,,,0.0,Active
+C00828,P00717,N09,2023-08-18,Toddler,2024-10-08,2025-07-31,Moved to another nursery,Existing,,,0.0,Left
+C00829,P00718,N09,2021-06-06,FS1,2024-09-03,2026-02-28,Moved to another nursery,Existing,,,0.1,Left
+C00830,P00719,N09,2022-01-12,Nursery,2023-08-17,,,Existing,,,0.0,Active
+C00831,P00720,N09,2023-01-13,Toddler,2023-10-24,,,Existing,,,0.0,Active
+C00832,P00721,N09,2020-12-12,FS1,2024-08-14,2026-07-31,Graduated to school,Existing,,,0.1,Left
+C00833,P00722,N09,2023-04-29,Toddler,2023-12-08,,,Existing,,,0.0,Active
+C00834,P00723,N09,2020-12-27,FS1,2024-10-13,2026-02-28,Moved to another nursery,Existing,,,0.0,Left
+C00835,P00724,N09,2022-10-01,Toddler,2023-08-09,,,Existing,,,0.0,Active
+C00836,P00725,N09,2024-01-27,Infant,2024-06-25,,,Existing,,,0.0,Active
+C00837,P00726,N09,2022-03-30,Nursery,2023-08-07,2026-04-30,Relocation,Existing,,,0.0,Left
+C00838,P00727,N09,2021-09-14,Nursery,2024-02-01,,,Existing,,,0.0,Active
+C00839,P00728,N09,2020-03-22,FS2,2023-08-19,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00840,P00729,N09,2021-02-21,FS1,2023-03-26,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00841,P00730,N10,2021-03-10,FS1,2023-02-05,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00842,P00731,N10,2019-12-05,FS2,2023-12-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00843,P00732,N10,2021-11-20,Nursery,2024-03-15,2026-08-31,Fees,Existing,,,0.0,Left
+C00844,P00733,N10,2019-12-08,FS2,2023-03-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00845,P00734,N10,2024-04-16,Infant,2024-09-13,,,Existing,,,0.0,Active
+C00846,P00735,N10,2022-02-25,Nursery,2024-10-01,,,Existing,,,0.15,Active
+C00847,P00736,N10,2020-01-02,FS2,2023-04-08,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00848,P00734,N10,2024-04-14,Infant,2024-09-11,,,Existing,,,0.0,Active
+C00849,P00737,N10,2020-03-08,FS2,2024-05-01,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00850,P00738,N10,2019-12-08,FS2,2023-10-15,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00851,P00739,N10,2021-08-20,FS1,2024-08-22,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00852,P00733,N10,2020-07-04,FS2,2023-02-18,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00853,P00740,N10,2024-04-30,Infant,2024-09-27,,,Existing,,,0.0,Active
+C00854,P00741,N10,2020-10-07,FS1,2024-06-01,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00855,P00742,N10,2022-01-08,Nursery,2023-08-03,,,Existing,,,0.1,Active
+C00856,P00743,N10,2022-04-24,Nursery,2024-05-10,,,Existing,,,0.0,Active
+C00857,P00744,N10,2020-09-12,FS1,2023-02-21,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00858,P00745,N10,2022-03-26,Nursery,2024-06-09,,,Existing,,,0.0,Active
+C00859,P00746,N10,2022-04-27,Nursery,2024-08-30,2025-11-30,Relocation,Existing,,,0.0,Left
+C00860,P00747,N10,2020-01-19,FS2,2024-07-09,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00861,P00748,N10,2024-06-06,Infant,2024-11-03,,,Existing,,,0.0,Active
+C00862,P00749,N10,2023-01-01,Toddler,2023-06-26,,,Existing,,,0.0,Active
+C00863,P00750,N10,2022-02-06,Nursery,2023-04-16,2025-03-31,Relocation,Existing,,,0.0,Left
+C00864,P00751,N10,2021-12-02,Nursery,2023-04-09,,,Existing,,,0.0,Active
+C00865,P00752,N10,2020-03-22,FS2,2023-12-14,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00866,P00739,N10,2023-02-11,Toddler,2023-11-02,2025-02-28,Fees,Existing,,,0.1,Left
+C00867,P00753,N10,2023-07-09,Toddler,2024-02-29,,,Existing,,,0.0,Active
+C00868,P00754,N10,2022-11-10,Toddler,2024-06-21,2026-09-30,Moved to another nursery,Existing,,,0.0,Left
+C00869,P00755,N10,2020-08-05,FS2,2024-11-02,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00870,P00756,N10,2021-11-03,Nursery,2024-04-26,,,Existing,,,0.0,Active
+C00871,P00757,N10,2023-04-16,Toddler,2023-09-13,,,Existing,,,0.1,Active
+C00872,P00758,N10,2020-12-26,FS1,2024-03-17,2025-06-30,Moved to another nursery,Existing,,,0.0,Left
+C00873,P00759,N10,2023-09-07,Infant,2024-09-10,,,Existing,,,0.0,Active
+C00874,P00760,N10,2020-03-20,FS2,2024-10-07,2025-04-30,Relocation,Existing,,,0.0,Left
+C00875,P00761,N10,2023-09-10,Infant,2024-02-07,,,Existing,,,0.0,Active
+C00876,P00762,N10,2020-11-18,FS1,2024-08-22,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00877,P00763,N10,2019-11-22,FS2,2023-05-30,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00878,P00764,N10,2021-09-28,Nursery,2024-05-18,,,Existing,,,0.0,Active
+C00879,P00765,N10,2020-04-15,FS2,2023-12-16,2025-07-31,Graduated to school,Existing,,,0.0,Left
+C00880,P00766,N10,2023-02-08,Toddler,2024-10-30,,,Existing,,,0.0,Active
+C00881,P00767,N10,2021-11-09,Nursery,2024-02-05,,,Existing,,,0.0,Active
+C00882,P00768,N10,2020-11-20,FS1,2024-10-02,2026-07-31,Graduated to school,Existing,,,0.0,Left
+C00883,P00769,N10,2020-12-20,FS1,2023-12-02,2026-07-31,Graduated to school,Existing,,,0.15,Left
+C00884,P00770,N02,2022-10-24,Toddler,2025-01-20,2025-06-30,Other,Lead,L000436,,0.0,Left
+C00885,P00771,N06,2023-06-20,Toddler,2025-01-21,,,Lead,L002116,,0.0,Active
+C00886,P00772,N07,2022-01-06,Nursery,2025-01-25,,,Lead,L002537,,0.0,Active
+C00887,P00773,N05,2021-11-05,Nursery,2025-01-28,,,Lead,L001716,,0.1,Active
+C00888,P00774,N05,2021-12-02,Nursery,2025-01-30,,,Lead,L001710,,0.1,Active
+C00889,P00775,N06,2020-03-13,FS2,2025-01-31,2025-07-31,Graduated to school,Lead,L002108,,0.0,Left
+C00890,P00776,N09,2024-03-05,Infant,2025-01-31,,,Lead,L003304,,0.05,Active
+C00891,P00777,N02,2023-05-17,Toddler,2025-02-02,,,Lead,L000426,,0.0,Active
+C00892,P00778,N04,2022-05-15,Nursery,2025-02-02,,,Lead,L001362,,0.0,Active
+C00893,P00779,N05,2020-05-29,FS2,2025-02-02,2025-07-31,Graduated to school,Lead,L001707,,0.0,Left
+C00894,P00780,N09,2022-07-08,Nursery,2025-02-05,,,Lead,L003298,,0.0,Active
+C00895,P00628,N08,2020-10-26,FS1,2025-02-08,2026-07-31,Graduated to school,Lead,L002921,,0.05,Left
+C00896,P00781,N07,2023-06-14,Toddler,2025-02-10,,,Lead,L002540,,0.0,Active
+C00897,P00782,N08,2024-07-22,Infant,2025-02-10,2026-06-30,Moved to another nursery,Lead,L002920,,0.05,Left
+C00898,P00783,N09,2022-10-05,Toddler,2025-02-11,,,Lead,L003295,,0.0,Active
+C00899,P00784,N09,2024-03-03,Infant,2025-02-11,,,Lead,L003308,,0.0,Active
+C00900,P00785,N09,2024-01-15,Infant,2025-02-13,,,Lead,L003300,,0.0,Active
+C00901,P00786,N08,2023-01-18,Toddler,2025-02-14,,,Lead,L002916,,0.1,Active
+C00902,P00787,N02,2022-11-05,Toddler,2025-02-15,,,Lead,L000447,,0.0,Active
+C00903,P00788,N06,2024-08-19,Infant,2025-02-17,,,Lead,L002139,,0.0,Active
+C00904,P00789,N08,2022-02-17,Nursery,2025-02-18,,,Lead,L002913,,0.0,Active
+C00905,P00790,N10,2024-08-20,Infant,2025-02-20,2026-02-28,Moved to another nursery,Lead,L003670,,0.0,Left
+C00906,P00791,N03,2021-08-02,FS1,2025-02-21,2026-07-31,Graduated to school,Lead,L000973,,0.0,Left
+C00907,P00792,N09,2023-09-03,Infant,2025-02-21,2025-06-30,Moved to another nursery,Lead,L003303,,0.1,Left
+C00908,P00793,N10,2023-05-30,Toddler,2025-02-21,,,Lead,L003675,,0.0,Active
+C00909,P00794,N10,2023-09-29,Infant,2025-02-23,,,Lead,L003693,,0.15,Active
+C00910,P00795,N06,2021-08-19,FS1,2025-02-24,2026-07-31,Graduated to school,Lead,L002130,,0.1,Left
+C00911,P00796,N01,2022-09-17,Toddler,2025-02-25,,,Lead,L000032,,0.0,Active
+C00912,P00797,N07,2022-04-12,Nursery,2025-02-25,,,Lead,L002558,,0.1,Active
+C00913,P00798,N07,2024-04-29,Infant,2025-03-01,2026-10-31,Moved to another nursery,Lead,L002532,,0.0,Left
+C00914,P00799,N07,2021-09-21,Nursery,2025-03-04,,,Lead,L002545,,0.0,Active
+C00915,P00749,N10,2023-07-11,Toddler,2025-03-04,,,Lead,L003699,,0.0,Active
+C00916,P00800,N02,2024-07-22,Infant,2025-03-05,,,Lead,L000469,,0.05,Active
+C00917,P00695,N09,2020-10-25,FS1,2025-03-05,2026-07-31,Graduated to school,Lead,L003329,,0.0,Left
+C00918,P00801,N07,2023-03-10,Toddler,2025-03-08,,,Lead,L002564,,0.0,Active
+C00919,P00802,N04,2020-05-31,FS2,2025-03-09,2025-07-31,Graduated to school,Lead,L001382,,0.0,Left
+C00920,P00803,N07,2024-03-23,Infant,2025-03-09,,,Lead,L002548,,0.1,Active
+C00921,P00804,N09,2024-06-03,Infant,2025-03-10,,,Lead,L003317,,0.0,Active
+C00922,P00805,N06,2022-10-16,Toddler,2025-03-11,,,Lead,L002129,,0.0,Active
+C00923,P00806,N10,2021-06-07,FS1,2025-03-11,2026-07-31,Graduated to school,Lead,L003681,,0.1,Left
+C00924,P00807,N05,2022-07-05,Nursery,2025-03-12,,,Lead,L001712,,0.1,Active
+C00925,P00808,N06,2023-01-10,Toddler,2025-03-13,,,Lead,L002119,,0.1,Active
+C00926,P00809,N07,2022-09-04,Toddler,2025-03-13,2026-04-30,Moved to another nursery,Lead,L002559,,0.0,Left
+C00927,P00810,N07,2024-03-27,Infant,2025-03-14,2026-03-31,Relocation,Lead,L002569,,0.0,Left
+C00928,P00341,N04,2024-03-04,Infant,2025-03-20,,,Lead,L001371,,0.1,Active
+C00929,P00811,N03,2020-08-24,FS2,2025-03-21,2025-07-31,Graduated to school,Lead,L000985,,0.0,Left
+C00930,P00812,N07,2022-10-20,Toddler,2025-03-21,,,Lead,L002566,,0.0,Active
+C00931,P00813,N04,2021-07-28,FS1,2025-03-23,2026-07-31,Graduated to school,Lead,L001387,,0.05,Left
+C00932,P00814,N07,2023-01-24,Toddler,2025-03-23,,,Lead,L002561,,0.1,Active
+C00933,P00546,N07,2023-09-18,Infant,2025-03-23,,,Lead,L002578,,0.1,Active
+C00934,P00815,N09,2021-04-14,FS1,2025-03-25,2026-07-31,Graduated to school,Lead,L003312,,0.0,Left
+C00935,P00816,N07,2020-09-24,FS1,2025-03-26,2026-07-31,Graduated to school,Lead,L002555,,0.0,Left
+C00936,P00779,N05,2020-12-24,FS1,2025-03-27,2026-07-31,Graduated to school,Lead,L001735,,0.0,Left
+C00937,P00817,N06,2019-09-23,FS2,2025-03-29,2025-07-31,Graduated to school,Lead,L002135,,0.0,Left
+C00938,P00818,N08,2022-07-07,Nursery,2025-03-30,,,Lead,L002933,,0.0,Active
+C00939,P00819,N03,2022-03-26,Nursery,2025-03-31,,,Lead,L000976,,0.0,Active
+C00940,P00820,N06,2021-04-10,FS1,2025-03-31,2026-07-31,Graduated to school,Lead,L002140,,0.0,Left
+C00941,P00821,N01,2023-06-26,Toddler,2025-04-01,,,Lead,L000052,,0.0,Active
+C00942,P00822,N04,2023-07-29,Toddler,2025-04-04,2025-11-30,Fees,Lead,L001378,,0.1,Left
+C00943,P00291,N04,2021-10-24,Nursery,2025-04-06,,,Lead,L001395,,0.05,Active
+C00944,P00823,N02,2024-04-11,Infant,2025-04-08,,,Lead,L000452,,0.0,Active
+C00945,P00824,N02,2021-11-07,Nursery,2025-04-11,,,Lead,L000503,,0.0,Active
+C00946,P00825,N03,2024-06-25,Infant,2025-04-12,,,Lead,L001001,,0.15,Active
+C00947,P00826,N02,2022-01-02,Nursery,2025-04-14,,,Lead,L000504,,0.0,Active
+C00948,P00827,N02,2021-04-01,FS1,2025-04-14,2026-07-31,Graduated to school,Lead,L000505,,0.0,Left
+C00949,P00828,N01,2023-03-29,Toddler,2025-04-18,2025-07-31,Fees,Lead,L000044,,0.0,Left
+C00950,P00829,N02,2023-12-02,Infant,2025-04-18,,,Lead,L000486,,0.0,Active
+C00951,P00736,N10,2024-07-01,Infant,2025-04-18,,,Lead,L003718,,0.0,Active
+C00952,P00830,N05,2020-02-17,FS2,2025-04-20,2025-07-31,Graduated to school,Lead,L001743,,0.0,Left
+C00953,P00831,N06,2019-12-21,FS2,2025-04-20,2025-07-31,Graduated to school,Lead,L002155,,0.0,Left
+C00954,P00832,N10,2024-02-03,Infant,2025-04-20,,,Lead,L003745,,0.0,Active
+C00955,P00833,N07,2022-02-23,Nursery,2025-04-21,,,Lead,L002575,,0.05,Active
+C00956,P00834,N02,2022-08-26,Nursery,2025-04-22,,,Lead,L000496,,0.0,Active
+C00957,P00835,N03,2022-07-10,Nursery,2025-04-22,,,Lead,L000987,,0.1,Active
+C00958,P00836,N08,2023-11-24,Infant,2025-04-24,2025-07-31,Relocation,Lead,L002949,,0.0,Left
+C00959,P00837,N03,2024-03-07,Infant,2025-04-25,2026-02-28,Moved to another nursery,Lead,L000989,,0.0,Left
+C00960,P00838,N08,2024-08-29,Infant,2025-04-27,,,Lead,L002946,,0.0,Active
+C00961,P00839,N07,2023-10-16,Infant,2025-04-27,,,Camp,,K043,0.0,Active
+C00962,P00840,N03,2020-10-15,FS1,2025-04-30,2026-07-31,Graduated to school,Lead,L001018,,0.05,Left
+C00963,P00841,N06,2022-06-04,Nursery,2025-05-01,,,Lead,L002161,,0.0,Active
+C00964,P00842,N07,2020-08-27,FS2,2025-05-02,2025-07-31,Graduated to school,Lead,L002600,,0.1,Left
+C00965,P00843,N04,2020-02-23,FS2,2025-05-02,2025-07-31,Graduated to school,Camp,,K022,0.0,Left
+C00966,P00844,N05,2023-08-21,Toddler,2025-05-02,,,Camp,,K029,0.0,Active
+C00967,P00845,N02,2022-04-15,Nursery,2025-05-03,,,Lead,L000481,,0.0,Active
+C00968,P00402,N05,2024-01-28,Infant,2025-05-03,,,Camp,,K029,0.0,Active
+C00969,P00846,N08,2024-02-27,Infant,2025-05-03,,,Camp,,K050,0.15,Active
+C00970,P00847,N04,2023-07-16,Toddler,2025-05-04,,,Camp,,K022,0.1,Active
+C00971,P00848,N02,2023-02-03,Toddler,2025-05-05,,,Camp,,K008,0.05,Active
+C00972,P00849,N07,2021-10-06,Nursery,2025-05-06,2025-12-31,Relocation,Lead,L002574,,0.0,Left
+C00973,P00566,N07,2023-06-01,Toddler,2025-05-07,2026-04-30,Moved to another nursery,Lead,L002588,,0.05,Left
+C00974,P00850,N04,2024-03-08,Infant,2025-05-07,,,Camp,,K022,0.05,Active
+C00975,P00851,N02,2021-02-06,FS1,2025-05-08,2026-07-31,Graduated to school,Camp,,K008,0.0,Left
+C00976,P00852,N05,2024-04-20,Infant,2025-05-09,,,Camp,,K029,0.0,Active
+C00977,P00853,N01,2023-02-11,Toddler,2025-05-13,,,Camp,,K001,0.0,Active
+C00978,P00854,N02,2021-10-08,Nursery,2025-05-13,,,Camp,,K008,0.0,Active
+C00979,P00855,N04,2022-01-26,Nursery,2025-05-13,,,Camp,,K022,0.0,Active
+C00980,P00856,N06,2021-10-01,Nursery,2025-05-17,,,Camp,,K036,0.0,Active
+C00981,P00857,N04,2020-04-07,FS2,2025-05-18,2025-07-31,Graduated to school,Lead,L001402,,0.0,Left
+C00982,P00858,N05,2024-03-20,Infant,2025-05-19,,,Camp,,K029,0.0,Active
+C00983,P00859,N10,2021-12-25,Nursery,2025-05-21,,,Camp,,K064,0.0,Active
+C00984,P00860,N09,2024-07-23,Infant,2025-05-22,,,Camp,,K057,0.0,Active
+C00985,P00861,N05,2023-07-17,Toddler,2025-05-23,2025-07-31,Relocation,Lead,L001767,,0.0,Left
+C00986,P00862,N04,2022-01-13,Nursery,2025-05-29,,,Camp,,K022,0.0,Active
+C00987,P00863,N02,2021-05-22,FS1,2025-05-30,2026-07-31,Graduated to school,Camp,,K008,0.0,Left
+C00988,P00864,N09,2019-12-30,FS2,2025-06-02,2025-07-31,Graduated to school,Camp,,K057,0.0,Left
+C00989,P00865,N10,2023-01-01,Toddler,2025-06-03,2025-09-30,Moved to another nursery,Lead,L003758,,0.15,Left
+C00990,P00866,N01,2024-02-01,Infant,2025-06-03,,,Camp,,K001,0.0,Active
+C00991,P00867,N05,2023-09-24,Infant,2025-06-03,,,Camp,,K029,0.0,Active
+C00992,P00711,N09,2024-02-20,Infant,2025-06-10,,,Lead,L003365,,0.0,Active
+C00993,P00868,N01,2024-07-09,Infant,2025-06-16,,,Lead,L000076,,0.0,Active
+C00994,P00869,N07,2021-12-02,Nursery,2025-06-17,,,Lead,L002626,,0.1,Active
+C00995,P00870,N07,2024-07-06,Infant,2025-06-19,,,Lead,L002615,,0.0,Active
+C00996,P00871,N01,2021-09-24,Nursery,2025-06-21,,,Lead,L000089,,0.0,Active
+C00997,P00872,N05,2020-10-08,FS1,2025-06-24,2026-07-31,Graduated to school,Lead,L001801,,0.0,Left
+C00998,P00873,N01,2022-06-07,Nursery,2025-06-26,,,Lead,L000080,,0.0,Active
+C00999,P00874,N03,2022-04-13,Nursery,2025-06-28,,,Lead,L001021,,0.0,Active
+C01000,P00875,N06,2024-08-24,Infant,2025-07-05,,,Lead,L002207,,0.0,Active
+C01001,P00876,N05,2024-08-31,Infant,2025-07-20,,,Lead,L001792,,0.0,Active
+C01002,P00877,N08,2023-10-08,Infant,2025-07-20,,,Lead,L003004,,0.0,Active
+C01003,P00428,N05,2024-02-20,Infant,2025-07-22,,,Lead,L001824,,0.05,Active
+C01004,P00878,N09,2024-06-02,Infant,2025-07-30,,,Camp,,K058,0.0,Active
+C01005,P00767,N10,2021-05-03,FS1,2025-08-02,2026-07-31,Graduated to school,Lead,L003788,,0.0,Left
+C01006,P00879,N09,2023-08-19,Toddler,2025-08-03,2025-11-30,Fees,Lead,L003377,,0.0,Left
+C01007,P00880,N02,2021-07-31,FS1,2025-08-04,2026-07-31,Graduated to school,Camp,,K009,0.0,Left
+C01008,P00881,N10,2023-11-25,Infant,2025-08-14,2026-05-31,Relocation,Lead,L003795,,0.0,Left
+C01009,P00882,N10,2023-08-23,Toddler,2025-08-17,2026-07-31,Relocation,Lead,L003798,,0.0,Left
+C01010,P00883,N01,2023-12-07,Infant,2025-08-17,,,Camp,,K002,0.1,Active
+C01011,P00884,N09,2024-04-12,Infant,2025-08-19,,,Lead,L003393,,0.0,Active
+C01012,P00885,N02,2021-10-22,Nursery,2025-08-22,,,Camp,,K009,0.0,Active
+C01013,P00886,N03,2022-05-04,Nursery,2025-08-25,,,Camp,,K016,0.0,Active
+C01014,P00887,N10,2023-11-22,Infant,2025-08-27,2026-03-31,Relocation,Camp,,K065,0.1,Left
+C01015,P00888,N03,2023-06-12,Toddler,2025-08-29,,,Lead,L001065,,0.0,Active
+C01016,P00889,N03,2022-02-16,Nursery,2025-08-29,,,Lead,L001071,,0.0,Active
+C01017,P00890,N01,2021-10-22,FS1,2025-09-01,,,Lead,L000092,,0.05,Active
+C01018,P00891,N02,2024-03-25,Toddler,2025-09-01,,,Lead,L000510,,0.0,Active
+C01019,P00892,N02,2021-12-25,FS1,2025-09-01,,,Lead,L000513,,0.0,Active
+C01020,P00893,N02,2024-05-04,Toddler,2025-09-01,,,Lead,L000555,,0.0,Active
+C01021,P00575,N07,2022-10-01,Nursery,2025-09-01,,,Lead,L002645,,0.0,Active
+C01022,P00894,N08,2023-01-16,Nursery,2025-09-01,,,Lead,L002999,,0.0,Active
+C01023,P00895,N10,2023-04-10,Nursery,2025-09-01,,,Lead,L003736,,0.0,Active
+C01024,P00896,N10,2024-11-13,Infant,2025-09-01,,,Lead,L003769,,0.0,Active
+C01025,P00897,N02,2023-11-21,Toddler,2025-09-01,,,Camp,,K009,0.0,Active
+C01026,P00898,N04,2022-02-08,FS1,2025-09-01,,,Camp,,K023,0.0,Active
+C01027,P00899,N04,2022-04-13,FS1,2025-09-01,,,Camp,,K023,0.0,Active
+C01028,P00900,N04,2023-09-04,Toddler,2025-09-01,,,Camp,,K024,0.1,Active
+C01029,P00901,N04,2022-09-24,Nursery,2025-09-01,,,Camp,,K024,0.0,Active
+C01030,P00902,N06,2022-12-01,Nursery,2025-09-01,,,Camp,,K037,0.0,Active
+C01031,P00903,N07,2020-10-26,FS2,2025-09-01,2026-07-31,Graduated to school,Camp,,K044,0.05,Left
+C01032,P00904,N07,2023-09-13,Toddler,2025-09-01,2026-01-31,Relocation,Camp,,K045,0.15,Left
+C01033,P00085,N01,2023-09-18,Toddler,2025-09-02,,,Lead,L000104,,0.0,Active
+C01034,P00905,N08,2023-08-18,Nursery,2025-09-02,2025-12-31,Other,Lead,L003011,,0.1,Left
+C01035,P00906,N10,2022-07-06,FS1,2025-09-02,,,Lead,L003772,,0.1,Active
+C01036,P00907,N01,2024-09-05,Infant,2025-09-02,,,Camp,,K003,0.0,Active
+C01037,P00777,N02,2023-08-03,Nursery,2025-09-02,,,Camp,,K010,0.0,Active
+C01038,P00908,N04,2022-11-08,Nursery,2025-09-02,,,Camp,,K024,0.0,Active
+C01039,P00909,N04,2024-05-08,Toddler,2025-09-03,,,Lead,L001443,,0.0,Active
+C01040,P00910,N07,2023-08-17,Nursery,2025-09-03,,,Lead,L002613,,0.0,Active
+C01041,P00911,N07,2024-07-11,Toddler,2025-09-03,2026-03-31,Relocation,Lead,L002672,,0.05,Left
+C01042,P00617,N08,2022-02-10,FS1,2025-09-03,2026-05-31,Relocation,Lead,L003033,,0.0,Left
+C01043,P00912,N09,2024-11-22,Infant,2025-09-03,,,Lead,L003342,,0.1,Active
+C01044,P00913,N10,2024-06-18,Toddler,2025-09-03,2026-06-30,Relocation,Lead,L003807,,0.15,Left
+C01045,P00914,N05,2023-12-31,Toddler,2025-09-03,,,Camp,,K030,0.0,Active
+C01046,P00915,N09,2023-02-18,Nursery,2025-09-03,,,Camp,,K059,0.0,Active
+C01047,P00916,N02,2024-06-10,Toddler,2025-09-04,,,Lead,L000567,,0.0,Active
+C01048,P00917,N03,2022-08-30,FS1,2025-09-04,,,Lead,L001038,,0.0,Active
+C01049,P00918,N05,2024-01-20,Toddler,2025-09-04,,,Lead,L001840,,0.0,Active
+C01050,P00505,N06,2024-04-19,Toddler,2025-09-04,,,Lead,L002176,,0.0,Active
+C01051,P00919,N07,2021-03-26,FS2,2025-09-04,2026-07-31,Graduated to school,Lead,L002609,,0.0,Left
+C01052,P00656,N08,2022-10-03,Nursery,2025-09-04,,,Lead,L003009,,0.0,Active
+C01053,P00016,N01,2021-10-05,FS1,2025-09-04,,,Camp,,K003,0.1,Active
+C01054,P00920,N02,2024-08-04,Toddler,2025-09-04,,,Camp,,K009,0.05,Active
+C01055,P00921,N05,2024-02-20,Toddler,2025-09-04,,,Camp,,K030,0.0,Active
+C01056,P00922,N06,2022-09-12,Nursery,2025-09-04,,,Camp,,K037,0.0,Active
+C01057,P00923,N06,2024-09-14,Infant,2025-09-04,2026-05-31,Fees,Camp,,K038,0.1,Left
+C01058,P00924,N07,2021-12-15,FS1,2025-09-04,,,Camp,,K044,0.0,Active
+C01059,P00925,N07,2021-12-01,FS1,2025-09-04,,,Camp,,K044,0.0,Active
+C01060,P00926,N08,2024-03-01,Toddler,2025-09-04,,,Camp,,K051,0.0,Active
+C01061,P00927,N08,2021-09-29,FS1,2025-09-04,,,Camp,,K052,0.05,Active
+C01062,P00928,N09,2023-09-21,Toddler,2025-09-04,2026-05-31,Other,Camp,,K059,0.05,Left
+C01063,P00929,N02,2021-09-13,FS1,2025-09-05,,,Lead,L000560,,0.1,Active
+C01064,P00930,N04,2022-05-22,FS1,2025-09-05,,,Lead,L001419,,0.05,Active
+C01065,P00931,N04,2022-07-19,FS1,2025-09-05,,,Lead,L001459,,0.0,Active
+C01066,P00932,N07,2022-03-14,FS1,2025-09-05,,,Lead,L002667,,0.0,Active
+C01067,P00933,N01,2023-01-17,Nursery,2025-09-05,,,Camp,,K003,0.0,Active
+C01068,P00934,N03,2025-02-25,Infant,2025-09-05,,,Camp,,K016,0.0,Active
+C01069,P00935,N04,2022-03-19,FS1,2025-09-05,,,Camp,,K023,0.15,Active
+C01070,P00936,N06,2024-11-02,Infant,2025-09-05,,,Camp,,K037,0.0,Active
+C01071,P00937,N07,2024-04-09,Toddler,2025-09-05,,,Camp,,K045,0.0,Active
+C01072,P00938,N02,2022-03-14,FS1,2025-09-06,,,Lead,L000507,,0.0,Active
+C01073,P00939,N02,2024-01-23,Toddler,2025-09-06,,,Lead,L000520,,0.0,Active
+C01074,P00940,N02,2021-08-14,FS2,2025-09-06,2026-07-31,Graduated to school,Lead,L000523,,0.0,Left
+C01075,P00163,N02,2024-06-06,Toddler,2025-09-06,,,Lead,L000561,,0.05,Active
+C01076,P00941,N06,2024-03-25,Toddler,2025-09-06,2026-09-30,Other,Lead,L002164,,0.0,Left
+C01077,P00942,N07,2024-05-28,Toddler,2025-09-06,2025-10-31,Relocation,Lead,L002610,,0.0,Left
+C01078,P00943,N08,2021-01-10,FS2,2025-09-06,2026-07-31,Graduated to school,Lead,L002971,,0.0,Left
+C01079,P00896,N10,2023-12-29,Toddler,2025-09-06,,,Lead,L003733,,0.0,Active
+C01080,P00944,N01,2023-09-22,Toddler,2025-09-06,2026-10-31,Relocation,Camp,,K003,0.0,Left
+C01081,P00945,N04,2024-12-19,Infant,2025-09-06,,,Camp,,K023,0.0,Active
+C01082,P00946,N06,2024-12-11,Infant,2025-09-06,,,Camp,,K037,0.0,Active
+C01083,P00947,N07,2024-03-26,Toddler,2025-09-06,,,Camp,,K044,0.1,Active
+C01084,P00948,N09,2024-12-01,Infant,2025-09-06,,,Camp,,K058,0.0,Active
+C01085,P00949,N04,2022-10-03,Nursery,2025-09-07,,,Lead,L001415,,0.0,Active
+C01086,P00950,N08,2023-02-20,Nursery,2025-09-07,,,Lead,L002981,,0.0,Active
+C01087,P00865,N10,2022-09-23,Nursery,2025-09-07,,,Lead,L003805,,0.0,Active
+C01088,P00951,N01,2022-01-08,FS1,2025-09-07,,,Camp,,K002,0.1,Active
+C01089,P00952,N01,2024-12-09,Infant,2025-09-07,2026-06-30,Other,Camp,,K003,0.0,Left
+C01090,P00953,N02,2025-02-03,Infant,2025-09-07,,,Camp,,K010,0.0,Active
+C01091,P00954,N03,2020-09-23,FS2,2025-09-07,2026-07-31,Graduated to school,Camp,,K016,0.1,Left
+C01092,P00955,N04,2022-09-21,Nursery,2025-09-07,,,Camp,,K023,0.0,Active
+C01093,P00314,N04,2022-02-05,FS1,2025-09-07,,,Camp,,K023,0.0,Active
+C01094,P00956,N04,2025-01-18,Infant,2025-09-07,,,Camp,,K024,0.0,Active
+C01095,P00957,N05,2024-01-27,Toddler,2025-09-07,,,Camp,,K031,0.0,Active
+C01096,P00958,N06,2023-09-04,Toddler,2025-09-07,,,Camp,,K037,0.15,Active
+C01097,P00959,N07,2023-01-19,Nursery,2025-09-07,,,Camp,,K044,0.0,Active
+C01098,P00960,N10,2025-03-02,Infant,2025-09-07,,,Camp,,K066,0.0,Active
+C01099,P00961,N10,2022-12-02,Nursery,2025-09-07,,,Camp,,K066,0.0,Active
+C01100,P00962,N01,2024-12-20,Infant,2025-09-08,,,Lead,L000113,,0.0,Active
+C01101,P00166,N02,2024-12-20,Infant,2025-09-08,,,Lead,L000549,,0.15,Active
+C01102,P00963,N02,2023-07-29,Nursery,2025-09-08,,,Lead,L000591,,0.0,Active
+C01103,P00588,N07,2024-02-18,Toddler,2025-09-08,,,Lead,L002597,,0.0,Active
+C01104,P00964,N10,2023-03-06,Nursery,2025-09-08,,,Lead,L003781,,0.1,Active
+C01105,P00965,N10,2025-03-10,Infant,2025-09-08,,,Lead,L003811,,0.0,Active
+C01106,P00966,N05,2023-02-10,Nursery,2025-09-08,,,Camp,,K031,0.0,Active
+C01107,P00967,N06,2024-03-03,Toddler,2025-09-08,,,Camp,,K037,0.1,Active
+C01108,P00885,N02,2024-08-29,Toddler,2025-09-09,,,Lead,L000569,,0.0,Active
+C01109,P00968,N02,2022-03-23,FS1,2025-09-09,2025-12-31,Relocation,Lead,L000581,,0.0,Left
+C01110,P00969,N03,2023-01-13,Nursery,2025-09-09,,,Lead,L001077,,0.0,Active
+C01111,P00970,N05,2025-01-09,Infant,2025-09-09,2025-10-31,Relocation,Lead,L001761,,0.0,Left
+C01112,P00971,N06,2023-05-14,Nursery,2025-09-09,,,Lead,L002180,,0.1,Active
+C01113,P00972,N08,2023-08-15,Nursery,2025-09-09,,,Lead,L002961,,0.0,Active
+C01114,P00061,N01,2024-08-31,Infant,2025-09-09,2025-12-31,Other,Camp,,K002,0.0,Left
+C01115,P00973,N02,2024-06-20,Toddler,2025-09-09,,,Camp,,K009,0.0,Active
+C01116,P00974,N02,2023-10-11,Toddler,2025-09-09,,,Camp,,K009,0.0,Active
+C01117,P00975,N04,2022-12-02,Nursery,2025-09-09,,,Camp,,K023,0.0,Active
+C01118,P00976,N04,2024-12-04,Infant,2025-09-09,,,Camp,,K023,0.0,Active
+C01119,P00977,N06,2024-06-04,Toddler,2025-09-09,,,Camp,,K038,0.0,Active
+C01120,P00978,N02,2024-08-29,Toddler,2025-09-10,2026-10-31,Relocation,Lead,L000541,,0.0,Left
+C01121,P00979,N04,2022-11-04,Nursery,2025-09-10,,,Lead,L001449,,0.0,Active
+C01122,P00980,N06,2024-09-12,Infant,2025-09-10,,,Lead,L002215,,0.0,Active
+C01123,P00981,N09,2025-01-09,Infant,2025-09-10,,,Lead,L003389,,0.05,Active
+C01124,P00982,N01,2023-01-07,Nursery,2025-09-10,,,Camp,,K002,0.0,Active
+C01125,P00983,N03,2023-10-18,Toddler,2025-09-10,,,Camp,,K017,0.0,Active
+C01126,P00984,N05,2024-01-04,Toddler,2025-09-10,,,Camp,,K030,0.05,Active
+C01127,P00985,N05,2023-03-30,Nursery,2025-09-10,,,Camp,,K031,0.0,Active
+C01128,P00986,N08,2022-04-13,FS1,2025-09-10,,,Camp,,K052,0.0,Active
+C01129,P00987,N08,2023-11-28,Toddler,2025-09-10,,,Camp,,K052,0.0,Active
+C01130,P00988,N08,2024-09-07,Infant,2025-09-10,,,Camp,,K052,0.0,Active
+C01131,P00989,N01,2023-12-23,Toddler,2025-09-11,,,Lead,L000078,,0.0,Active
+C01132,P00990,N02,2021-09-23,FS1,2025-09-11,2026-07-31,Relocation,Lead,L000554,,0.0,Left
+C01133,P00991,N04,2025-03-20,Infant,2025-09-11,,,Lead,L001409,,0.0,Active
+C01134,P00992,N04,2021-12-17,FS1,2025-09-11,2026-02-28,Other,Lead,L001437,,0.0,Left
+C01135,P00993,N08,2023-04-03,Nursery,2025-09-11,,,Lead,L003005,,0.0,Active
+C01136,P00994,N10,2021-01-29,FS2,2025-09-11,2026-07-31,Graduated to school,Lead,L003761,,0.0,Left
+C01137,P00995,N10,2025-04-03,Infant,2025-09-11,,,Lead,L003806,,0.0,Active
+C01138,P00793,N10,2025-03-23,Infant,2025-09-11,2026-10-31,Relocation,Lead,L003809,,0.0,Left
+C01139,P00996,N01,2022-09-05,Nursery,2025-09-12,,,Lead,L000127,,0.0,Active
+C01140,P00888,N03,2023-09-02,Toddler,2025-09-12,,,Lead,L001007,,0.0,Active
+C01141,P00997,N04,2023-07-16,Nursery,2025-09-12,,,Lead,L001473,,0.0,Active
+C01142,P00998,N08,2021-05-21,FS2,2025-09-12,2026-07-31,Graduated to school,Lead,L003001,,0.1,Left
+C01143,P00645,N08,2023-12-24,Toddler,2025-09-12,,,Lead,L003025,,0.0,Active
+C01144,P00999,N01,2024-02-27,Toddler,2025-09-13,,,Lead,L000099,,0.1,Active
+C01145,P01000,N03,2025-04-11,Infant,2025-09-13,,,Lead,L001026,,0.0,Active
+C01146,P00997,N04,2021-01-13,FS2,2025-09-13,2026-07-31,Graduated to school,Lead,L001475,,0.0,Left
+C01147,P01001,N06,2024-03-02,Toddler,2025-09-13,,,Lead,L002163,,0.0,Active
+C01148,P01002,N08,2022-03-06,FS1,2025-09-13,2026-06-30,Relocation,Lead,L003040,,0.0,Left
+C01149,P01003,N09,2024-12-13,Infant,2025-09-13,,,Lead,L003379,,0.0,Active
+C01150,P01004,N01,2022-11-08,Nursery,2025-09-13,,,Camp,,K003,0.0,Active
+C01151,P01005,N03,2023-03-30,Nursery,2025-09-14,,,Lead,L001048,,0.0,Active
+C01152,P01006,N04,2020-10-01,FS2,2025-09-14,2026-01-31,Fees,Lead,L001416,,0.0,Left
+C01153,P00319,N04,2021-12-11,FS1,2025-09-14,,,Lead,L001439,,0.1,Active
+C01154,P01007,N06,2023-10-30,Toddler,2025-09-14,,,Lead,L002171,,0.1,Active
+C01155,P01008,N06,2023-10-02,Toddler,2025-09-14,2026-02-28,Fees,Lead,L002204,,0.0,Left
+C01156,P01009,N10,2025-03-07,Infant,2025-09-14,,,Lead,L003766,,0.1,Active
+C01157,P01010,N03,2023-11-13,Toddler,2025-09-15,,,Lead,L001037,,0.0,Active
+C01158,P01011,N08,2023-04-01,Nursery,2025-09-15,,,Lead,L003014,,0.0,Active
+C01159,P01012,N09,2024-03-17,Toddler,2025-09-15,,,Lead,L003363,,0.1,Active
+C01160,P01013,N10,2024-09-27,Infant,2025-09-15,,,Lead,L003816,,0.0,Active
+C01161,P01014,N01,2024-11-05,Infant,2025-09-16,,,Lead,L000120,,0.0,Active
+C01162,P01015,N08,2024-03-26,Toddler,2025-09-17,,,Camp,,K052,0.0,Active
+C01163,P01016,N08,2024-03-25,Toddler,2025-09-18,,,Camp,,K052,0.0,Active
+C01164,P01017,N01,2024-12-25,Infant,2025-09-19,,,Lead,L000138,,0.0,Active
+C01165,P01018,N03,2024-04-21,Toddler,2025-09-19,,,Lead,L001102,,0.0,Active
+C01166,P01019,N04,2020-09-05,FS2,2025-09-19,2026-07-31,Graduated to school,Lead,L001479,,0.1,Left
+C01167,P01020,N06,2023-02-06,Nursery,2025-09-19,,,Lead,L002217,,0.0,Active
+C01168,P01021,N03,2023-03-06,Nursery,2025-09-22,,,Lead,L001070,,0.05,Active
+C01169,P01022,N01,2025-02-26,Infant,2025-09-25,,,Lead,L000117,,0.0,Active
+C01170,P01023,N10,2022-11-26,Nursery,2025-09-25,,,Camp,,K066,0.0,Active
+C01171,P01024,N04,2022-01-11,FS1,2025-09-27,,,Camp,,K024,0.0,Active
+C01172,P01025,N06,2025-01-11,Infant,2025-09-29,,,Lead,L002256,,0.1,Active
+C01173,P01026,N02,2023-06-20,Nursery,2025-10-02,,,Lead,L000619,,0.1,Active
+C01174,P01027,N01,2022-02-22,FS1,2025-10-04,2026-02-28,Relocation,Lead,L000110,,0.1,Left
+C01175,P01028,N06,2021-10-15,FS1,2025-10-04,,,Lead,L002233,,0.0,Active
+C01176,P01029,N02,2023-07-05,Nursery,2025-10-05,,,Lead,L000618,,0.0,Active
+C01177,P01030,N02,2023-04-14,Nursery,2025-10-06,,,Lead,L000616,,0.0,Active
+C01178,P01031,N09,2025-01-04,Infant,2025-10-06,,,Lead,L003433,,0.0,Active
+C01179,P01032,N02,2024-09-22,Infant,2025-10-07,2026-09-30,Relocation,Lead,L000624,,0.1,Left
+C01180,P01033,N03,2021-12-14,FS1,2025-10-07,,,Lead,L001074,,0.0,Active
+C01181,P00843,N04,2024-01-29,Toddler,2025-10-08,,,Lead,L001480,,0.0,Active
+C01182,P01034,N10,2023-03-27,Nursery,2025-10-08,,,Lead,L003842,,0.0,Active
+C01183,P01035,N10,2024-02-23,Toddler,2025-10-08,,,Lead,L003858,,0.0,Active
+C01184,P01036,N02,2023-11-20,Toddler,2025-10-09,,,Lead,L000632,,0.15,Active
+C01185,P01037,N08,2023-01-06,Nursery,2025-10-10,,,Lead,L003070,,0.0,Active
+C01186,P01038,N01,2022-07-25,FS1,2025-10-12,,,Lead,L000147,,0.0,Active
+C01187,P01039,N01,2022-08-02,FS1,2025-10-16,,,Lead,L000131,,0.0,Active
+C01188,P01040,N09,2024-04-01,Toddler,2025-10-16,,,Lead,L003421,,0.0,Active
+C01189,P01041,N02,2025-03-30,Infant,2025-10-17,,,Lead,L000629,,0.0,Active
+C01190,P01042,N01,2025-02-20,Infant,2025-10-18,,,Lead,L000133,,0.0,Active
+C01191,P01043,N05,2022-11-02,Nursery,2025-10-19,,,Lead,L001873,,0.1,Active
+C01192,P00976,N04,2023-03-24,Nursery,2025-10-21,,,Lead,L001494,,0.0,Active
+C01193,P01044,N01,2022-11-08,Nursery,2025-10-22,,,Lead,L000129,,0.0,Active
+C01194,P00857,N04,2025-04-11,Infant,2025-10-22,2025-12-31,Relocation,Lead,L001505,,0.0,Left
+C01195,P01045,N04,2023-07-06,Nursery,2025-10-24,,,Lead,L001509,,0.0,Active
+C01196,P01046,N05,2024-11-23,Infant,2025-10-25,,,Lead,L001843,,0.1,Active
+C01197,P01047,N03,2023-03-04,Nursery,2025-10-27,,,Lead,L001105,,0.0,Active
+C01198,P01048,N03,2022-09-05,Nursery,2025-10-27,2026-08-31,Relocation,Lead,L001107,,0.0,Left
+C01199,P01049,N09,2024-02-16,Toddler,2025-10-27,2026-07-31,Moved to another nursery,Lead,L003432,,0.1,Left
+C01200,P01050,N06,2025-02-03,Infant,2025-10-28,2026-09-30,Relocation,Lead,L002276,,0.0,Left
+C01201,P01051,N02,2022-06-30,FS1,2025-10-29,,,Lead,L000617,,0.0,Active
+C01202,P01052,N02,2024-10-14,Infant,2025-10-29,,,Lead,L000641,,0.0,Active
+C01203,P01053,N06,2022-10-24,Nursery,2025-10-29,,,Lead,L002245,,0.0,Active
+C01204,P01054,N09,2023-04-19,Nursery,2025-10-29,,,Lead,L003454,,0.0,Active
+C01205,P01055,N02,2023-08-31,Nursery,2025-10-30,,,Lead,L000599,,0.0,Active
+C01206,P01056,N10,2024-11-14,Infant,2025-10-30,,,Lead,L003839,,0.0,Active
+C01207,P00232,N03,2024-03-12,Toddler,2025-11-01,2026-03-31,Relocation,Lead,L001112,,0.0,Left
+C01208,P01057,N05,2024-11-02,Infant,2025-11-02,,,Lead,L001863,,0.0,Active
+C01209,P01058,N06,2024-01-24,Toddler,2025-11-02,2026-03-31,Relocation,Lead,L002284,,0.0,Left
+C01210,P01059,N07,2021-04-06,FS2,2025-11-05,2026-07-31,Graduated to school,Lead,L002693,,0.0,Left
+C01211,P01060,N09,2021-07-23,FS2,2025-11-06,2026-07-31,Graduated to school,Lead,L003425,,0.0,Left
+C01212,P01061,N04,2023-11-25,Toddler,2025-11-08,,,Lead,L001478,,0.0,Active
+C01213,P01062,N10,2024-12-22,Infant,2025-11-08,,,Lead,L003833,,0.0,Active
+C01214,P01063,N02,2022-10-19,Nursery,2025-11-09,,,Lead,L000637,,0.0,Active
+C01215,P01064,N02,2024-12-03,Infant,2025-11-09,,,Lead,L000642,,0.0,Active
+C01216,P01065,N02,2021-12-08,FS1,2025-11-09,,,Lead,L000646,,0.1,Active
+C01217,P01066,N08,2023-04-26,Nursery,2025-11-09,2026-06-30,Other,Lead,L003073,,0.0,Left
+C01218,P01067,N03,2025-01-24,Infant,2025-11-12,,,Lead,L001090,,0.0,Active
+C01219,P01068,N10,2022-01-26,FS1,2025-11-12,,,Lead,L003838,,0.0,Active
+C01220,P01069,N01,2024-10-28,Infant,2025-11-13,,,Lead,L000158,,0.0,Active
+C01221,P01070,N07,2023-03-18,Nursery,2025-11-13,,,Lead,L002684,,0.0,Active
+C01222,P00434,N05,2025-03-23,Infant,2025-11-14,,,Lead,L001871,,0.0,Active
+C01223,P01071,N08,2022-10-07,Nursery,2025-11-15,,,Lead,L003082,,0.0,Active
+C01224,P01072,N06,2024-04-14,Toddler,2025-11-16,,,Lead,L002264,,0.0,Active
+C01225,P01073,N01,2022-11-21,Nursery,2025-11-18,2026-08-31,Relocation,Lead,L000193,,0.0,Left
+C01226,P01074,N07,2022-12-26,Nursery,2025-11-18,,,Lead,L002695,,0.1,Active
+C01227,P01075,N08,2023-10-19,Toddler,2025-11-19,,,Lead,L003080,,0.1,Active
+C01228,P00035,N01,2020-10-09,FS2,2025-11-20,2026-07-31,Graduated to school,Lead,L000156,,0.0,Left
+C01229,P01076,N05,2023-11-22,Toddler,2025-11-20,,,Lead,L001866,,0.05,Active
+C01230,P01077,N02,2022-12-24,Nursery,2025-11-21,,,Lead,L000679,,0.0,Active
+C01231,P01078,N10,2023-11-02,Toddler,2025-11-25,,,Lead,L003860,,0.1,Active
+C01232,P01079,N10,2022-11-18,Nursery,2025-11-26,,,Lead,L003892,,0.0,Active
+C01233,P01080,N06,2022-10-21,Nursery,2025-11-28,,,Lead,L002285,,0.0,Active
+C01234,P01081,N08,2024-01-01,Toddler,2025-11-29,,,Lead,L003081,,0.0,Active
+C01235,P01082,N10,2023-03-02,Nursery,2025-11-29,2026-05-31,Relocation,Lead,L003879,,0.0,Left
+C01236,P01083,N05,2022-07-18,FS1,2025-11-30,,,Lead,L001887,,0.0,Active
+C01237,P01084,N10,2022-02-17,FS1,2025-12-03,,,Lead,L003893,,0.0,Active
+C01238,P01085,N02,2024-03-12,Toddler,2025-12-05,,,Lead,L000659,,0.15,Active
+C01239,P01086,N08,2023-12-29,Toddler,2025-12-06,,,Lead,L003095,,0.0,Active
+C01240,P01087,N08,2024-04-14,Toddler,2025-12-07,,,Lead,L003094,,0.0,Active
+C01241,P01088,N01,2022-11-03,Nursery,2025-12-09,,,Lead,L000167,,0.0,Active
+C01242,P01089,N01,2022-12-07,Nursery,2025-12-09,2026-09-30,Moved to another nursery,Lead,L000170,,0.0,Left
+C01243,P00881,N10,2025-03-20,Infant,2025-12-09,,,Lead,L003872,,0.0,Active
+C01244,P01090,N04,2024-04-13,Toddler,2025-12-11,,,Lead,L001519,,0.0,Active
+C01245,P01091,N07,2025-04-28,Infant,2025-12-11,,,Lead,L002706,,0.0,Active
+C01246,P01092,N02,2022-03-27,FS1,2025-12-12,,,Lead,L000684,,0.0,Active
+C01247,P01093,N01,2023-10-22,Toddler,2025-12-14,,,Lead,L000183,,0.0,Active
+C01248,P01094,N01,2023-08-04,Nursery,2025-12-14,,,Lead,L000198,,0.15,Active
+C01249,P01079,N10,2022-09-17,Nursery,2025-12-14,,,Lead,L003894,,0.0,Active
+C01250,P01095,N08,2021-03-18,FS2,2025-12-15,2026-07-31,Graduated to school,Lead,L003108,,0.0,Left
+C01251,P01096,N02,2025-03-21,Infant,2025-12-16,,,Lead,L000666,,0.15,Active
+C01252,P01097,N06,2021-11-18,FS1,2025-12-18,,,Lead,L002305,,0.0,Active
+C01253,P01098,N06,2023-02-15,Nursery,2025-12-19,,,Lead,L002288,,0.0,Active
+C01254,P01099,N10,2023-11-30,Toddler,2025-12-19,,,Lead,L003895,,0.0,Active
+C01255,P01100,N05,2024-06-30,Toddler,2025-12-20,,,Lead,L001903,,0.0,Active
+C01256,P01101,N01,2023-03-28,Nursery,2025-12-22,,,Lead,L000184,,0.0,Active
+C01257,P01102,N05,2025-01-10,Infant,2025-12-23,,,Lead,L001894,,0.0,Active
+C01258,P01103,N04,2022-04-22,FS1,2025-12-25,,,Lead,L001517,,0.05,Active
+C01259,P01104,N03,2023-11-01,Toddler,2025-12-29,,,Lead,L001154,,0.0,Active
+C01260,P01105,N03,2022-03-02,FS1,2025-12-30,,,Lead,L001130,,0.0,Active
+C01261,P01106,N09,2023-07-25,Nursery,2025-12-30,,,Lead,L003458,,0.05,Active
+C01262,P01107,N04,2024-06-26,Toddler,2026-01-01,,,Lead,L001530,,0.0,Active
+C01263,P01108,N10,2023-03-05,Nursery,2026-01-02,,,Lead,L003904,,0.0,Active
+C01264,P01109,N03,2024-03-03,Toddler,2026-01-03,,,Lead,L001151,,0.1,Active
+C01265,P00093,N02,2024-09-10,Infant,2026-01-04,,,Lead,L000681,,0.0,Active
+C01266,P01110,N09,2024-09-21,Infant,2026-01-04,,,Lead,L003472,,0.0,Active
+C01267,P01111,N10,2023-09-14,Toddler,2026-01-04,,,Lead,L003898,,0.1,Active
+C01268,P01112,N03,2022-12-02,Nursery,2026-01-05,,,Lead,L001139,,0.0,Active
+C01269,P01113,N05,2021-12-23,FS1,2026-01-06,,,Lead,L001902,,0.0,Active
+C01270,P01114,N02,2024-01-30,Toddler,2026-01-08,,,Lead,L000697,,0.0,Active
+C01271,P01115,N07,2023-12-10,Toddler,2026-01-12,,,Camp,,K049,0.0,Active
+C01272,P01116,N05,2023-04-30,Nursery,2026-01-15,,,Lead,L001896,,0.0,Active
+C01273,P01117,N10,2025-04-18,Infant,2026-01-15,,,Lead,L003896,,0.0,Active
+C01274,P00463,N06,2022-05-31,FS1,2026-01-15,,,Camp,,K042,0.1,Active
+C01275,P01118,N10,2022-12-20,Nursery,2026-01-18,,,Lead,L003901,,0.0,Active
+C01276,P01119,N03,2024-09-03,Infant,2026-01-19,,,Lead,L001136,,0.1,Active
+C01277,P01120,N08,2024-09-19,Infant,2026-01-20,2026-02-28,Fees,Camp,,K056,0.0,Left
+C01278,P00231,N03,2022-01-28,FS1,2026-01-23,,,Lead,L001164,,0.0,Active
+C01279,P01121,N08,2023-05-25,Nursery,2026-01-23,,,Lead,L003102,,0.0,Active
+C01280,P01122,N08,2024-12-09,Infant,2026-01-25,,,Lead,L003109,,0.05,Active
+C01281,P00632,N08,2025-01-25,Infant,2026-01-26,,,Camp,,K056,0.0,Active
+C01282,P01123,N05,2022-11-29,Nursery,2026-01-27,,,Camp,,K035,0.0,Active
+C01283,P00286,N04,2025-03-17,Infant,2026-01-28,,,Lead,L001544,,0.0,Active
+C01284,P01124,N01,2024-12-08,Infant,2026-01-30,2026-03-31,Relocation,Lead,L000195,,0.1,Left
+C01285,P01125,N05,2023-02-21,Nursery,2026-01-30,,,Lead,L001905,,0.0,Active
+C01286,P01126,N08,2022-09-03,Nursery,2026-01-30,,,Lead,L003133,,0.0,Active
+C01287,P01127,N03,2020-11-19,FS2,2026-01-31,2026-07-31,Graduated to school,Lead,L001169,,0.0,Left
+C01288,P01128,N06,2024-09-13,Infant,2026-02-01,,,Lead,L002313,,0.0,Active
+C01289,P00255,N03,2025-02-27,Infant,2026-02-01,,,Camp,,K021,0.0,Active
+C01290,P01129,N01,2022-08-07,FS1,2026-02-05,,,Lead,L000217,,0.1,Active
+C01291,P01130,N07,2023-09-11,Toddler,2026-02-05,,,Lead,L002729,,0.0,Active
+C01292,P01131,N10,2024-10-07,Infant,2026-02-05,,,Lead,L003927,,0.05,Active
+C01293,P01132,N06,2023-11-22,Toddler,2026-02-05,,,Camp,,K042,0.0,Active
+C01294,P01133,N05,2024-11-09,Infant,2026-02-06,2026-04-30,Relocation,Lead,L001926,,0.0,Left
+C01295,P00498,N06,2022-11-04,Nursery,2026-02-06,,,Camp,,K042,0.1,Active
+C01296,P01134,N05,2021-06-28,FS2,2026-02-07,2026-07-31,Graduated to school,Lead,L001907,,0.0,Left
+C01297,P01135,N10,2021-12-17,FS1,2026-02-07,,,Lead,L003903,,0.1,Active
+C01298,P01136,N01,2025-04-01,Infant,2026-02-07,,,Camp,,K007,0.0,Active
+C01299,P01137,N09,2023-06-05,Nursery,2026-02-08,,,Lead,L003485,,0.0,Active
+C01300,P01138,N10,2025-07-24,Infant,2026-02-12,,,Lead,L003910,,0.0,Active
+C01301,P01139,N01,2023-08-29,Nursery,2026-02-12,,,Camp,,K007,0.0,Active
+C01302,P01140,N01,2024-12-05,Infant,2026-02-14,,,Lead,L000222,,0.1,Active
+C01303,P01141,N03,2024-07-14,Toddler,2026-02-15,2026-04-30,Fees,Lead,L001162,,0.0,Left
+C01304,P01142,N02,2023-10-03,Toddler,2026-02-16,,,Lead,L000728,,0.0,Active
+C01305,P01143,N06,2021-05-22,FS2,2026-02-16,2026-07-31,Graduated to school,Lead,L002337,,0.0,Left
+C01306,P00996,N01,2023-10-31,Toddler,2026-02-17,2026-04-30,Relocation,Lead,L000246,,0.1,Left
+C01307,P01144,N06,2023-08-17,Nursery,2026-02-19,,,Lead,L002327,,0.1,Active
+C01308,P00716,N09,2023-08-05,Nursery,2026-02-20,,,Lead,L003504,,0.0,Active
+C01309,P01145,N06,2022-12-03,Nursery,2026-02-26,,,Lead,L002326,,0.0,Active
+C01310,P00927,N08,2023-07-10,Nursery,2026-02-26,,,Lead,L003114,,0.0,Active
+C01311,P01146,N10,2025-07-22,Infant,2026-02-28,,,Lead,L003928,,0.0,Active
+C01312,P01147,N05,2023-10-02,Toddler,2026-03-01,,,Lead,L001948,,0.0,Active
+C01313,P00877,N08,2025-04-16,Infant,2026-03-01,,,Lead,L003112,,0.1,Active
+C01314,P01148,N10,2025-02-18,Infant,2026-03-02,,,Lead,L003949,,0.0,Active
+C01315,P01149,N01,2024-11-29,Infant,2026-03-04,,,Lead,L000233,,0.0,Active
+C01316,P01150,N06,2023-10-22,Toddler,2026-03-05,,,Lead,L002351,,0.0,Active
+C01317,P01151,N06,2024-08-08,Toddler,2026-03-06,,,Lead,L002341,,0.0,Active
+C01318,P01152,N09,2025-06-24,Infant,2026-03-06,,,Lead,L003507,,0.0,Active
+C01319,P01153,N01,2024-01-02,Toddler,2026-03-11,,,Lead,L000254,,0.0,Active
+C01320,P01154,N03,2024-12-11,Infant,2026-03-11,2026-06-30,Relocation,Lead,L001196,,0.0,Left
+C01321,P01155,N04,2024-03-06,Toddler,2026-03-11,,,Lead,L001562,,0.0,Active
+C01322,P01156,N01,2023-07-19,Nursery,2026-03-12,,,Lead,L000242,,0.15,Active
+C01323,P01157,N06,2024-10-05,Infant,2026-03-13,,,Lead,L002355,,0.0,Active
+C01324,P01158,N04,2025-03-21,Infant,2026-03-14,,,Lead,L001557,,0.05,Active
+C01325,P01159,N08,2025-01-18,Infant,2026-03-14,,,Lead,L003152,,0.1,Active
+C01326,P00985,N05,2023-04-11,Nursery,2026-03-15,,,Lead,L001952,,0.0,Active
+C01327,P01160,N06,2024-08-12,Toddler,2026-03-16,,,Lead,L002340,,0.0,Active
+C01328,P01161,N03,2023-02-15,Nursery,2026-03-18,,,Lead,L001206,,0.0,Active
+C01329,P01162,N08,2020-10-04,FS2,2026-03-21,2026-07-31,Graduated to school,Lead,L003149,,0.0,Left
+C01330,P01163,N01,2024-07-23,Toddler,2026-03-22,,,Lead,L000245,,0.0,Active
+C01331,P01164,N07,2023-08-01,Nursery,2026-03-25,,,Lead,L002754,,0.0,Active
+C01332,P01165,N06,2023-07-24,Nursery,2026-03-26,,,Lead,L002347,,0.0,Active
+C01333,P01166,N06,2025-04-10,Infant,2026-03-26,,,Lead,L002352,,0.0,Active
+C01334,P01167,N03,2023-08-31,Nursery,2026-03-27,,,Lead,L001186,,0.0,Active
+C01335,P01168,N09,2025-03-12,Infant,2026-03-31,,,Lead,L003519,,0.0,Active
+C01336,P01169,N10,2023-12-22,Toddler,2026-03-31,,,Lead,L003955,,0.0,Active
+C01337,P01170,N08,2025-08-27,Infant,2026-04-01,,,Lead,L003155,,0.0,Active
+C01338,P01171,N08,2022-12-22,Nursery,2026-04-01,,,Lead,L003170,,0.0,Active
+C01339,P01172,N09,2025-05-06,Infant,2026-04-01,,,Lead,L003517,,0.15,Active
+C01340,P01173,N02,2022-04-12,FS1,2026-04-02,,,Lead,L000784,,0.0,Active
+C01341,P01174,N04,2024-11-09,Infant,2026-04-05,,,Lead,L001573,,0.0,Active
+C01342,P01175,N10,2024-10-07,Infant,2026-04-09,,,Lead,L003945,,0.0,Active
+C01343,P01101,N01,2024-10-07,Infant,2026-04-11,,,Lead,L000265,,0.0,Active
+C01344,P01176,N05,2023-05-03,Nursery,2026-04-12,,,Lead,L001965,,0.0,Active
+C01345,P01177,N07,2021-12-23,FS1,2026-04-12,,,Lead,L002777,,0.0,Active
+C01346,P01178,N06,2024-09-28,Infant,2026-04-13,,,Lead,L002358,,0.0,Active
+C01347,P01179,N10,2025-04-08,Infant,2026-04-15,,,Lead,L003952,,0.0,Active
+C01348,P01180,N06,2023-07-06,Nursery,2026-04-16,2026-06-30,Relocation,Lead,L002369,,0.1,Left
+C01349,P01181,N05,2025-03-30,Infant,2026-04-17,,,Lead,L001967,,0.0,Active
+C01350,P01182,N03,2024-01-31,Toddler,2026-04-22,,,Lead,L001212,,0.0,Active
+C01351,P01183,N10,2023-11-15,Toddler,2026-04-22,,,Lead,L003957,,0.05,Active
+C01352,P01184,N07,2024-11-25,Infant,2026-04-25,,,Lead,L002779,,0.0,Active
+C01353,P01185,N03,2024-04-03,Toddler,2026-04-27,,,Lead,L001199,,0.05,Active
+C01354,P01186,N09,2024-06-22,Toddler,2026-04-28,,,Camp,,K060,0.0,Active
+C01355,P01187,N05,2024-05-07,Toddler,2026-04-29,,,Lead,L001959,,0.0,Active
+C01356,P01188,N04,2025-05-30,Infant,2026-05-02,,,Camp,,K025,0.1,Active
+C01357,P01189,N06,2025-01-05,Infant,2026-05-02,,,Camp,,K039,0.0,Active
+C01358,P00825,N03,2022-09-07,Nursery,2026-05-03,,,Lead,L001204,,0.0,Active
+C01359,P01190,N03,2023-05-05,Nursery,2026-05-04,,,Lead,L001230,,0.0,Active
+C01360,P01191,N05,2025-07-04,Infant,2026-05-04,,,Camp,,K032,0.0,Active
+C01361,P01192,N08,2022-08-25,FS1,2026-05-05,,,Camp,,K053,0.15,Active
+C01362,P01193,N07,2025-05-26,Infant,2026-05-06,,,Lead,L002768,,0.0,Active
+C01363,P01194,N04,2022-04-10,FS1,2026-05-06,,,Camp,,K025,0.1,Active
+C01364,P01195,N08,2025-07-28,Infant,2026-05-06,,,Camp,,K053,0.0,Active
+C01365,P01196,N05,2024-04-05,Toddler,2026-05-09,,,Lead,L001983,,0.1,Active
+C01366,P01197,N05,2025-08-26,Infant,2026-05-11,,,Camp,,K032,0.15,Active
+C01367,P01198,N06,2022-02-27,FS1,2026-05-11,,,Camp,,K039,0.0,Active
+C01368,P01199,N10,2025-05-28,Infant,2026-05-12,,,Lead,L003989,,0.0,Active
+C01369,P01200,N10,2021-09-02,FS1,2026-05-12,2026-10-31,Relocation,Lead,L003991,,0.15,Left
+C01370,P01201,N03,2022-09-19,Nursery,2026-05-13,,,Lead,L001226,,0.0,Active
+C01371,P01202,N05,2022-09-08,Nursery,2026-05-15,,,Lead,L001987,,0.0,Active
+C01372,P01203,N06,2024-10-25,Infant,2026-05-15,,,Camp,,K039,0.15,Active
+C01373,P01204,N04,2022-12-15,Nursery,2026-05-17,,,Camp,,K025,0.0,Active
+C01374,P01205,N08,2022-10-28,Nursery,2026-05-17,,,Camp,,K053,0.0,Active
+C01375,P01206,N03,2023-09-14,Toddler,2026-05-19,,,Lead,L001229,,0.1,Active
+C01376,P01207,N07,2024-09-25,Infant,2026-05-19,,,Camp,,K046,0.0,Active
+C01377,P01208,N06,2024-11-05,Infant,2026-05-20,,,Camp,,K039,0.0,Active
+C01378,P01209,N09,2022-11-21,Nursery,2026-05-20,,,Camp,,K060,0.1,Active
+C01379,P01210,N09,2024-01-24,Toddler,2026-05-24,2026-08-31,Relocation,Lead,L003537,,0.0,Left
+C01380,P01211,N08,2024-02-18,Toddler,2026-05-24,,,Camp,,K053,0.1,Active
+C01381,P01212,N06,2024-06-12,Toddler,2026-05-25,,,Lead,L002390,,0.0,Active
+C01382,P01213,N08,2025-06-12,Infant,2026-05-25,,,Camp,,K053,0.0,Active
+C01383,P00947,N07,2024-07-22,Toddler,2026-05-27,,,Lead,L002791,,0.05,Active
+C01384,P01214,N08,2024-01-03,Toddler,2026-05-27,,,Lead,L003205,,0.05,Active
+C01385,P01215,N05,2022-09-01,Nursery,2026-05-27,2026-06-30,Moved to another nursery,Camp,,K032,0.0,Left
+C01386,P01216,N07,2024-05-08,Toddler,2026-05-31,,,Lead,L002802,,0.0,Active
+C01387,P01217,N02,2024-12-05,Infant,2026-06-01,,,Lead,L000803,,0.0,Active
+C01388,P01218,N10,2020-10-09,FS2,2026-06-01,2026-07-31,Graduated to school,Camp,,K067,0.1,Left
+C01389,P01219,N01,2025-01-01,Infant,2026-06-03,,,Lead,L000313,,0.0,Active
+C01390,P01220,N04,2025-02-28,Infant,2026-06-03,,,Lead,L001598,,0.0,Active
+C01391,P01221,N09,2021-04-17,FS2,2026-06-14,2026-07-31,Graduated to school,Lead,L003566,,0.0,Left
+C01392,P01222,N06,2023-06-06,Nursery,2026-06-28,,,Lead,L002405,,0.0,Active
+C01393,P01223,N09,2025-01-19,Infant,2026-06-29,,,Lead,L003586,,0.0,Active
+C01394,P01224,N04,2024-09-11,Infant,2026-07-05,,,Lead,L001622,,0.0,Active
+C01395,P01048,N03,2022-08-10,FS1,2026-07-08,,,Lead,L001232,,0.0,Active
+C01396,P01225,N05,2025-06-02,Infant,2026-07-08,,,Lead,L001993,,0.0,Active
+C01397,P01226,N06,2024-11-28,Infant,2026-07-25,,,Lead,L002433,,0.0,Active
+C01398,P01227,N02,2023-01-24,Nursery,2026-08-05,,,Camp,,K012,0.0,Active
+C01399,P01228,N02,2023-03-02,Nursery,2026-08-05,,,Camp,,K012,0.1,Active
+C01400,P01229,N10,2022-09-22,Nursery,2026-08-05,,,Camp,,K068,0.0,Active
+C01401,P01230,N01,2025-02-25,Infant,2026-08-09,,,Camp,,K005,0.1,Active
+C01402,P01231,N01,2025-03-29,Infant,2026-08-14,,,Camp,,K005,0.0,Active
+C01403,P01232,N05,2022-08-31,FS1,2026-08-14,,,Camp,,K033,0.0,Active
+C01404,P01233,N08,2023-07-07,Nursery,2026-08-14,,,Camp,,K054,0.0,Active
+C01405,P01234,N03,2021-09-30,FS1,2026-08-15,,,Lead,L001266,,0.0,Active
+C01406,P01235,N09,2024-11-29,Infant,2026-08-16,,,Lead,L003577,,0.0,Active
+C01407,P01236,N06,2025-03-20,Infant,2026-08-16,,,Camp,,K040,0.0,Active
+C01408,P01237,N05,2023-10-27,Toddler,2026-08-17,,,Lead,L002051,,0.0,Active
+C01409,P01238,N10,2024-10-16,Infant,2026-08-20,,,Lead,L004061,,0.0,Active
+C01410,P01239,N04,2023-05-20,Nursery,2026-08-21,,,Lead,L001664,,0.0,Active
+C01411,P01240,N04,2023-10-21,Toddler,2026-08-21,,,Camp,,K026,0.0,Active
+C01412,P01241,N05,2022-10-20,Nursery,2026-08-23,,,Camp,,K033,0.0,Active
+C01413,P01242,N05,2025-04-02,Infant,2026-08-26,,,Camp,,K033,0.0,Active
+C01414,P01243,N04,2024-11-28,Infant,2026-08-28,,,Camp,,K026,0.0,Active
+C01415,P01244,N10,2025-07-02,Infant,2026-08-28,,,Camp,,K068,0.0,Active
+C01416,P01245,N02,2024-10-25,Infant,2026-08-30,,,Lead,L000847,,0.0,Active
+C01417,P01246,N01,2024-06-15,Toddler,2026-08-30,,,Camp,,K006,0.0,Active
+C01418,P01247,N05,2024-11-30,Infant,2026-08-31,,,Camp,,K034,0.0,Active
+C01419,P01248,N01,2025-09-13,Infant,2026-09-01,,,Lead,L000332,,0.0,Active
+C01420,P01249,N09,2026-01-30,Infant,2026-09-01,,,Lead,L003565,,0.1,Active
+C01421,P01250,N02,2022-12-26,FS1,2026-09-01,,,Camp,,K013,0.05,Active
+C01422,P01251,N04,2025-01-10,Toddler,2026-09-01,,,Camp,,K026,0.1,Active
+C01423,P01252,N05,2026-04-01,Infant,2026-09-01,,,Camp,,K033,0.0,Active
+C01424,P01253,N05,2025-05-20,Toddler,2026-09-01,,,Camp,,K034,0.1,Active
+C01425,P01254,N01,2025-10-14,Infant,2026-09-02,,,Lead,L000286,,0.0,Active
+C01426,P01255,N03,2023-11-16,Nursery,2026-09-02,,,Lead,L001220,,0.1,Active
+C01427,P01256,N04,2022-11-14,FS1,2026-09-02,,,Lead,L001601,,0.0,Active
+C01428,P01257,N06,2025-06-20,Toddler,2026-09-02,,,Lead,L002387,,0.0,Active
+C01429,P01258,N09,2023-08-21,FS1,2026-09-02,,,Lead,L003547,,0.0,Active
+C01430,P00688,N09,2025-05-30,Toddler,2026-09-02,,,Lead,L003606,,0.0,Active
+C01431,P01259,N09,2023-03-14,FS1,2026-09-02,,,Lead,L003615,,0.0,Active
+C01432,P01260,N01,2023-04-19,FS1,2026-09-02,,,Camp,,K005,0.0,Active
+C01433,P01261,N01,2025-03-19,Toddler,2026-09-02,,,Camp,,K006,0.1,Active
+C01434,P01262,N02,2024-01-02,Nursery,2026-09-02,,,Camp,,K012,0.0,Active
+C01435,P01263,N02,2024-04-07,Nursery,2026-09-02,,,Camp,,K012,0.0,Active
+C01436,P01264,N02,2023-05-10,FS1,2026-09-02,,,Camp,,K013,0.1,Active
+C01437,P01265,N05,2025-07-30,Toddler,2026-09-02,,,Camp,,K033,0.0,Active
+C01438,P01084,N10,2025-08-28,Toddler,2026-09-02,,,Camp,,K068,0.05,Active
+C01439,P01266,N03,2023-01-19,FS1,2026-09-03,,,Lead,L001217,,0.1,Active
+C01440,P01267,N04,2023-11-28,Nursery,2026-09-03,,,Lead,L001614,,0.0,Active
+C01441,P01268,N05,2026-02-06,Infant,2026-09-03,,,Lead,L001991,,0.15,Active
+C01442,P01269,N06,2025-05-27,Toddler,2026-09-03,,,Lead,L002421,,0.0,Active
+C01443,P01270,N07,2025-10-27,Infant,2026-09-03,,,Lead,L002857,,0.0,Active
+C01444,P01271,N10,2024-05-06,Nursery,2026-09-03,,,Lead,L004045,,0.05,Active
+C01445,P01272,N01,2025-04-06,Toddler,2026-09-03,,,Camp,,K006,0.0,Active
+C01446,P01273,N05,2025-05-13,Toddler,2026-09-03,,,Camp,,K033,0.0,Active
+C01447,P00447,N06,2023-10-26,Nursery,2026-09-03,,,Camp,,K040,0.0,Active
+C01448,P01274,N07,2026-01-30,Infant,2026-09-03,,,Camp,,K047,0.0,Active
+C01449,P01275,N09,2025-09-25,Infant,2026-09-03,,,Camp,,K062,0.0,Active
+C01450,P01276,N09,2021-12-23,FS2,2026-09-03,,,Camp,,K062,0.0,Active
+C01451,P01277,N03,2023-08-07,FS1,2026-09-04,,,Lead,L001244,,0.15,Active
+C01452,P01278,N03,2024-10-09,Toddler,2026-09-04,,,Lead,L001264,,0.0,Active
+C01453,P01279,N04,2023-01-10,FS1,2026-09-04,,,Lead,L001642,,0.0,Active
+C01454,P01280,N06,2024-03-13,Nursery,2026-09-04,,,Lead,L002401,,0.05,Active
+C01455,P00518,N06,2025-08-12,Toddler,2026-09-04,,,Lead,L002451,,0.1,Active
+C01456,P01281,N05,2023-12-03,Nursery,2026-09-04,,,Camp,,K034,0.0,Active
+C01457,P01282,N08,2025-03-20,Toddler,2026-09-04,,,Camp,,K055,0.0,Active
+C01458,P01283,N09,2025-12-08,Infant,2026-09-04,,,Camp,,K062,0.15,Active
+C01459,P01284,N01,2025-01-14,Toddler,2026-09-05,,,Lead,L000324,,0.0,Active
+C01460,P01285,N03,2025-12-29,Infant,2026-09-05,,,Lead,L001242,,0.0,Active
+C01461,P01286,N06,2025-08-12,Toddler,2026-09-05,,,Lead,L002417,,0.0,Active
+C01462,P01287,N09,2025-11-10,Infant,2026-09-05,,,Lead,L003591,,0.0,Active
+C01463,P01288,N01,2022-03-30,FS2,2026-09-05,,,Camp,,K005,0.1,Active
+C01464,P01289,N07,2023-04-13,FS1,2026-09-05,,,Camp,,K047,0.05,Active
+C01465,P01290,N01,2025-07-22,Toddler,2026-09-06,,,Lead,L000277,,0.0,Active
+C01466,P01291,N01,2023-11-21,Nursery,2026-09-06,,,Lead,L000315,,0.1,Active
+C01467,P01292,N01,2026-01-22,Infant,2026-09-06,,,Lead,L000354,,0.0,Active
+C01468,P01293,N03,2025-10-25,Infant,2026-09-06,,,Lead,L001270,,0.0,Active
+C01469,P01294,N05,2024-05-07,Nursery,2026-09-06,,,Lead,L002036,,0.0,Active
+C01470,P01295,N06,2025-07-17,Toddler,2026-09-06,,,Lead,L002414,,0.1,Active
+C01471,P01296,N06,2025-02-02,Toddler,2026-09-06,,,Lead,L002429,,0.0,Active
+C01472,P01297,N07,2025-12-06,Infant,2026-09-06,,,Lead,L002808,,0.1,Active
+C01473,P01298,N07,2024-04-06,Nursery,2026-09-06,,,Lead,L002852,,0.05,Active
+C01474,P01299,N08,2024-10-26,Toddler,2026-09-06,,,Lead,L003240,,0.0,Active
+C01475,P01300,N10,2024-05-31,Nursery,2026-09-06,,,Lead,L003987,,0.0,Active
+C01476,P01301,N10,2025-02-21,Toddler,2026-09-06,,,Lead,L004019,,0.0,Active
+C01477,P01302,N07,2023-09-25,Nursery,2026-09-06,,,Camp,,K048,0.0,Active
+C01478,P01075,N08,2023-11-02,Nursery,2026-09-06,,,Camp,,K054,0.0,Active
+C01479,P01303,N08,2022-11-02,FS1,2026-09-06,,,Camp,,K054,0.0,Active
+C01480,P01304,N08,2025-09-27,Infant,2026-09-06,,,Camp,,K054,0.0,Active
+C01481,P01305,N04,2024-06-28,Nursery,2026-09-07,,,Lead,L001594,,0.15,Active
+C01482,P01306,N04,2026-03-12,Infant,2026-09-07,,,Lead,L001623,,0.0,Active
+C01483,P01307,N04,2024-11-15,Toddler,2026-09-07,,,Lead,L001661,,0.0,Active
+C01484,P01308,N06,2022-10-03,FS1,2026-09-07,,,Lead,L002400,,0.0,Active
+C01485,P01309,N10,2025-10-13,Infant,2026-09-07,,,Lead,L004060,,0.0,Active
+C01486,P01310,N04,2025-04-15,Toddler,2026-09-07,,,Camp,,K027,0.1,Active
+C01487,P01311,N05,2022-08-08,FS2,2026-09-07,,,Camp,,K033,0.0,Active
+C01488,P01312,N05,2023-09-22,Nursery,2026-09-07,,,Camp,,K034,0.0,Active
+C01489,P01313,N09,2024-11-26,Toddler,2026-09-07,,,Camp,,K061,0.0,Active
+C01490,P01314,N03,2025-10-26,Infant,2026-09-08,,,Lead,L001285,,0.1,Active
+C01491,P01315,N04,2025-09-29,Infant,2026-09-08,,,Lead,L001657,,0.1,Active
+C01492,P01316,N06,2023-12-14,Nursery,2026-09-08,,,Lead,L002377,,0.0,Active
+C01493,P01317,N06,2025-12-23,Infant,2026-09-08,,,Lead,L002378,,0.0,Active
+C01494,P01318,N07,2022-10-06,FS1,2026-09-08,,,Lead,L002853,,0.15,Active
+C01495,P01319,N08,2023-12-01,Nursery,2026-09-08,,,Lead,L003237,,0.0,Active
+C01496,P01320,N01,2025-11-02,Infant,2026-09-08,,,Camp,,K005,0.0,Active
+C01497,P00281,N04,2022-09-26,FS1,2026-09-08,,,Camp,,K027,0.0,Active
+C01498,P01321,N04,2022-10-04,FS1,2026-09-08,,,Camp,,K027,0.0,Active
+C01499,P01322,N01,2026-03-10,Infant,2026-09-09,,,Lead,L000294,,0.1,Active
+C01500,P01323,N02,2024-07-24,Nursery,2026-09-09,,,Lead,L000838,,0.0,Active
+C01501,P01324,N05,2023-08-19,FS1,2026-09-09,,,Lead,L001979,,0.0,Active
+C01502,P01325,N06,2023-06-24,FS1,2026-09-09,,,Lead,L002431,,0.0,Active
+C01503,P00516,N06,2025-01-05,Toddler,2026-09-09,,,Lead,L002458,,0.0,Active
+C01504,P01326,N07,2023-03-15,FS1,2026-09-09,,,Lead,L002798,,0.0,Active
+C01505,P01327,N07,2024-10-20,Toddler,2026-09-09,,,Lead,L002832,,0.0,Active
+C01506,P01328,N08,2023-05-31,FS1,2026-09-09,,,Lead,L003224,,0.0,Active
+C01507,P00613,N08,2025-05-22,Toddler,2026-09-09,,,Lead,L003250,,0.0,Active
+C01508,P01329,N09,2025-05-20,Toddler,2026-09-09,,,Lead,L003590,,0.0,Active
+C01509,P01330,N10,2025-02-05,Toddler,2026-09-09,,,Lead,L003984,,0.0,Active
+C01510,P01331,N03,2024-05-13,Nursery,2026-09-09,,,Camp,,K020,0.0,Active
+C01511,P01332,N03,2023-12-25,Nursery,2026-09-09,,,Camp,,K020,0.15,Active
+C01512,P01333,N04,2022-12-24,FS1,2026-09-09,,,Camp,,K027,0.0,Active
+C01513,P01334,N06,2023-12-05,Nursery,2026-09-09,,,Camp,,K041,0.1,Active
+C01514,P01335,N05,2025-07-08,Toddler,2026-09-10,,,Lead,L001988,,0.1,Active
+C01515,P01336,N05,2024-02-08,Nursery,2026-09-10,,,Lead,L001994,,0.0,Active
+C01516,P01337,N05,2024-09-16,Toddler,2026-09-10,,,Lead,L002028,,0.0,Active
+C01517,P01338,N06,2025-08-01,Toddler,2026-09-10,,,Lead,L002423,,0.0,Active
+C01518,P01339,N06,2023-09-16,Nursery,2026-09-10,,,Lead,L002440,,0.15,Active
+C01519,P01340,N08,2025-01-13,Toddler,2026-09-10,,,Lead,L003222,,0.1,Active
+C01520,P01341,N02,2023-06-28,FS1,2026-09-10,,,Camp,,K013,0.1,Active
+C01521,P01342,N03,2022-11-11,FS1,2026-09-10,,,Camp,,K020,0.0,Active
+C01522,P01343,N06,2024-06-30,Nursery,2026-09-10,,,Camp,,K041,0.0,Active
+C01523,P00599,N08,2022-07-12,FS2,2026-09-10,,,Camp,,K055,0.0,Active
+C01524,P01344,N01,2026-02-01,Infant,2026-09-11,,,Lead,L000352,,0.15,Active
+C01525,P01345,N02,2026-01-14,Infant,2026-09-11,,,Lead,L000821,,0.0,Active
+C01526,P01346,N04,2026-03-11,Infant,2026-09-11,,,Lead,L001637,,0.0,Active
+C01527,P00941,N06,2022-04-13,FS2,2026-09-11,,,Lead,L002442,,0.0,Active
+C01528,P01347,N08,2023-11-27,Nursery,2026-09-11,,,Lead,L003215,,0.0,Active
+C01529,P01195,N08,2024-08-01,Nursery,2026-09-11,,,Lead,L003238,,0.0,Active
+C01530,P01199,N10,2025-06-08,Toddler,2026-09-11,,,Lead,L004042,,0.1,Active
+C01531,P00192,N02,2024-10-09,Toddler,2026-09-12,2026-10-31,Relocation,Lead,L000800,,0.0,Left
+C01532,P01348,N02,2026-03-20,Infant,2026-09-12,,,Lead,L000839,,0.0,Active
+C01533,P01349,N02,2023-09-24,Nursery,2026-09-12,,,Lead,L000864,,0.0,Active
+C01534,P01128,N06,2023-01-29,FS1,2026-09-12,,,Lead,L002397,,0.0,Active
+C01535,P01350,N08,2023-03-29,FS1,2026-09-12,,,Lead,L003202,,0.0,Active
+C01536,P01351,N08,2025-02-14,Toddler,2026-09-12,,,Lead,L003247,,0.15,Active
+C01537,P01352,N10,2025-06-15,Toddler,2026-09-12,,,Lead,L004044,,0.0,Active
+C01538,P01353,N02,2025-01-27,Toddler,2026-09-13,,,Lead,L000861,,0.1,Active
+C01539,P01354,N05,2023-03-20,FS1,2026-09-13,,,Lead,L002043,,0.0,Active
+C01540,P01355,N05,2023-04-10,FS1,2026-09-13,,,Lead,L002056,,0.0,Active
+C01541,P01356,N06,2024-07-14,Nursery,2026-09-13,,,Lead,L002469,,0.15,Active
+C01542,P01357,N07,2025-10-15,Infant,2026-09-13,,,Lead,L002801,,0.0,Active
+C01543,P01358,N08,2023-05-09,FS1,2026-09-13,,,Lead,L003255,,0.0,Active
+C01544,P01359,N09,2024-07-21,Nursery,2026-09-13,,,Lead,L003548,,0.0,Active
+C01545,P01360,N09,2021-10-20,FS2,2026-09-13,,,Lead,L003561,,0.0,Active
+C01546,P01361,N09,2026-03-24,Infant,2026-09-13,,,Lead,L003572,,0.0,Active
+C01547,P01362,N10,2023-12-31,Nursery,2026-09-13,,,Lead,L003979,,0.0,Active
+C01548,P01363,N10,2022-10-01,FS1,2026-09-13,,,Lead,L003990,,0.0,Active
+C01549,P01364,N10,2024-06-03,Nursery,2026-09-13,,,Lead,L004010,,0.0,Active
+C01550,P01365,N10,2024-01-16,Nursery,2026-09-13,,,Lead,L004047,,0.0,Active
+C01551,P00698,N09,2024-12-21,Toddler,2026-09-14,,,Lead,L003575,,0.0,Active
+C01552,P01366,N10,2023-11-22,Nursery,2026-09-14,,,Lead,L004049,,0.0,Active
+C01553,P01367,N10,2024-03-12,Nursery,2026-09-14,,,Lead,L004054,,0.0,Active
+C01554,P01368,N02,2024-07-15,Nursery,2026-09-15,,,Lead,L000792,,0.15,Active
+C01555,P01369,N03,2023-11-13,Nursery,2026-09-15,,,Lead,L001234,,0.0,Active
+C01556,P01370,N05,2023-09-01,Nursery,2026-09-15,,,Lead,L001998,,0.0,Active
+C01557,P01371,N05,2023-12-26,Nursery,2026-09-15,,,Lead,L002001,,0.0,Active
+C01558,P01372,N08,2025-09-23,Infant,2026-09-15,,,Lead,L003230,,0.0,Active
+C01559,P01373,N10,2023-03-10,FS1,2026-09-15,2026-10-31,Other,Lead,L004005,,0.0,Left
+C01560,P01374,N03,2025-12-03,Infant,2026-09-16,,,Lead,L001325,,0.0,Active
+C01561,P01375,N09,2024-11-26,Toddler,2026-09-16,,,Lead,L003625,,0.1,Active
+C01562,P01376,N10,2025-02-24,Toddler,2026-09-16,,,Camp,,K069,0.0,Active
+C01563,P01377,N04,2022-12-02,FS1,2026-09-19,,,Camp,,K027,0.1,Active
+C01564,P01378,N07,2024-06-17,Nursery,2026-09-20,,,Camp,,K048,0.0,Active
+C01565,P01379,N06,2024-11-27,Toddler,2026-09-21,,,Lead,L002471,,0.1,Active
+C01566,P01380,N09,2026-04-05,Infant,2026-09-25,,,Lead,L003635,,0.0,Active
+C01567,P01381,N10,2025-02-24,Toddler,2026-09-26,,,Camp,,K069,0.0,Active
+C01568,P01382,N03,2026-04-22,Infant,2026-09-28,,,Lead,L001281,,0.1,Active
+C01569,P01383,N03,2025-08-06,Toddler,2026-09-29,,,Lead,L001309,,0.0,Active
+C01570,P01384,N07,2024-12-21,Toddler,2026-09-29,,,Camp,,K048,0.05,Active
+C01571,P01385,N01,2023-11-10,Nursery,2026-09-30,,,Lead,L000386,,0.0,Active
+C01572,P01386,N08,2024-10-10,Toddler,2026-10-03,,,Lead,L003271,,0.0,Active
+C01573,P01387,N06,2025-07-04,Toddler,2026-10-03,,,Camp,,K041,0.0,Active
+C01574,P01388,N01,2022-10-27,FS1,2026-10-04,,,Lead,L000357,,0.0,Active
+C01575,P01389,N01,2025-03-05,Toddler,2026-10-05,,,Lead,L000368,,0.0,Active
+C01576,P01390,N02,2024-01-10,Nursery,2026-10-06,,,Lead,L000902,,0.0,Active
+C01577,P01391,N06,2024-01-19,Nursery,2026-10-07,,,Lead,L002456,,0.0,Active
+C01578,P01392,N10,2025-01-22,Toddler,2026-10-09,,,Lead,L004069,,0.0,Active
+C01579,P01393,N05,2025-09-27,Infant,2026-10-10,,,Lead,L002066,,0.0,Active
+C01580,P01394,N09,2023-07-24,FS1,2026-10-10,,,Lead,L003643,,0.0,Active
+C01581,P01395,N06,2024-11-02,Toddler,2026-10-13,,,Lead,L002480,,0.0,Active
+C01582,P01396,N03,2022-12-16,FS1,2026-10-15,,,Lead,L001315,,0.0,Active
+C01583,P01397,N05,2024-06-23,Nursery,2026-10-16,,,Lead,L002077,,0.0,Active
+C01584,P01398,N02,2025-09-29,Infant,2026-10-22,,,Lead,L000901,,0.05,Active
+C01585,P01399,N01,2026-02-28,Infant,2026-10-23,,,Lead,L000380,,0.15,Active
+C01586,P01400,N03,2022-09-10,FS1,2026-10-24,,,Lead,L001343,,0.0,Active
+C01587,P01401,N08,2024-11-11,Toddler,2026-10-24,,,Lead,L003268,,0.0,Active
+C01588,P01402,N07,2026-01-25,Infant,2026-10-25,,,Lead,L002893,,0.0,Active
+C01589,P01403,N04,2026-04-05,Infant,2026-10-27,,,Lead,L001702,,0.0,Active
+C01590,P01404,N09,2025-07-30,Toddler,2026-10-27,,,Lead,L003630,,0.0,Active
+C01591,P01142,N02,2023-07-04,FS1,2026-10-31,,,Lead,L000895,,0.0,Active
+C01592,P01405,N08,2025-11-06,Infant,2026-10-31,,,Lead,L003287,,0.0,Active
