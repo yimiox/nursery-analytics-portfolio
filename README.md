@@ -45,6 +45,7 @@ cd python
 python generate_data.py --out ../data     # seed 9 -> identical data every run
 python load_sqlite.py                      # builds ../kfg.db
 python run_sql.py ../sql/08_red_flags.sql  # run any script
+python cashflow_forecast.py  # collections curve, backtest, 6-month cash forecast -> ../report/
 ```
 SQL was tested on SQLite; `sql/README_dialects.md` lists the swaps for SQL Server / PostgreSQL.
 
@@ -54,6 +55,7 @@ SQL was tested on SQLite; `sql/README_dialects.md` lists the swaps for SQL Serve
 - **Mix vs rate decomposition** (`sql/03` Q2): separates "channel got worse" from "we shifted toward a weaker channel".
 - **Significance test before flagging** (`sql/03` Q3): a two-proportion z-test stops small-sample noise becoming a "red flag".
 - **Operating leverage compared within each site** (`sql/05` Q3), because pooling sites confounds site quality with occupancy.
+- **Collection curve + conditional probability** (`python/cashflow_forecast.py`): cash timing learned from 2025 invoices, applied to open and future invoices; an already-late invoice uses P(pay at t | still unpaid) not the raw curve. Backtested out of sample (forecast Aug-Oct 2026 as of 31 Jul 2026).
 - **Reconciliation checks**: invoices tie exactly to P&L tuition revenue; camp conversions tie to child records.
 
 ## Limitations (honest)
@@ -70,7 +72,7 @@ the Excel workbook, dashboards and written analysis are my own work, and I can w
 ## Status
 - [x] Data generator and 8 CSVs
 - [x] SQL scripts 00-08, tested
-- [ ] Python payment & cash-flow forecast
-- [ ] Excel workbook (PivotTables + Power Query)
+- [x] Python payment & cash-flow forecast (`python/cashflow_forecast.py`, backtested)
+- [x] Excel workbook (PivotTables + Power Query), `excel/nursery_analysis.xlsx`
 - [ ] Tableau Public dashboards (3 views)
 - [ ] Management memo
